@@ -1,0 +1,501 @@
+﻿ID_Offre,Titre_Poste,Secteur,Entreprise,Ville,Region,Type_Contrat,Experience_Requise,Niveau_Etudes,Modalite_Travail,Salaire_Mensuel_DH,Langues_Requises,Competences_Cles,Date_Publication,Delai_Recrutement_Jours
+OFF-0001,Quality Manager,Industrie,Peugeot Maroc,rabat ,Rabat-Salé-Kénitra,contrat CDD,0 à 2 ans,Bac+2,sur site,7600,Français; Arabe,ISO 9001; Lean Manufacturing,2024-05-31,999
+OFF-0002,CM,Commerce,Accenture Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,Cdi,2-5 ans,Sans diplôme requis,PRÉSENTIEL,,Français; Anglais,CRM; Analyse de marché,2024-10-29,999
+OFF-0003,Ingénieur de production,Industrie,Maroc Telecom,Casa,Casablanca-Settat,C.D.I,junior,Bac+5 / Master,presentiel,6600-7920,Français; Anglais; Arabe,AMDEC; Lean Manufacturing; ISO 9001,30 April 2024,18
+OFF-0004,Marketing Digital,Commerce,ONCF,CASABLANCA,Casablanca-Settat,freelance,junior,Bac+2,Sur site,10100,Français; Anglais,Négociation; Email Marketing; SEO; Excel,2024-10-14,21
+,,,,,,,,,,,,,,
+OFF-0006,HR Manager,Finance & RH,RENAULT MAROC,Meknes,,Cdi,Expérimenté,Bac+3,HYBRIDE,13700,Français; Arabe,Audit; Excel avancé; Consolidation; SAP; Paie,2024-10-14,23
+OFF-0007,frontend developer,IT & Tech,Managem,Tanjah,Tanger-Tétouan-Al Hoceïma,STAGE,2 à 5 ans,Bac+3,presentiel,4093,Français / Arabe,Git; Azure; Agile/Scrum; Node.js; JavaScript,2024-05-31,20
+OFF-0008,Resp. Commercial,Commerce,Maroc Telecom,KÉNITRA,Rabat-Salé-Kénitra,contrat CDI,0-2 ans,Bac+5 / Master,sur site,8k,Français,CRM; Analyse de marché; Email Marketing; SEO; Salesforce,11/10/2024,33
+OFF-0009,chef de projet,IT & Tech,RAM,marrakech,,CONTRAT CDI,2 à 5 ans,Sans diplôme requis,présentiel,17300,Français; Anglais,Docker; Azure,2024-03-28,34
+OFF-0009,chef de projet,IT & Tech,RAM,marrakech,,CONTRAT CDI,2 à 5 ans,Sans diplôme requis,présentiel,17300,Français; Anglais,Docker; Azure,2024-03-28,34
+OFF-0011,RESPONSABLE RH,Finance & RH,Atlantic Digital,agadir,Souss-Massa,CDI ,Junior,Bac+5 / Master,presentiel,,Français; Arabe,SAGE; Audit; Droit du travail,2024-07-26,33
+OFF-0012,Admin Système,IT & Tech,Capgemini Maroc,casablanca,Casablanca-Settat,cdi,5 à 8 ans,Bac+2,En présentiel,15000 DH,Français,Java / Agile/Scrum,2024-12-27,34 jours
+OFF-0013,pharmacien,Santé,PwC Maroc,Casa,Casablanca-Settat,freelancer,2 à 5 ans,Bac+3,hybride,15000,"Français, Anglais, Arabe",Éthique médicale; Diagnostic; Pharmacologie; Soins infirmiers,2024-09-19,11
+OFF-0014,INGÉNIEUR GÉNIE CIVIL,BTP,BMCE Bank,Casablanca,,CDI ,0/2 ans,Bac+3,présentiel,,Français; Anglais; Arabe,Revit; Béton armé; AutoCAD; Gestion de chantier,27 June 2024,12
+OFF-0015,data-scientist,IT & Tech,ONCF,Casablanca,Casablanca-Settat,Cdi,2-5 ans,Bac+3,teletravail,15300,Français; Anglais; Arabe,MONGODB; TYPESCRIPT,2025-02-28,14
+OFF-0016,Ingénieur réseau,IT & Tech,Ernst & Young Maroc,Casablanca-Settat,,contrat CDI,2/5 ans,,Hybride,12600,Anglais,JavaScript; TypeScript; Power BI,2025-01-04,13
+OFF-0017,Audit Financier,Finance & RH,OCP GROUP,Kenitra,Rabat-Salé-Kénitra,Cdi,0-2 ans,Bac+5 / Master,Hybride,9600-11520,Anglais,"IFRS, Droit du travail, Consolidation",2025-02-17,18
+OFF-0018,Community manager,Commerce,Deloitte Maroc,Oujda,Oriental,contrat CDI,Senior,Bac+5 / Master,Hybride,8700,Français; Anglais; Arabe,"SEO, Google Ads, Email Marketing",2024-10-22,19
+OFF-0019,Ingénieur civil,BTP,Attijariwafa Bank,Marrakech,,Cdi,2-5 ans,Bac+5 / Master,Sur site,9400,Français; Arabe,MS Project; Revit,2024-12-10,999
+OFF-0020,Guide,Tourisme,Peugeot Maroc,casablanca,Casablanca-Settat,CDD,Junior,Bac+5 / Master,En présentiel,4000,Français; Anglais; Arabe,Langues étrangères; Gestion réservations,2024-12-11,40
+OFF-0021,PRODUCT MANAGER,IT & Tech,UM6P,casablanca,Casablanca-Settat,CDI ,2/5 ans,Sans diplôme requis,En présentiel,15600,Français; Arabe,"TypeScript, React, AWS, Kubernetes, Git",2024-10-30,41
+OFF-0022,Marketing Digital,Commerce,Orange Maroc,Tanjah,,Stagiaire,2/5 ans,Bac+3,PRÉSENTIEL,4184,Français,Salesforce; Négociation; Excel; Email Marketing,2024-05-05,34
+OFF-0023,pharmacien,Santé,atlantic digital,FÈS,Fès-Meknès,CDI ,2 à 5 ans,Bac+2,En présentiel,14100,Français; Anglais,Soins infirmiers / Pharmacologie / Éthique médicale,2024-10-21,7
+OFF-0024,UX Designer,IT & Tech,Ernst & Young Maroc,MEKNÈS,Fès-Meknès,Stage,confirmé,Bac+3,Hybride,2630,Français; Arabe,Git; Agile/Scrum; TypeScript; MongoDB,2024-12-20,41
+OFF-0025,INGÉNIEUR PRODUCTION,Industrie,DataVision Maroc,marrakech,Marrakech-Safi,CDD,0/2 ans,Bac+5 / Master,présentiel,6k,Français; Anglais,LEAN MANUFACTURING; ISO 9001; PLC/SCADA; AMDEC; AUTOCAD,2024-07-14,
+OFF-0026,Product Owner,IT & Tech,SII Group,tanger,Tanger-Tétouan-Al Hoceïma,CDI ,2-5 ans,Bac+5 / Master,presentiel,13200,Français; Anglais,"Node.js, JavaScript, Git",01/01/1900,22
+OFF-0027,devops engineer,IT & Tech,Lydec,Casablanca,Casablanca-Settat,cdi,junior,Sans diplôme requis,sur site,10700,Français; Anglais,"REST API, Power BI, Agile/Scrum, Kubernetes",2024-10-14,36
+OFF-0028,Dat Engineer,IT & Tech,Alten Maroc,meknes,Fès-Meknès,STAGE,2-5 ans,Bac+2,En présentiel,3017,Français; Anglais; Arabe,SQL / REST API / AWS / Python,05 June 2024,21
+OFF-0029,admin sys,,Atlantic Digital,CASABLANCA,Casablanca-Settat,Free-lance,Débutant,Bac+3,PRÉSENTIEL,9600,Français; Anglais,Azure; Python; REST API; Agile/Scrum; Docker,2024-09-05,37
+OFF-0030,BACKEND DEVELOPER,IT & Tech,Label'Vie,Caza,Casablanca-Settat,Alternance,débutant,Bac+5 / Master,TÉLÉTRAVAIL,4264,Français; Arabe,Java; Kubernetes,01/12/2024,-1
+OFF-0031,commercial b2b,Commerce,Managem,Agadir,Souss-Massa,CONTRAT CDI,Junior,Bac+3,HYBRIDE,6k,Français; Anglais; Arabe,"Google Ads, Excel, CRM, Email Marketing",2024-08-04,37
+OFF-0032,chargé marketing,Commerce,Lafarge Holcim,RABAT,Rabat-Salé-Kénitra,Cdi,2-5ans,Bac+5 / Master,PRÉSENTIEL,9100,Anglais,,2024-06-09,21
+OFF-0033,medecin generaliste,SANTÉ,inwi,MARRAKECH,Marrakech-Safi,CONTRAT CDI,2-5ans,Bac+5 / Master,Présentiel,19900,,SOINS INFIRMIERS; ÉTHIQUE MÉDICALE; DIAGNOSTIC; PHARMACOLOGIE,2024-09-07,18
+OFF-0034,dev frontend,IT & Tech,CGI Maroc,Caza,Casablanca-Settat,cdd,2-5 ans,Bac+3,sur site,8900,Français; Anglais; Arabe,JavaScript / TypeScript / REST API / Kubernetes / React,2024-05-01,18
+OFF-0035,RÉCEPTIONNISTE,Tourisme,SII Group,Marrakch,Marrakech-Safi,C.D.I,Senior,Bac+5 / Master,Hybrid,7100-8520,Anglais,Pack Office; Gestion réservations; Accueil client,09/05/2024,11
+OFF-0036,Responsable RH,Finance & RH,Carrefour Maroc,rabat ,Rabat-Salé-Kénitra,contrat CDD,5/8 ans,Bac+5 / Master,PRÉSENTIEL,10300,Anglais,SAGE; Droit du travail; Paie; Consolidation; IFRS,2024-07-21,39
+OFF-0037,BI Analyst,IT & Tech,RAM,Casablanca,Casablanca-Settat,Cdd,Expérimenté,BAC+5 / MASTER,présentiel,14000,Français; Anglais; Arabe,Agile/Scrum; Azure; Python; Linux; SQL,11-18-2024,13
+OFF-0038,CDG,Finance & RH,Deloitte Maroc,Caza,Casablanca-Settat,cdi,senior,Bac+2,TÉLÉTRAVAIL,15700,Français; Arabe,SAGE; Excel avancé; Audit; Droit du travail; Paie,2024-03-30,999
+OFF-0039,backend dev,IT & Tech,Marjane,Fès,Fès-Meknès,FREELANCE,5 à 8 ans,Bac+2,Remote partiel,20800,Français; Anglais; Arabe,Java; JavaScript; SQL; React; MongoDB,2024-05-12,37
+OFF-0040,Data Sientist,,RAM,rabat ,Rabat-Salé-Kénitra,freelancer,2-5ans,Bac+5 / Master,Remote,19300,Français; Anglais,"TensorFlow, Kubernetes, Docker",20/02/2025,43
+OFF-0041,Comptable Général,Finance & RH,CIH Bank,rabat ,Rabat-Salé-Kénitra,CONTRAT CDI,2-5ans,Bac+3,presentiel,6500,Français; Anglais; Arabe,IFRS; SAGE; SAP; Excel avancé,2024-07-27,9
+OFF-0042,Infirmier/ère,Santé,PwC Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,cdd,2 à 5 ans,Bac+3,télétravail,7800 DH,Français; Anglais; Arabe,Soins infirmiers - Diagnostic - Éthique médicale,01/01/1900,21
+OFF-0043,Infirmier/ère,Santé,Orange Maroc,Agadir,,contrat CDI,2/5 ans,,présentiel,7400,Français,Diagnostic; Éthique médicale; Soins infirmiers,2024-09-07,11
+OFF-0044,comptable,Finance & RH,OCP Group,TANGER,Tanger-Tétouan-Al Hoceïma,CDI,0 à 2 ans,Bac+5 / Master,sur site,5200,Anglais,Droit du travail; IFRS,2024-04-22,39
+OFF-0045,PHARMACIEN,Santé,PwC Maroc,Tanger,,CDI ,5-8 ans,Bac+5 / Master,télétravail,16900,Français; Anglais,Diagnostic; Éthique médicale; Pharmacologie; Soins infirmiers,2024-05-30,45
+OFF-0046,RESPONSABLE COMMERCIAL,Commerce,Atlantic Digital,Casablanca-Settat,Casablanca-Settat,cdd,8 ans et plus,Bac+5 / Master,présentiel,19600,Français,Négociation; Email Marketing; Salesforce; CRM,2024-06-07,33
+OFF-0047,Developpeur FullStack,IT & Tech,Vivo Energy,marrakech,Marrakech-Safi,cdi,Senior,Bac+2,Remote partiel,15100,Français; Anglais; Arabe,Azure / Docker / Java,2024-10-20,23
+OFF-0048,tech maintenance,industrie,Renault Maroc,Fes,,STAGE,2 à 5 ans,Bac+3,TÉLÉTRAVAIL,4933,Français,AUTOCAD; PLC/SCADA; AMDEC,,38
+OFF-0049,Réceptionniste hôtel,Tourisme,TechMa Solutions,Casablanca,Casablanca-Settat,CDI,5-8 ans,Bac+5 / Master,Sur site,6500,Français; Anglais; Arabe,Accueil client; Gestion réservations,2024-07-30,8
+OFF-0050,RESPONSABLE RH,Finance & RH,Alten Maroc,rabat ,Rabat-Salé-Kénitra,Freelance,Senior,,Sur site,17100,Français; Arabe,Droit du travail; Audit; Paie; SAGE; SAP,2024-09-21,37
+OFF-0051,Chef de Produit,,Capgemini Maroc,Rabat,,Stage de fin d'études,0/2 ans,,Présentiel,3095,Français; Arabe,Python; TypeScript; SQL; Azure; REST API,2024-05-03,20
+OFF-0052,Data Engneer,IT & Tech,Orange Maroc,RABAT,,CONTRAT CDI,0 à 2 ans,Bac+8 / Doctorat,Remote partiel,9900,Français; Anglais; Arabe,Power BI / Kubernetes,2024-06-01,-3
+OFF-0053,analyste financier,Finance & RH,Label'Vie,Agadir,,CONTRAT CDI,Confirmé,Bac+5 / Master,presentiel,10300,,Droit du travail; Consolidation; Audit; Excel avancé,08/09/2024,15
+OFF-0054,Pharmacien d'officine,Santé,RAM,MARRAKECH,Marrakech-Safi,CDI,junior,Bac+5 / Master,sur site,9500,Français; Anglais,Éthique médicale; Pharmacologie; Soins infirmiers,2024-07-03,999
+OFF-0055,Technicien maintenance,Industrie,Peugeot Maroc,Caza,Casablanca-Settat,freelance,5-8 ans,Bac+3,Remote partiel,10500 ,Français; Anglais,Lean Manufacturing; AMDEC; ISO 9001; AutoCAD; PLC/SCADA,2024-04-18,19
+OFF-0056,ux-ui designer,IT & Tech,Vivo Energy,Marrakech,Marrakech-Safi,CDD ,2 à 5 ans,,teletravail,8600-10320,Français,"AWS, Java, Agile/Scrum, MongoDB, SQL",2025-03-01,35
+OFF-0057,Ingénieur ML,IT & Tech,cih bank,casablanca,Casablanca-Settat,Cdi,2-5ans,BAC+3,Hybrid,17000,Français; Anglais; Arabe,MongoDB - Python - SQL,2024-08-24,10
+OFF-0057,Ingénieur ML,IT & Tech,cih bank,casablanca,Casablanca-Settat,Cdi,2-5ans,BAC+3,Hybrid,17000,Français; Anglais; Arabe,MongoDB - Python - SQL,2024-08-24,10
+OFF-0059,CDG,Finance & RH,deloitte maroc,MARRAKECH,Marrakech-Safi,Free-lance,Confirmé,Bac+3,Sur site,16k,Anglais,"Droit du travail, Paie, SAP, SAGE",2024-08-25,18
+OFF-0060,MARKETING DIGITAL,Commerce,SII GROUP,Casa,Casablanca-Settat,Freelance,8+,Sans diplôme requis,sur site,21700,Français; Anglais,EXCEL; SALESFORCE; EMAIL MARKETING; CRM,05-23-2024,10
+OFF-0060,MARKETING DIGITAL,Commerce,SII GROUP,Casa,Casablanca-Settat,Freelance,8+,Sans diplôme requis,sur site,21700,Français; Anglais,EXCEL; SALESFORCE; EMAIL MARKETING; CRM,05-23-2024,10
+OFF-0062,Dev Backend,IT & Tech,Lafarge Holcim,Caza,Casablanca-Settat,freelance,2/5 ans,Bac+5 / Master,présentiel,16500,Anglais,AWS; Java; TensorFlow,2024-03-14,14
+OFF-0063,CHEF DE PROJET IT,IT & Tech,TechMa Solutions,Caza,Casablanca-Settat,CDI ,2/5 ans,Bac+3,Work from home,16400,Français,Linux; Agile/Scrum; Node.js; Docker; MongoDB,2025-01-27,13
+OFF-0064,Technicien maintenance,Industrie,ACCENTURE MAROC,TÉTOUAN,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,Senior,Bac+3,En présentiel,9100,Français; Anglais,PLC/SCADA; Lean Manufacturing; SolidWorks; AutoCAD,2024-07-09,32
+OFF-0065,Ingénieur de production,Industrie,HPS,rabat ,Rabat-Salé-Kénitra,Cdd,5/8 ans,Bac+5 / Master,Présentiel,11500,Français; Anglais; Arabe,Lean Manufacturing; PLC/SCADA; SolidWorks; AutoCAD,2024-12-15,11
+OFF-0066,admin sys,IT & Tech,HPS,MARRAKECH,,Cdi,Expert,Bac+8 / Doctorat,Full remote,15500,,Azure; Git,2024-03-10,40
+OFF-0067,Cyber Sécurité Analyst,IT & Tech,SII Group,Rabat-Salé,Rabat-Salé-Kénitra,Indépendant,0/2 ans,Sans diplôme requis,sur site,12900,Français; Anglais; Arabe,Java; Linux; Azure,2024-05-14,40
+OFF-0068,Machine Learning Engineer,IT & Tech,Lydec,CASABLANCA,Casablanca-Settat,freelance,5-8 ans,Bac+5 / Master,Remote,26700,Français,"Git, React, AWS",2024-07-11,9
+OFF-0069,gestionnaire de paie,Finance & RH,Attijariwafa Bank,Marrakesh,Marrakech-Safi,contrat CDI,2 à 5 ans,Bac+3,sur site,8500,Anglais,IFRS; SAP; Droit du travail,2024-07-29,41
+OFF-0070,Data scientist,IT & Tech,Accenture Maroc,Tanger-Med,,CONTRAT CDI,0-2ans,Bac+2,En présentiel,9900,Français; Anglais; Arabe,SQL; REST API; Agile/Scrum; Power BI,2024-08-18,23
+OFF-0071,TECHNICIEN MAINTENANCE,Industrie,Lafarge Holcim,tanger,Tanger-Tétouan-Al Hoceïma,stage,senior,BAC+5 / MASTER,Télétravail,3918,"Français, Anglais, Arabe",AutoCAD; AMDEC; ISO 9001; Lean Manufacturing,01 February 2025,7
+OFF-0072,HR Manager,Finance & RH,DataVision Maroc,CASABLANCA,Casablanca-Settat,cdi,2-5 ans,Bac+5 / Master,Mixte,8900-10680,"Français, Anglais, Arabe",Consolidation; Excel avancé; SAGE; IFRS; SAP,2024-06-28,13
+OFF-0073,Analyste Finance,Finance & RH,Maroc Telecom,tanger,Tanger-Tétouan-Al Hoceïma,Indépendant,Senior,Bac+5 / Master,hybride,22100,Français; Anglais,"Excel avancé, Droit du travail, Paie, SAP",2024-06-23,10
+OFF-0074,BI Analyst,,LAFARGE HOLCIM,Tanjah,Tanger-Tétouan-Al Hoceïma,CDI,2-5ans,Bac+2,En présentiel,12300 DH,Français,Power BI; Git; JavaScript,2024-10-22,33
+OFF-0075,DevOps,IT & Tech,Peugeot Maroc,Tanger,Tanger-Tétouan-Al Hoceïma,Free-lance,Senior,Bac+5 / Master,Sur site,26500,Français,JavaScript / Linux / TypeScript / REST API / Python,,-5
+OFF-0076,receptionniste hotel,Tourisme,Total Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,CDI,Confirmé,BAC+5 / MASTER,PRÉSENTIEL,4700,Anglais,"Pack Office, Accueil client, Gestion réservations, Langues étrangères",2024-04-05,38
+OFF-0077,medecin generaliste,,Akdital,Marrakesh,,Cdi,Confirmé,Bac+5 / Master,présentiel,18700,Français,Diagnostic; Pharmacologie; Éthique médicale; Soins infirmiers,2024-11-14,7
+OFF-0078,tech maintenance,Industrie,UM6P,Caza,Casablanca-Settat,Indépendant,confirmé,Bac+5 / Master,Hybrid,10600,,AutoCAD; PLC/SCADA; ISO 9001; AMDEC; Lean Manufacturing,2025-01-09,43
+OFF-0079,Gestionnaire paie,Finance & RH,Label'Vie,Marrakech,Marrakech-Safi,Stage PFE,2/5 ans,Sans diplôme requis,En présentiel,4730,Français / Anglais,Droit du travail; Consolidation; Audit,2024-06-05,42
+OFF-0080,comptable,Finance & RH,Atlantic Digital,Oujda-Angad,Oriental,cdd,2-5ans,Bac+5 / Master,Remote,5700,Français; Anglais,Consolidation; Excel avancé; SAGE,2024-05-02,21
+OFF-0081,RESPONSABLE RH,Finance & RH,Lydec,TANGER,Tanger-Tétouan-Al Hoceïma,CDI,0-2ans,Bac+5 / Master,Hybrid,,Français,"Paie, SAGE, Excel avancé, IFRS",2024-09-15,27
+OFF-0082,cyber analyst,IT & Tech,Vivo Energy,Agadir-Ida,Souss-Massa,Cdi,0-2ans,Bac+3,TÉLÉTRAVAIL,11000,Français,"Linux, TensorFlow, SQL, Agile/Scrum",2024-05-04,39 jours
+OFF-0083,Developpeur FullStack,IT & Tech,kpmg maroc,Tanger-Med,Tanger-Tétouan-Al Hoceïma,cdi,Expert,Bac+3,hybride,19600,Français,React; Node.js,2025-01-01,24
+OFF-0084,backend developer,IT & Tech,KPMG Maroc,Casa,Casablanca-Settat,CDI ,5 à 8 ans,Bac+5 / Master,Remote partiel,14900,Français; Anglais; Arabe,Kubernetes; Git,2024-03-10,-2
+OFF-0085,Responsable commercial,Commerce,HPS,rabat,Rabat-Salé-Kénitra,Freelance,2 à 5 ans,Sans diplôme requis,Présentiel,13800-16560,Français; Arabe,"Analyse de marché, Salesforce, Négociation, CRM",2024-07-29,16 jours
+OFF-0086,Guide,Tourisme,MARJANE,Tanger,Tanger-Tétouan-Al Hoceïma,Stage de fin d'études,2-5ans,Sans diplôme requis,Présentiel,,Français,"Gestion réservations, Langues étrangères, Accueil client, Pack Office",2024-06-10,25
+OFF-0087,guide,Tourisme,Lydec,Rabat-Salé,Rabat-Salé-Kénitra,Free-lance,5-8 ans,Bac+5 / Master,Full remote,8700,Anglais,Langues étrangères; Pack Office; Gestion réservations; Accueil client,2025-01-26,11
+OFF-0088,Ingénieur ML,IT & Tech,Accenture Maroc,Tanger,Tanger-Tétouan-Al Hoceïma,C.D.I,Junior,Bac+2,Hybrid,13400,Français; Arabe,"Linux, Java, SQL",2024-04-17,9
+OFF-0089,RESPONSABLE COMMERCIAL,Commerce,Total Maroc,Casa,Casablanca-Settat,C.D.I,2-5ans,Bac+5 / Master,teletravail,12500,Français; Anglais,Négociation; Email Marketing; SEO; CRM,01/01/1900,36
+OFF-0090,Commercial,Commerce,Marjane,agadir,Souss-Massa,contrat CDI,5 à 8 ans,Bac+3,Sur site,,Français; Arabe,SEO; Google Ads,,15
+OFF-0091,DevOps,IT & Tech,ONCF,Casablanca,,CONTRAT CDI,0/2 ans,Sans diplôme requis,En présentiel,10300,Français; Anglais; Arabe,Linux; Kubernetes,2024-11-17,14 jours
+OFF-0092,Resp. Commercial,Commerce,Alten Maroc,CASABLANCA,,CONTRAT CDI,2 à 5 ans,Bac+5 / Master,PRÉSENTIEL,11700,Français,Excel - Analyse de marché - Google Ads - SEO,2024-10-27,29
+OFF-0093,Responsable qualité,Industrie,Alten Maroc,Caza,Casablanca-Settat,cdi,0-2ans,Bac+5 / Master,Mixte,6700,Français; Anglais; Arabe,PLC/SCADA; SolidWorks; ISO 9001; AutoCAD; AMDEC,2024-12-21,37
+OFF-0094,Project Manager IT,IT & Tech,Alten Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,contrat CDI,0 à 2 ans,Bac+5 / Master,hybride,11000,Français; Anglais; Arabe,Linux - Git - Power BI - TypeScript,01/01/1900,10
+OFF-0095,INGÉNIEUR PRODUCTION,Industrie,ONCF,Agadir,Souss-Massa,cdd,0 à 2 ans,Bac+5 / Master,En présentiel,5800 DH,Français; Arabe,,2024-05-28,44
+OFF-0096,CONTROLEUR DE GESTION,Finance & RH,Accenture Maroc,RABAT,,CDI,2/5 ans,Bac+5 / Master,Hybrid,10900 ,Français; Arabe,"IFRS, Audit",2024-10-27,7
+OFF-0097,Frontend Dev,,KPMG Maroc,Meknès,Fès-Meknès,Stage PFE,0 à 2 ans,Bac+5 / Master,Présentiel,4308,Anglais,Agile/Scrum; Power BI; Kubernetes; JavaScript,2024-04-30,7
+OFF-0098,ing production,Industrie,KPMG Maroc,casablanca,Casablanca-Settat,CDI ,0-2 ans,Bac+3,Hybrid,7700,Français; Anglais,PLC/SCADA; AutoCAD; SolidWorks,2024-07-12,17
+OFF-0099,Auditeur,Finance & RH,Peugeot Maroc,rabat ,Rabat-Salé-Kénitra,cdd,8+,BAC+5 / MASTER,Sur site,17100,Français; Anglais; Arabe,CONSOLIDATION; SAGE,2025-02-06,16
+OFF-0100,ML Ingénieur,IT & Tech,PwC Maroc,Marrakech,,contrat CDD,5/8 ans,Bac+3,En présentiel,17900,Anglais,Power BI; Azure; Agile/Scrum; Kubernetes; JavaScript,2024-12-30,43
+OFF-0101,PM,IT & Tech,Deloitte Maroc,rabat ,Rabat-Salé-Kénitra,CDD ,junior,Bac+5 / Master,HYBRIDE,,Anglais,Node.js; TypeScript; Agile/Scrum,2024-11-30,37
+OFF-0102,développeur full-stack,IT & Tech,DataVision Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,CDI ,2 à 5 ans,Bac+3,Remote partiel,11800,Anglais,Git; Azure; React; Docker; AWS,2024-06-21,26
+OFF-0103,analyste financier,Finance & RH,Attijariwafa Bank,rabat ,Rabat-Salé-Kénitra,contrat CDD,0 à 2 ans,Bac+3,PRÉSENTIEL,8100,Français,,2024-09-03,29
+OFF-0104,Responsable qualité,Industrie,Deloitte Maroc,marrakech,Marrakech-Safi,Freelance,Junior,Bac+8 / Doctorat,sur site,11200,Anglais,PLC/SCADA / ISO 9001,2024-05-17,23
+OFF-0105,MARKETING DIGITAL,commerce,Ernst & Young Maroc,RABAT,Rabat-Salé-Kénitra,FREELANCE,2-5 ans,Bac+5 / Master,Présentiel,10900,Français; Arabe,"Excel, Salesforce, SEO, Google Ads",01-27-2025,35
+OFF-0105,MARKETING DIGITAL,commerce,Ernst & Young Maroc,RABAT,Rabat-Salé-Kénitra,FREELANCE,2-5 ans,Bac+5 / Master,Présentiel,10900,Français; Arabe,"Excel, Salesforce, SEO, Google Ads",01-27-2025,35
+OFF-0107,Génie Civil,BTP,Lafarge Holcim,casablanca,,STAGE,2-5ans,Sans diplôme requis,télétravail,3075,Français,Béton armé; AutoCAD; Revit,2024-05-16,39
+OFF-0108,RESPONSABLE RH,Finance & RH,Université Hassan II,TANGER,Tanger-Tétouan-Al Hoceïma,freelance,confirmé,Sans diplôme requis,Télétravail,12600,Français; Anglais,SAP / Droit du travail / Excel avancé,2024-10-26,18
+OFF-0109,Machine Learning Engineer,IT & Tech,Inwi,Rabat-Salé,Rabat-Salé-Kénitra,CDI ,débutant,Bac+2,Remote,13800,Français; Anglais,Java; Node.js; TypeScript; AWS,2024-12-10,38
+OFF-0110,Marketing Digital,Commerce,Managem,Kénitra,,C.D.I,8+,Bac+3,Sur site,16300,,NÉGOCIATION; ANALYSE DE MARCHÉ,01/01/1900,22
+OFF-0111,FRONTEND DEVELOPER,IT & Tech,KPMG Maroc,Marrakesh,Marrakech-Safi,C.D.I,Confirmé,BAC+3,presentiel,10200,Français; Arabe,TypeScript; Azure; Node.js; MongoDB; Git,2024-03-31,38
+OFF-0112,comptable junior,Finance & RH,HPS,Tanger-Med,Tanger-Tétouan-Al Hoceïma,C.D.D,5 à 8 ans,Bac+3,télétravail,8000 DH,Français,SAGE; Excel avancé,2024-12-27,12
+OFF-0113,Cybersécurité,,Deloitte Maroc,rabat,,cdd,2-5ans,Bac+5 / Master,PRÉSENTIEL,12k,Français; Anglais; Arabe,,2025-02-10,35
+OFF-0114,RÉCEPTIONNISTE,Tourisme,KPMG Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,Freelance,5/8 ans,Bac+3,PRÉSENTIEL,9400,Français; Anglais,Langues étrangères; Pack Office; Gestion réservations; Accueil client,2024-04-09,29
+OFF-0115,ML Ingénieur,IT & Tech,Label'Vie,TANGER,Tanger-Tétouan-Al Hoceïma,Free-lance,confirmé,Bac+2,En présentiel,22300,Français; Anglais; Arabe,React; Node.js; MongoDB; SQL; Java,2024-06-17,27
+OFF-0116,chargé marketing,Commerce,UM6P,Casa,Casablanca-Settat,cdi,0-2 ans,Bac+5 / Master,PRÉSENTIEL,7k,Français; Anglais,Email Marketing; Salesforce; Négociation; SEO,2024-07-10,11
+OFF-0117,Ingénieur de production,Industrie,Orange Maroc,marrakech,Marrakech-Safi,cdd,5-8 ans,Bac+8 / Doctorat,PRÉSENTIEL,12100,Français; Anglais; Arabe,SolidWorks; AutoCAD; Lean Manufacturing; PLC/SCADA,02-19-2025,23
+OFF-0118,BI Analyst,IT & Tech,HPS,CASABLANCA,,C.D.I,2-5 ans,Bac+5 / Master,PRÉSENTIEL,10500,Français,Agile/Scrum; Node.js; JavaScript,2024-11-14,21
+OFF-0119,Guide,Tourisme,CGI Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,Cdi,2-5 ans,Bac+5 / Master,Sur site,4k,Français; Anglais; Arabe,Accueil client; Pack Office,2024-11-06,25 jours
+OFF-0120,commercial b 2 b,Commerce,CGI Maroc,Rabat,Rabat-Salé-Kénitra,freelance,confirmé,Bac+3,En présentiel,12500,Français; Anglais,Google Ads; Email Marketing; SEO; CRM; Salesforce,2024-07-31,19
+OFF-0121,CONDUCTEUR TRAVAUX,BTP,Attijariwafa Bank,casablanca,Casablanca-Settat,contrat CDD,5-8 ans,Bac+3,Hybrid,11800,Français; Anglais; Arabe,MS Project; AutoCAD; Béton armé; Gestion de chantier; Revit,2024-04-08,25
+OFF-0122,ML Ingénieur,IT & Tech,Capgemini Maroc,CASABLANCA,Casablanca-Settat,contrat CDI,2/5 ans,Sans diplôme requis,presentiel,14900,Français; Anglais; Arabe,TypeScript; AWS; Node.js; REST API,2024-07-09,
+OFF-0123,Marketing Digital,Commerce,PEUGEOT MAROC,FÈS,Fès-Meknès,Free-lance,Senior,Bac+5 / Master,Hybrid,17800 ,Français; Anglais; Arabe,Email Marketing; Google Ads; Négociation; CRM,2024-03-01,35
+OFF-0124,ingenieur reseau,IT & Tech,Peugeot Maroc,marrakech,Marrakech-Safi,cdi,0/2 ans,Bac+5 / Master,Work from home,8500 DH,Français,SQL; Azure; Git,2024-07-28,29
+OFF-0125,Data engineer,IT & Tech,Marjane,TANGER,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,Confirmé,Bac+2,presentiel,15300,Anglais,"Git, JavaScript, REST API",05-20-2024,23
+OFF-0126,ML Ingénieur,IT & Tech,Maroc Telecom,RABAT,Rabat-Salé-Kénitra,Cdi,confirmé,Bac+2,presentiel,17000,Français; Arabe,Linux; MongoDB; REST API,2024-09-28,999
+OFF-0127,Power BI Developer,IT & Tech,KPMG Maroc,Caza,Casablanca-Settat,C.D.D,Débutant,Bac+5 / Master,présentiel,9000-10800,Français,"Node.js, REST API",2024-10-08,
+OFF-0128,UX Designer,IT & Tech,inwi,Fez,Fès-Meknès,CDI,Confirmé,Bac+3,Hybride,10500,Anglais,AWS; TypeScript; Node.js; TensorFlow; React,01-13-2025,41
+OFF-0129,Sysadmin,IT & TECH,Orange Maroc,Casablanca,Casablanca-Settat,CDI ,8+ ans,Bac+5 / Master,HYBRIDE,17600,Français; Anglais; Arabe,Agile/Scrum; Java,2024-06-18,23
+OFF-0130,Marketer Digital,Commerce,SII Group,RABAT,Rabat-Salé-Kénitra,CONTRAT CDI,senior,Bac+5 / Master,Hybride,11500,Français; Anglais,"Négociation, Salesforce, Analyse de marché, Google Ads",2024-05-13,8
+OFF-0131,Guide,Tourisme,Managem,Casa,Casablanca-Settat,Cdi,Débutant,Bac+3,Remote partiel,4600,Français; Anglais; Arabe,,2024-10-27,13
+OFF-0132,DevOps,IT & Tech,Alten Maroc,Casa,Casablanca-Settat,cdi,Junior,Bac+2,présentiel,11700,Français,Agile/Scrum; AWS,2024-07-20,13
+OFF-0133,Pharmacien d'officine,Santé,Label'Vie,Casa,,CDI,2 à 5 ans,Bac+3,Hybrid,11500 DH,Français; Anglais; Arabe,Soins infirmiers; Éthique médicale; Pharmacologie; Diagnostic,2024-12-05,42
+OFF-0134,comptable junior,Finance & RH,Inwi,RABAT,Rabat-Salé-Kénitra,contrat CDI,Senior,Bac+5 / Master,presentiel,8000,Français; Anglais,Paie; SAGE,2025-01-11,20
+OFF-0135,Médecin,Santé,PwC Maroc,Marrakesh,Marrakech-Safi,C.D.I,8+ ans,Bac+3,PRÉSENTIEL,29300,,Éthique médicale; Soins infirmiers; Diagnostic,08/06/2024,37
+OFF-0136,AUDITEUR,Finance & RH,Label'Vie,Caza,Casablanca-Settat,contrat CDI,0 à 2 ans,Bac+5 / Master,PRÉSENTIEL,7400,Français; Anglais; Arabe,Paie / Droit du travail / SAGE / Consolidation / Audit,2024-07-18,42
+OFF-0137,Infirmier,,SQLI Maroc,Casa,Casablanca-Settat,Alt.,2/5 ans,SANS DIPLÔME REQUIS,PRÉSENTIEL,4008 DH,Français,Pharmacologie; Soins infirmiers; Éthique médicale; Diagnostic,2025-02-09,34
+OFF-0138,chargé marketing,Commerce,UM6P,TANGER,Tanger-Tétouan-Al Hoceïma,C.D.I,confirmé,Bac+2,TÉLÉTRAVAIL,9700,Français,Email Marketing; SEO,2024-07-09,25
+OFF-0139,ing génie civil,BTP,BMCE Bank,TANGER,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,8ans+,Bac+3,Full remote,15700,Français,Revit; Béton armé,2024-07-18,
+OFF-0140,MÉDECIN GÉNÉRALISTE,Santé,ONCF,fès,Fès-Meknès,Alt.,Junior,BAC+5 / MASTER,Hybride,3895,Français,Éthique médicale; Pharmacologie; Soins infirmiers; Diagnostic,2024-05-11,20
+OFF-0141,Technicien maintenance,Industrie,Atlantic Digital,TANGER,,CONTRAT CDI,Junior,BAC+3,Hybrid,5700,Français; Anglais; Arabe,AutoCAD; PLC/SCADA; Lean Manufacturing; AMDEC,2024-08-13,29
+OFF-0142,chef de projet,IT & Tech,Université Hassan II,casablanca,Casablanca-Settat,CDI ,0/2 ans,Bac+2,Full remote,12800,Anglais,Node.js; Linux; MongoDB; TensorFlow,2024-11-23,22
+OFF-0143,ingenieur reseau,IT & Tech,DataVision Maroc,Casablanca-Settat,Casablanca-Settat,Cdi,Junior,Bac+3,En présentiel,9500,Français,TensorFlow; Python,12/08/2024,27
+,,,,,,,,,,,,,,
+OFF-0145,Développeur FrontEnd,IT & TECH,Attijariwafa Bank,casablanca,Casablanca-Settat,contrat CDD,expert,Bac+3,Full remote,14800,Anglais,React; Agile/Scrum; Docker; REST API; Kubernetes,2024-06-03,32
+OFF-0146,chef de chantier,BTP,Total Maroc,Caza,Casablanca-Settat,contrat CDI,2-5ans,Bac+5 / Master,présentiel,9400-11280,Français; Anglais,MS Project; Revit; AutoCAD; Béton armé,2024-11-05,40
+OFF-0147,cyber analyst,IT & Tech,HPS,Caza,Casablanca-Settat,alternance,5-8 ans,Bac+5 / Master,PRÉSENTIEL,5813,Français,"JavaScript, TypeScript, AWS, REST API, Node.js",2025-01-13,32
+OFF-0148,DATA SCIENTIST,IT & Tech,Maroc Telecom,Casablanca-Settat,Casablanca-Settat,CDD ,0-2 ans,Bac+5 / Master,En présentiel,10000,Français; Anglais; Arabe,"Linux, REST API, Node.js",29/10/2024,8
+OFF-0149,SysAdmin,IT & Tech,Accenture Maroc,CASABLANCA,Casablanca-Settat,freelance,2/5 ans,Bac+5 / Master,Remote partiel,,Français; Anglais,Python; Kubernetes,17 April 2024,33
+OFF-0150,ml engineer,IT & Tech,Vivo Energy,CASABLANCA,Casablanca-Settat,CDI,5 à 8 ans,Bac+2,hybride,19900 DH,Français,Power BI; React; SQL,,24
+OFF-0151,Pharmacien d'officine,Santé,OCP Group,marrakech,,Indépendant,0/2 ans,Sans diplôme requis,hybride,11200,Anglais,,2024-08-06,15
+OFF-0152,Financial Analyst,Finance & RH,SQLI MAROC,Casablanca-Settat,Casablanca-Settat,CDI ,expert,Bac+5 / Master,Sur site,18200,Anglais,Droit du travail; Excel avancé; Paie,2025-01-17,45
+OFF-0153,Data scientist,IT & Tech,Capgemini Maroc,Marrakch,Marrakech-Safi,C.D.I,5/8 ans,Sans diplôme requis,En présentiel,19000,Français; Arabe,"Kubernetes, TensorFlow, Power BI",2024-09-29,8
+OFF-0154,Data scientist,IT & Tech,ATTIJARIWAFA BANK,casablanca,,C.D.I,2-5ans,,Remote,15300,Anglais,"MongoDB, Power BI, Docker, Azure, React",2024-12-24,999
+OFF-0155,ing production,,DataVision Maroc,Casablanca,Casablanca-Settat,Alternance,Senior,Bac+3,Work from home,4121-4945,Français; Anglais,SOLIDWORKS; AUTOCAD; ISO 9001; LEAN MANUFACTURING; AMDEC,2025-01-11,36
+OFF-0156,Admin Système,IT & TECH,KPMG Maroc,marrakech,Marrakech-Safi,Cdi,5-8 ans,Bac+2,hybride,12k,Français; Arabe,JavaScript; Linux; REST API; Kubernetes; TypeScript,2024-07-22,44
+OFF-0157,Réceptionniste hôtel,Tourisme,Deloitte Maroc,Casa,Casablanca-Settat,CDI ,junior,Bac+3,Sur site,3500,"Français, Arabe",Pack Office; Accueil client; Gestion réservations,2024-06-17,11
+OFF-0158,tech maintenance,Industrie,CIH Bank,Caza,Casablanca-Settat,Free-lance,0/2 ans,Bac+3,Télétravail,6900,Français; Anglais,AMDEC; ISO 9001; AutoCAD,2024-09-21,21
+OFF-0159,COMMUNITY MANAGER,commerce,Ernst & Young Maroc,OUJDA,Oriental,CDI,0/2 ans,Bac+2,sur site,5600,Français; Arabe,"Négociation, Analyse de marché, Salesforce, CRM, Excel",2024-03-05,45
+OFF-0159,COMMUNITY MANAGER,commerce,Ernst & Young Maroc,OUJDA,Oriental,CDI,0/2 ans,Bac+2,sur site,5600,Français; Arabe,"Négociation, Analyse de marché, Salesforce, CRM, Excel",2024-03-05,45
+OFF-0161,Sysadmin,IT & Tech,Label'Vie,marrakech,Marrakech-Safi,CDI ,0-2 ans,Bac+5 / Master,présentiel,6900,Français; Arabe,SQL; TypeScript,2024-08-23,27 jours
+OFF-0162,Developpeur FullStack,IT & Tech,Alten Maroc,Caza,Casablanca-Settat,CDD ,2 à 5 ans,Sans diplôme requis,HYBRIDE,10300 DH,Français,"Agile/Scrum, REST API, React, Azure",2024-05-14,26
+OFF-0163,devops engineer,IT & Tech,SII Group,Tanger-Med,Tanger-Tétouan-Al Hoceïma,C.D.D,2-5ans,Bac+5 / Master,Hybrid,15200,Français; Anglais; Arabe,Python; TensorFlow,2024-09-16,26
+OFF-0164,DEVELOPPEUR FULL STACK,IT & Tech,Carrefour Maroc,Caza,Casablanca-Settat,Stage de fin d'études,2/5 ans,Bac+3,Work from home,3323,Français,Kubernetes; Java; AWS; MongoDB; Agile/Scrum,2024-08-16,-4
+OFF-0165,Data Engneer,IT & TECH,DataVision Maroc,MARRAKECH,Marrakech-Safi,contrat CDI,Senior,Bac+5 / Master,sur site,18600,Français,Kubernetes; Agile/Scrum; REST API; TypeScript,2024-08-09,43
+OFF-0166,Technicien maintenance,Industrie,Total Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,CDI,débutant,Bac+5 / Master,presentiel,5300,,PLC/SCADA / ISO 9001 / AMDEC / Lean Manufacturing / SolidWorks,2024-10-19,33
+OFF-0167,Product Owner,IT & Tech,CGI Maroc,CASABLANCA,Casablanca-Settat,CONTRAT CDI,Débutant,Bac+3,présentiel,11k,"Français, Anglais, Arabe",Node.js; TensorFlow; TypeScript; SQL,2024-07-04,7
+OFF-0168,ml engineer,IT & Tech,Lafarge Holcim,casablanca,Casablanca-Settat,cdi,senior,Bac+3,presentiel,21800,Français; Anglais; Arabe,Power BI; Docker,2024-04-05,15
+OFF-0169,comptable,Finance & RH,Carrefour Maroc,RABAT,,CONTRAT CDI,2-5 ans,Bac+3,Work from home,6000,Français; Arabe,"Paie, SAGE",2024-06-15,25
+OFF-0170,Contrôleur gestion,Finance & RH,CIH Bank,Casa,,contrat CDI,2-5 ans,Bac+5 / Master,PRÉSENTIEL,10400,Français; Anglais; Arabe,SAGE; Paie,2024-11-06,44
+OFF-0171,data engineeer,IT & Tech,HPS,FÈS,,Free-lance,Débutant,Bac+5 / Master,Hybrid,15300,Français; Anglais; Arabe,JavaScript; SQL; React,2024-03-10,17
+OFF-0172,FRONTEND DEVELOPER,IT & Tech,Akdital,rabat,Rabat-Salé-Kénitra,CDD ,junior,Bac+5 / Master,Télétravail,6500,Anglais,Power BI; Docker,2024-10-29,999
+OFF-0173,Responsable RH,Finance & RH,TechMa Solutions,Rabat,Rabat-Salé-Kénitra,CDI ,confirmé,Sans diplôme requis,Mixte,8600,Anglais,,2024-07-02,18
+,,,,,,,,,,,,,,
+OFF-0175,Guide,Tourisme,RAM,Caza,Casablanca-Settat,CDI,Confirmé,Bac+3,En présentiel,5600,Français; Anglais,Pack Office; Accueil client; Langues étrangères; Gestion réservations,2024-07-11,16
+OFF-0176,PHARMACIEN,,Alten Maroc,marrakech,Marrakech-Safi,CDI ,2/5 ans,Bac+5 / Master,En présentiel,13800,Anglais,Éthique médicale; Soins infirmiers; Diagnostic; Pharmacologie,2024-07-16,42
+OFF-0177,Data Engneer,IT & Tech,Peugeot Maroc,Fez,Fès-Meknès,CDI ,Débutant,Bac+3,PRÉSENTIEL,10600,Anglais,TensorFlow; REST API,2024-05-16,40
+OFF-0178,ANALYSTE FINANCIER,Finance & RH,OCP Group,rabat ,Rabat-Salé-Kénitra,CONTRAT CDI,2-5ans,Bac+3,sur site,11200,Français; Anglais; Arabe,SAGE; Consolidation; IFRS,2024-07-28,30
+OFF-0179,Ingénieur réseau,IT & TECH,PwC Maroc,Tanger,Tanger-Tétouan-Al Hoceïma,contrat CDI,2-5 ans,Bac+3,hybride,12800,Français; Arabe,AWS; React; Kubernetes; SQL; Azure,2024-12-22,43
+OFF-0180,Audit Financier,Finance & RH,atlantic digital,Caza,,Indépendant,Senior,Bac+3,sur site,18400,Français,Paie; Consolidation; Droit du travail,2024-06-26,31
+OFF-0180,Audit Financier,Finance & RH,atlantic digital,Caza,,Indépendant,Senior,Bac+3,sur site,18400,Français,Paie; Consolidation; Droit du travail,2024-06-26,31
+OFF-0182,receptionniste hotel,Tourisme,Capgemini Maroc,CASABLANCA,Casablanca-Settat,CONTRAT CDI,5 à 8 ans,Bac+3,sur site,5600 DH,Français; Anglais,Langues étrangères; Accueil client,2024-08-22,21
+OFF-0183,Administrateur sys,IT & Tech,Lydec,Casablanca,Casablanca-Settat,Indépendant,Junior,Bac+2,presentiel,10700 DH,Français; Arabe,REST API; MONGODB,2024-06-25,
+OFF-0184,développeur full-stack,IT & Tech,Atlantic Digital,Casablanca-Settat,,ALTERNANCE,junior,Bac+3,hybride,5912,Français; Anglais,"Azure, AWS, Java, Agile/Scrum",2024-04-26,16
+OFF-0185,pharmacien,santé,OCP Group,Casablanca-Settat,,CONTRAT CDI,Confirmé,Bac+5 / Master,presentiel,12900,Français / Anglais,Soins infirmiers; Diagnostic; Éthique médicale; Pharmacologie,2025-01-02,40
+OFF-0186,Community manager,Commerce,ONCF,Marrakch,,CDI ,0/2 ans,Bac+5 / Master,Work from home,,Français; Anglais,CRM; Google Ads,2024-04-15,38
+OFF-0187,guide touristique,Tourisme,Renault Maroc,Oujda,Oriental,C.D.I,Débutant,Bac+2,teletravail,4100,Français / Arabe,Gestion réservations; Pack Office; Accueil client; Langues étrangères,2024-10-01,35
+OFF-0188,analyste financier,Finance & RH,Akdital,rabat ,Rabat-Salé-Kénitra,contrat CDI,Confirmé,,Hybride,11700,"Français, Anglais",SAP; Audit; IFRS,2024-06-27,12
+OFF-0189,FRONTEND DEVELOPER,IT & Tech,Inwi,Marrakech,Marrakech-Safi,cdi,confirmé,Bac+3,Sur site,11000,Français,"TypeScript, Node.js, Power BI",09-30-2024,18
+OFF-0190,data scientist,IT & Tech,OCP Group,fès,,cdi,Junior,Bac+2,En présentiel,10k,Français; Anglais,SQL; MongoDB; JavaScript,01/01/1900,36
+OFF-0191,Réceptionniste,Tourisme,HPS,Casablanca,Casablanca-Settat,C.D.I,2 à 5 ans,Bac+2,Présentiel,4500-5400,Français; Anglais,Langues étrangères; Pack Office; Gestion réservations; Accueil client,2024-03-06,15
+OFF-0192,UX Designer,IT & Tech,Maroc Telecom,casablanca,Casablanca-Settat,CDI,débutant,Bac+5 / Master,En présentiel,8300,Français; Anglais,Docker / Linux,04/02/2025,-1
+OFF-0193,Data Sientist,IT & Tech,Lafarge Holcim,tanger,Tanger-Tétouan-Al Hoceïma,C.D.I,2-5ans,Bac+5 / Master,HYBRIDE,16000,Français; Arabe,REST API; Docker; TypeScript,2024-12-16,29
+OFF-0194,Auditeur,FINANCE & RH,Carrefour Maroc,Caza,Casablanca-Settat,Stage PFE,8+ ans,Bac+3,présentiel,3783,Français; Anglais; Arabe,SAGE / IFRS,2024-03-22,23
+OFF-0195,Dév. Full Stack,IT & Tech,ORANGE MAROC,Casablanca,Casablanca-Settat,CDI,5 à 8 ans,Bac+5 / Master,hybride,17k,Français; Anglais; Arabe,TypeScript; AWS; React,2024-04-16,22
+OFF-0196,Cybersécurité,IT & Tech,Université Hassan II,Casablanca,Casablanca-Settat,cdi,5 à 8 ans,Sans diplôme requis,Full remote,18600,Français,Docker; Kubernetes; Node.js; REST API; JavaScript,2024-10-12,17
+OFF-0197,Project Manager IT,IT & Tech,Ernst & Young Maroc,Casablanca,,ALTERNANCE,5-8 ans,Bac+5 / Master,présentiel,3535-4242,Français; Arabe,"Java, Agile/Scrum, TensorFlow",2024-11-17,34
+OFF-0198,Frontend Dev,IT & Tech,sii group,Tanjah,Tanger-Tétouan-Al Hoceïma,CDI ,Junior,Bac+5 / Master,sur site,7700,Français; Anglais; Arabe,TypeScript; Docker; AWS,2025-02-23,34
+OFF-0199,Resp. Qualité,Industrie,Attijariwafa Bank,Casablanca-Settat,,Cdi,2/5 ans,Bac+2,PRÉSENTIEL,9900,Français; Anglais; Arabe,Lean Manufacturing; SolidWorks,2024-10-24,-3
+OFF-0200,Génie Civil,BTP,ONCF,Casa,Casablanca-Settat,CDI ,2 à 5 ans,Bac+5 / Master,Hybrid,11400,Anglais,Revit; MS Project; AutoCAD,2024-10-16,26
+OFF-0201,Conducteur travaux,BTP,Akdital,Casablanca,,CDD ,Confirmé,Bac+3,presentiel,7700,Français; Arabe,"Gestion de chantier, Revit, Béton armé, MS Project, AutoCAD",2024-04-02,12
+OFF-0202,CDG,Finance & RH,KPMG Maroc,Rabat-Salé,Rabat-Salé-Kénitra,CDI ,0 à 2 ans,Bac+2,En présentiel,7500,Français; Anglais; Arabe,"Audit, SAP, IFRS, Droit du travail",2024-12-31,32
+OFF-0203,Paie Manager,Finance & RH,Alten Maroc,RABAT,Rabat-Salé-Kénitra,contrat CDD,8+,Bac+3,TÉLÉTRAVAIL,9600,Français; Anglais,Audit / Paie / IFRS / Droit du travail,2024-05-14,9
+OFF-0204,Power BI Developer,IT & TECH,CGI Maroc,agadir,Souss-Massa,contrat CDI,Confirmé,Bac+3,présentiel,11800,Anglais,Power BI; Docker; Agile/Scrum,2024-07-30,39
+OFF-0205,INGÉNIEUR PRODUCTION,Industrie,Carrefour Maroc,casablanca,,Stagiaire,5-8ans,Bac+5 / Master,En présentiel,3737,Anglais,AMDEC; PLC/SCADA; Lean Manufacturing,2024-12-23,10
+OFF-0206,Chef Projet IT,IT & Tech,DataVision Maroc,rabat ,Rabat-Salé-Kénitra,CONTRAT CDI,2-5ans,Bac+5 / Master,Hybride,14400,Français; Arabe,Azure / MongoDB / AWS / Agile/Scrum / Kubernetes,01/01/1900,44
+OFF-0207,ING. RÉSEAU,IT & Tech,OCP Group,CASABLANCA,Casablanca-Settat,CDI ,confirmé,Bac+3,sur site,9800-11760,Français; Anglais,Python / Power BI / Git / Kubernetes,2024-12-28,8
+OFF-0208,GESTIONNAIRE PAIE,Finance & RH,Peugeot Maroc,MARRAKECH,Marrakech-Safi,contrat CDI,2 à 5 ans,Bac+5 / Master,Télétravail,8000,Français; Anglais; Arabe,Consolidation; Audit; SAP; IFRS; Excel avancé,2024-11-29,15
+OFF-0209,Product Owner,IT & Tech,Akdital,Tanjah,Tanger-Tétouan-Al Hoceïma,C.D.I,Expérimenté,Bac+3,présentiel,18100,Français; Anglais; Arabe,Git / Agile/Scrum / Node.js / React,2024-12-09,39
+OFF-0210,pharmacien,Santé,Alten Maroc,rabat ,Rabat-Salé-Kénitra,C.D.I,0/2 ans,Bac+2,Sur site,,,Soins infirmiers; Diagnostic; Éthique médicale,2024-07-10,45
+OFF-0211,Ingénieur civil,BTP,Inwi,CASABLANCA,Casablanca-Settat,CDI,Junior,Bac+3,présentiel,7900,Français; Anglais,MS Project; Gestion de chantier; Béton armé,2024-03-03,24
+OFF-0212,comptable,Finance & RH,Lafarge Holcim,Casa,Casablanca-Settat,Cdi,2/5 ans,Bac+5 / Master,Remote partiel,6000-7200,Français / Anglais / Arabe,Consolidation / SAGE / Droit du travail / Audit / SAP,11-14-2024,
+OFF-0213,ing génie civil,BTP,CGI Maroc,meknes,Fès-Meknès,cdd,2 à 5 ans,Bac+2,teletravail,8400,Français; Anglais; Arabe,BÉTON ARMÉ; GESTION DE CHANTIER; MS PROJECT,2024-06-29,-5
+OFF-0214,BACKEND DEVELOPER,IT & Tech,Atlantic Digital,Tetouan,Tanger-Tétouan-Al Hoceïma,Stagiaire,0 à 2 ans,Bac+5 / Master,teletravail,2772,Français; Anglais,React; Python; Azure,01/01/1900,999
+OFF-0215,Ingénieur réseau,IT & Tech,Akdital,Marrakech,Marrakech-Safi,cdd,expert,Bac+5 / Master,Remote,14100,,TensorFlow - MongoDB,2024-10-16,43
+OFF-0215,Ingénieur réseau,IT & Tech,Akdital,Marrakech,Marrakech-Safi,cdd,expert,Bac+5 / Master,Remote,14100,,TensorFlow - MongoDB,2024-10-16,43
+OFF-0217,Cyber Sécurité Analyst,IT & Tech,Vivo Energy,agadir,Souss-Massa,C.D.D,2-5 ans,Bac+5 / Master,Télétravail,13400,Français; Anglais; Arabe,MongoDB / TensorFlow / Python / SQL,02-18-2025,20
+OFF-0218,Pharmacien d'officine,Santé,Capgemini Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,Freelance,2/5 ans,Sans diplôme requis,teletravail,14k,Français,Diagnostic; Éthique médicale; Pharmacologie,2024-09-05,39
+OFF-0219,data engineeer,IT & Tech,Université Hassan II,Tanger,Tanger-Tétouan-Al Hoceïma,Alt.,2-5 ans,Bac+5 / Master,En présentiel,4425 ,"Français, Anglais",Linux; MongoDB; Agile/Scrum; Java,2024-04-21,7
+OFF-0220,Réceptionniste hôtel,Tourisme,DataVision Maroc,CASABLANCA,Casablanca-Settat,CDD ,5 à 8 ans,Bac+5 / Master,hybride,5100 ,Français,Pack Office; Accueil client; Langues étrangères,2024-03-07,45
+OFF-0221,DEVOPS ENGINEER,IT & Tech,Akdital,TANGER,Tanger-Tétouan-Al Hoceïma,C.D.I,Expérimenté,Bac+5 / Master,PRÉSENTIEL,21800,Français; Anglais; Arabe,Node.js; React; TensorFlow; MongoDB,28 October 2024,28
+OFF-0222,Project Manager IT,IT & Tech,Renault Maroc,casablanca,Casablanca-Settat,CDD ,2-5ans,Sans diplôme requis,Présentiel,13300-15960,Français,Git; React; TensorFlow,2024-06-20,33
+OFF-0223,SysAdmin,it & tech,Capgemini Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,CDI,8+ ans,Bac+5 / Master,Présentiel,17100 DH,,MongoDB; REST API; TensorFlow; JavaScript,2024-11-21,22
+OFF-0224,devops,IT & Tech,UM6P,agadir,Souss-Massa,Cdi,débutant,Bac+5 / Master,Remote,12100 DH,Français; Anglais,SQL - Java - Git - Azure,2024-10-20,26
+OFF-0225,Resp. Qualité,Industrie,Atlantic Digital,Tanjah,Tanger-Tétouan-Al Hoceïma,CDD ,5/8 ans,,PRÉSENTIEL,11500,Français,Lean Manufacturing; AutoCAD; AMDEC; PLC/SCADA,2024-03-26,15
+OFF-0226,CDG,Finance & RH,Orange Maroc,RABAT,Rabat-Salé-Kénitra,cdi,2-5ans,Sans diplôme requis,teletravail,10100-12120,Français; Arabe,"SAGE, Consolidation",,39
+OFF-0227,TECHNICIEN MAINTENANCE,,SQLI Maroc,Tanger,Tanger-Tétouan-Al Hoceïma,contrat CDI,2/5 ans,Bac+5 / Master,En présentiel,7300 DH,Français,AMDEC; SolidWorks; ISO 9001; PLC/SCADA; AutoCAD,2025-02-09,23
+OFF-0228,DATA ENGINEER,it & tech,Ernst & Young Maroc,Caza,Casablanca-Settat,contrat CDI,Senior,Bac+8 / Doctorat,Hybrid,,Français; Arabe,Node.js; SQL; REST API; Agile/Scrum; React,2024-06-03,45
+OFF-0229,dev fullstack,IT & Tech,Lydec,Casa,,contrat CDI,8ans+,BAC+5 / MASTER,sur site,20500,Français; Arabe,"Azure, SQL, MongoDB, Linux",2024-08-31,36
+OFF-0230,Administrateur sys,IT & Tech,Lafarge Holcim,Casablanca-Settat,Casablanca-Settat,CDD ,5-8 ans,BAC+5 / MASTER,presentiel,11200,Anglais,SQL; AWS,2024-03-21,9
+OFF-0231,Dat Engineer,IT & Tech,TechMa Solutions,rabat ,Rabat-Salé-Kénitra,CDD,Junior,Bac+5 / Master,En présentiel,11700,Français; Anglais,REST API / TypeScript / Java / Node.js,2024-05-16,13
+OFF-0232,DevOps,IT & Tech,Renault Maroc,Caza,Casablanca-Settat,C.D.I,2-5ans,Bac+2,présentiel,16400,Français; Anglais,Docker; Linux; AWS; REST API,2024-04-13,16
+OFF-0232,DevOps,IT & Tech,Renault Maroc,Caza,Casablanca-Settat,C.D.I,2-5ans,Bac+2,présentiel,16400,Français; Anglais,Docker; Linux; AWS; REST API,2024-04-13,16
+OFF-0234,ing génie civil,BTP,HPS,tanger,Tanger-Tétouan-Al Hoceïma,Cdd,5-8ans,Bac+2,présentiel,13400,Français; Anglais,MS Project - Gestion de chantier - Béton armé,2024-07-30,11
+OFF-0235,RESPONSABLE COMMERCIAL,Commerce,CGI Maroc,oujda,Oriental,Cdi,Confirmé,Bac+2,Work from home,12400,Français; Anglais,Négociation; Salesforce; Google Ads; Analyse de marché; Email Marketing,2024-09-15,16
+OFF-0236,chef de projet,IT & Tech,Alten Maroc,Caza,Casablanca-Settat,CONTRAT CDI,2 à 5 ans,Sans diplôme requis,Mixte,18100,Français; Anglais,"Agile/Scrum, Git",02/04/2024,43
+OFF-0237,INGÉNIEUR PRODUCTION,Industrie,UM6P,casablanca,Casablanca-Settat,freelance,2-5 ans,Sans diplôme requis,TÉLÉTRAVAIL,14000,Français; Arabe,AutoCAD; AMDEC; PLC/SCADA; Lean Manufacturing,13/10/2024,22
+OFF-0238,Analyste Finance,Finance & RH,Vivo Energy,Casablanca-Settat,Casablanca-Settat,Free-lance,Débutant,Bac+3,Hybrid,11100-13320,Français; Anglais; Arabe,SAGE; Consolidation; Droit du travail; SAP,2024-12-25,8
+OFF-0239,ing production,Industrie,Lydec,Caza,Casablanca-Settat,freelancer,Expérimenté,Bac+2,hybride,15500,Français; Anglais; Arabe,ISO 9001; AutoCAD; SolidWorks; PLC/SCADA,2024-06-22,41
+OFF-0240,Responsable qualité,Industrie,VIVO ENERGY,rabat ,,cdi,junior,Bac+5 / Master,télétravail,8200,Français,"SolidWorks, AMDEC",2024-11-14,44
+OFF-0241,Developpeur FullStack,IT & Tech,Vivo Energy,CASABLANCA,Casablanca-Settat,contrat CDD,senior,Bac+3,sur site,16700,Français; Anglais,AWS / TensorFlow / React,03-07-2024,11
+OFF-0242,guide touristique,Tourisme,CIH Bank,Fès,Fès-Meknès,Stage PFE,confirmé,Bac+5 / Master,TÉLÉTRAVAIL,2518,Français; Anglais,"Accueil client, Pack Office, Gestion réservations, Langues étrangères",2024-06-13,44
+OFF-0243,chef de projet,IT & Tech,Total Maroc,Casablanca,Casablanca-Settat,contrat CDI,Débutant,Bac+3,présentiel,11900,Anglais,Java; MongoDB,2024-03-14,32
+OFF-0244,Analyste Finance,Finance & RH,Vivo Energy,TANGER,Tanger-Tétouan-Al Hoceïma,ALTERNANCE,2-5ans,Bac+5 / Master,En présentiel,4751,Anglais,Audit / Excel avancé / IFRS / Paie / Droit du travail,2024-12-23,15
+OFF-0245,Data engineer,IT & Tech,Peugeot Maroc,tanger,Tanger-Tétouan-Al Hoceïma,Stage,Junior,Bac+8 / Doctorat,Hybrid,2k,Français; Anglais; Arabe,Linux; React; Power BI,2024-11-14,39
+OFF-0246,ing production,Industrie,OCP Group,Casablanca-Settat,Casablanca-Settat,Cdi,5/8 ans,Bac+5 / Master,PRÉSENTIEL,10900,Français,ISO 9001 / AMDEC,2024-04-21,34
+OFF-0247,Dev Backend,IT & Tech,SII Group,agadir,Souss-Massa,contrat CDI,Junior,Bac+5 / Master,teletravail,8300,Anglais,"JavaScript, REST API, Agile/Scrum, Linux",2024-12-12,9
+OFF-0248,Data Engneer,IT & Tech,HPS,Rabat,Rabat-Salé-Kénitra,contrat CDI,5/8 ans,Sans diplôme requis,présentiel,20300 ,Français; Arabe,Azure / JavaScript,2024-05-30,24
+OFF-0249,Comptable Général,Finance & RH,TechMa Solutions,Fès,Fès-Meknès,contrat CDD,8+ ans,Bac+5 / Master,sur site,10000,Français; Anglais,IFRS; Excel avancé; Audit; SAGE; Droit du travail,2024-08-25,39
+OFF-0250,Analyste Finance,Finance & RH,Accenture Maroc,Casa,,CDI ,5 à 8 ans,Bac+5 / Master,teletravail,16300,Français; Arabe,Paie / Audit / IFRS / SAP / Excel avancé,,-2
+OFF-0251,Technicien maintenance,INDUSTRIE,Lydec,Caza,,CDD ,0-2 ans,Bac+5 / Master,presentiel,5200,,Lean Manufacturing - SolidWorks - AMDEC,2024-12-23,37
+OFF-0252,Ingénieur civil,BTP,Orange Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,cdi,Confirmé,Bac+3,HYBRIDE,10800,Français; Anglais; Arabe,Revit; MS Project; Gestion de chantier; AutoCAD; Béton armé,2024-10-20,13
+OFF-0253,PM,IT & Tech,DataVision Maroc,Tanger-Med,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,8ans+,Bac+8 / Doctorat,Mixte,26800,Français; Anglais,AWS; Azure; Docker,2024-08-02,31
+OFF-0254,FRONTEND DEVELOPER,IT & Tech,Peugeot Maroc,Casablanca,,Cdi,2 à 5 ans,Bac+5 / Master,Hybride,10700 DH,Français; Anglais; Arabe,Linux; TensorFlow; Git; React; MongoDB,2024-12-02,40
+OFF-0255,CONDUCTEUR TRAVAUX,BTP,CIH Bank,Caza,Casablanca-Settat,C.D.I,2/5 ans,Bac+5 / Master,presentiel,9300,Anglais,AutoCAD - Revit - MS Project - Gestion de chantier,14 December 2024,999
+OFF-0256,Docteur,Santé,Vivo Energy,Tanger,Tanger-Tétouan-Al Hoceïma,freelancer,5-8ans,Bac+3,presentiel,34100,Français,Diagnostic; Éthique médicale; Soins infirmiers,2025-02-24,43
+OFF-0257,BACKEND DEVELOPER,IT & Tech,Managem,Tanger-Med,,CDI ,Junior,Bac+5 / Master,En présentiel,8600,Anglais,TensorFlow - SQL,2024-05-25,22
+OFF-0258,INFIRMIER,Santé,Ernst & Young Maroc,Fes,Fès-Meknès,CDI ,Junior,Bac+3,Hybride,5600,Français,Soins infirmiers; Diagnostic; Pharmacologie; Éthique médicale,2024-04-13,
+OFF-0259,Developpeur FullStack,IT & Tech,Alten Maroc,CASABLANCA,Casablanca-Settat,CONTRAT CDI,junior,Bac+5 / Master,PRÉSENTIEL,10k,Français; Arabe,"Docker, REST API, TensorFlow, Azure, Agile/Scrum",2024-06-11,30
+OFF-0260,Génie Civil,BTP,CIH Bank,CASABLANCA,Casablanca-Settat,freelance,2/5 ans,Bac+3,hybride,12300 ,Français; Arabe,AutoCAD; Revit; MS Project,2024-06-16,18
+OFF-0261,Administrateur sys,IT & Tech,TechMa Solutions,fès,Fès-Meknès,contrat CDD,8ans+,Bac+5 / Master,Remote partiel,15100,Anglais,"TensorFlow, Kubernetes, AWS, MongoDB",08-25-2024,999
+OFF-0262,Power BI Developer,IT & Tech,,CASABLANCA,Casablanca-Settat,Indépendant,0-2ans,Bac+2,Télétravail,,Français; Anglais,Docker; React; Azure; JavaScript; Java,2024-08-16,31
+OFF-0263,Guide,Tourisme,KPMG Maroc,Casablanca-Settat,Casablanca-Settat,contrat CDI,débutant,,Work from home,4000,Français; Arabe,Pack Office; Gestion réservations; Accueil client; Langues étrangères,2024-08-24,16
+OFF-0264,Community manager,Commerce,Orange Maroc,Rabat-Salé,Rabat-Salé-Kénitra,CDI ,confirmé,Bac+5 / Master,PRÉSENTIEL,6800,Anglais,Négociation; SEO; Google Ads; CRM,2025-02-06,42
+OFF-0265,comptable,Finance & RH,Vivo Energy,Casa,,freelancer,5-8ans,Bac+5 / Master,TÉLÉTRAVAIL,9800,Français; Anglais; Arabe,Audit; SAP,2024-05-10,44
+OFF-0266,Responsable RH,Finance & RH,Orange Maroc,Marrakch,Marrakech-Safi,CONTRAT CDI,0/2 ans,Bac+3,Présentiel,6000,,Paie / Consolidation / Excel avancé / IFRS,2025-01-28,8 jours
+OFF-0267,Auditeur,Finance & RH,Akdital,AGADIR,Souss-Massa,CDI ,senior,,présentiel,14100 DH,Français; Anglais,SAP; IFRS; Consolidation,,24 jours
+OFF-0268,tech maintenance,Industrie,Université Hassan II,Marrakch,Marrakech-Safi,CDI ,confirmé,Bac+5 / Master,PRÉSENTIEL,7700,Français; Anglais,Lean Manufacturing; AutoCAD; ISO 9001,2024-12-17,-3
+OFF-0269,Paie Manager,Finance & RH,Ernst & Young Maroc,Casa,Casablanca-Settat,freelance,Senior,Bac+3,Télétravail,14100 ,Français; Anglais; Arabe,"SAGE, Audit",09/10/2024,10
+OFF-0269,Paie Manager,Finance & RH,Ernst & Young Maroc,Casa,Casablanca-Settat,freelance,Senior,Bac+3,Télétravail,14100 ,Français; Anglais; Arabe,"SAGE, Audit",09/10/2024,10
+OFF-0271,data scientist,IT & Tech,CIH Bank,Rabat-Salé,Rabat-Salé-Kénitra,cdi,confirmé,Bac+5 / Master,Hybride,16300,Français,MongoDB; Power BI,09/05/2024,34
+OFF-0272,Ingénieur réseau,IT & Tech,Maroc Telecom,CASABLANCA,Casablanca-Settat,Cdd,2/5 ans,BAC+5 / MASTER,Présentiel,10100,Français; Anglais,MongoDB; SQL; Node.js; AWS; Java,2025-01-07,7 jours
+OFF-0273,Paie Manager,,Lafarge Holcim,Tanger,Tanger-Tétouan-Al Hoceïma,Indépendant,Expert,Bac+5 / Master,hybride,16100,Français; Arabe,Excel avancé; SAGE; Audit,2024-03-17,8
+OFF-0274,comptable,Finance & RH,Orange Maroc,Casablanca-Settat,Casablanca-Settat,CDD ,junior,Bac+3,Présentiel,,Français; Anglais; Arabe,SAGE; Consolidation; IFRS; Paie; Excel avancé,2024-12-15,36
+OFF-0275,développeur full-stack,IT & Tech,KPMG Maroc,CASABLANCA,,FREELANCE,0/2 ans,Bac+5 / Master,Hybride,12300,Français,Linux; React; Git; Kubernetes,,40
+OFF-0276,Médecin,Santé,Label'Vie,CASABLANCA,Casablanca-Settat,CONTRAT CDI,8ans+,Bac+3,PRÉSENTIEL,30700,Français; Anglais,Diagnostic; Pharmacologie; Éthique médicale; Soins infirmiers,2024-06-17,40
+OFF-0277,TECHNICIEN MAINTENANCE,Industrie,Deloitte Maroc,MEKNÈS,Fès-Meknès,CDI ,0-2 ans,,teletravail,4k,Français; Anglais; Arabe,PLC/SCADA; ISO 9001; AutoCAD,2024-07-31,33
+OFF-0278,ing génie civil,BTP,Capgemini Maroc,Fez,Fès-Meknès,Free-lance,Junior,Bac+2,PRÉSENTIEL,11500,Français; Anglais; Arabe,"MS Project, Gestion de chantier, Revit, Béton armé",2024-07-18,18
+OFF-0279,ing production,Industrie,Akdital,agadir,Souss-Massa,Stage PFE,5 à 8 ans,Bac+2,En présentiel,4564,,AMDEC; SolidWorks; PLC/SCADA,2024-11-14,34
+OFF-0280,Contrôleur gestion,Finance & RH,BMCE Bank,rabat,Rabat-Salé-Kénitra,CDD ,0-2 ans,Bac+5 / Master,Work from home,7800,Français; Arabe,Paie; SAGE; Audit; Droit du travail; IFRS,2024-07-12,18
+OFF-0281,INGÉNIEUR GÉNIE CIVIL,BTP,HPS,TANGER,Tanger-Tétouan-Al Hoceïma,cdd,2 à 5 ans,Bac+5 / Master,Hybride,8600,Français; Anglais,Béton armé; MS Project; AutoCAD; Gestion de chantier; Revit,2024-12-09,15
+OFF-0282,pharmacien,Santé,Atlantic Digital,TANGER,Tanger-Tétouan-Al Hoceïma,contrat CDI,Confirmé,Bac+2,sur site,13400,Français; Anglais,"Soins infirmiers, Éthique médicale, Pharmacologie, Diagnostic",2024-03-24,31
+OFF-0283,Comptable Général,Finance & RH,Orange Maroc,FÈS,,Free-lance,5 à 8 ans,Bac+5 / Master,presentiel,9700-11640,Français; Arabe,SAGE - Droit du travail - Audit,2025-01-02,41
+OFF-0284,Chargé Commercial,Commerce,KPMG Maroc,Casa,,contrat CDI,8+,Bac+3,présentiel,12300,Anglais,Excel; Google Ads; Salesforce,2024-08-13,19
+OFF-0285,DATA ENGINEER,IT & Tech,SII Group,Tanger,Tanger-Tétouan-Al Hoceïma,contrat CDI,0/2 ans,Bac+5 / Master,Sur site,10900,Anglais,Java; Git,2024-04-13,43
+OFF-0286,Réceptionniste hôtel,Tourisme,Ernst & Young Maroc,Tanger-Med,,CONTRAT CDI,confirmé,Bac+2,Hybride,5100,Anglais,Accueil client; Gestion réservations; Langues étrangères; Pack Office,2024-11-13,
+OFF-0287,Chef Projet IT,IT & Tech,DataVision Maroc,Casa,Casablanca-Settat,Stagiaire,2-5 ans,Sans diplôme requis,PRÉSENTIEL,4k,Anglais,Git; Agile/Scrum,2024-12-29,
+OFF-0288,Conducteur travaux,BTP,BMCE Bank,Casablanca-Settat,Casablanca-Settat,C.D.D,0/2 ans,Bac+3,hybride,6100,Français,Revit; AutoCAD,01-29-2025,41
+OFF-0289,ml engineer,IT & Tech,Inwi,MEKNÈS,Fès-Meknès,CDI ,débutant,Bac+3,Présentiel,12900,Français; Arabe,Java; Node.js,2024-08-23,14
+OFF-0290,UX UI Designer,IT & Tech,Marjane,Casablanca-Settat,Casablanca-Settat,CDD,5-8ans,Bac+3,PRÉSENTIEL,12600,Français,Linux; Git; React; REST API; Python,2024-11-30,999
+OFF-0291,Responsable qualité,Industrie,CGI Maroc,Oujda,Oriental,CDI,2/5 ans,Bac+3,présentiel,11k,Anglais,SolidWorks; ISO 9001; PLC/SCADA; AutoCAD; Lean Manufacturing,2024-06-17,20
+OFF-0292,BACKEND DEVELOPER,IT & TECH,Atlantic Digital,Tanjah,Tanger-Tétouan-Al Hoceïma,Cdi,Senior,Bac+5 / Master,Mixte,12800,Anglais,TypeScript; Azure; JavaScript; Java; SQL,18/11/2024,27
+OFF-0293,Marketer Digital,Commerce,akdital,Tanger,Tanger-Tétouan-Al Hoceïma,stage,8+,Bac+3,hybride,3305,Français; Anglais; Arabe,Négociation; SEO; Email Marketing,2024-11-05,21
+OFF-0294,chef de projet,IT & Tech,Total Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,cdi,5 à 8 ans,Bac+5 / Master,TÉLÉTRAVAIL,22000,Français; Anglais; Arabe,REST API - JavaScript - Docker,2024-04-02,17
+OFF-0295,Resp. Qualité,Industrie,HPS,Tanger,Tanger-Tétouan-Al Hoceïma,C.D.I,confirmé,Bac+3,présentiel,9500,Français; Anglais,AutoCAD; SolidWorks; AMDEC; Lean Manufacturing; PLC/SCADA,2025-01-22,38
+OFF-0296,Comptable Général,Finance & RH,Alten Maroc,Fes,Fès-Meknès,CONTRAT CDI,5-8 ans,Bac+5 / Master,Mixte,7600,"Français, Arabe",Paie; Consolidation; SAGE,2025-02-07,14
+OFF-0297,DATA SCIENTIST,IT & Tech,Université Hassan II,tanger,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,2 à 5 ans,Bac+2,Télétravail,14500,Français,"Java, REST API, Git, Node.js, MongoDB",2025-01-19,9
+OFF-0298,Cybersécurité,IT & Tech,Attijariwafa Bank,Rabat-Salé,Rabat-Salé-Kénitra,CDI ,0-2ans,BAC+5 / MASTER,PRÉSENTIEL,,Français; Arabe,AWS / MongoDB / Azure / Java,2024-10-06,
+OFF-0299,Marketing Digital,Commerce,,Casablanca-Settat,Casablanca-Settat,C.D.I,expert,Bac+3,sur site,12700,Français; Arabe,"Excel, Analyse de marché, Google Ads",2025-01-18,7
+OFF-0300,chef de chantier,BTP,ocp group,Marrakesh,Marrakech-Safi,C.D.I,expert,Bac+5 / Master,HYBRIDE,14000,Français; Anglais; Arabe,Béton armé; AutoCAD; MS Project,2024-08-24,30
+OFF-0301,ing production,Industrie,Alten Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,Cdd,Expert,Bac+3,En présentiel,14600,Français; Anglais,SolidWorks; PLC/SCADA,2024-07-15,13
+OFF-0301,ing production,Industrie,Alten Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,Cdd,Expert,Bac+3,En présentiel,14600,Français; Anglais,SolidWorks; PLC/SCADA,2024-07-15,13
+OFF-0303,Ingénieur réseau,IT & Tech,Attijariwafa Bank,Tanger-Med,,Cdd,Expérimenté,Bac+8 / Doctorat,Présentiel,14k,Anglais,Node.js - Power BI - AWS - Azure,2024-03-28,37
+OFF-0304,Réceptionniste hôtel,Tourisme,Lydec,rabat,Rabat-Salé-Kénitra,CDD ,confirmé,,Mixte,4400,Français,Langues étrangères; Gestion réservations; Accueil client; Pack Office,2024-12-18,22
+OFF-0305,ANALYSTE FINANCIER,Finance & RH,TechMa Solutions,Marrakch,,CDI,2-5ans,Sans diplôme requis,Sur site,12600,Français; Arabe,Paie; Consolidation; IFRS; Excel avancé; Droit du travail,2024-09-23,37
+OFF-0306,Pharmacien d'officine,Santé,Attijariwafa Bank,Casablanca-Settat,Casablanca-Settat,C.D.I,0/2 ans,Sans diplôme requis,En présentiel,10600,,Soins infirmiers; Pharmacologie; Éthique médicale,2024-09-16,24
+OFF-0307,backend developer,IT & Tech,KPMG Maroc,Caza,Casablanca-Settat,contrat CDD,2-5 ans,Bac+5 / Master,Sur site,9100,Anglais,"REST API, Agile/Scrum, AWS, MongoDB, Git",2025-02-05,16
+OFF-0308,Guide,Tourisme,Peugeot Maroc,Rabat,Rabat-Salé-Kénitra,CDI ,confirmé,Bac+3,Remote partiel,5k,Français,Langues étrangères; Gestion réservations,2024-12-22,9
+OFF-0309,GUIDE TOURISTIQUE,Tourisme,Alten Maroc,Casablanca,,Cdi,5-8 ans,Bac+5 / Master,teletravail,6k,Français; Arabe,LANGUES ÉTRANGÈRES; GESTION RÉSERVATIONS; PACK OFFICE; ACCUEIL CLIENT,2024-12-26,43
+OFF-0310,Ingénieur civil,BTP,Inwi,MEKNÈS,Fès-Meknès,freelance,confirmé,Bac+5 / Master,Remote partiel,12600,Anglais,Gestion de chantier; Revit; Béton armé; MS Project; AutoCAD,2024-11-09,38
+OFF-0311,DATA SCIENTIST,IT & Tech,managem,CASABLANCA,Casablanca-Settat,cdi,0-2 ans,Bac+5 / Master,HYBRIDE,10300,Français; Anglais,Python; Azure; TypeScript; Kubernetes,2024-12-11,32
+,,,,,,,,,,,,,,
+OFF-0313,Réceptionniste hôtel,Tourisme,SII Group,CASABLANCA,Casablanca-Settat,CONTRAT CDI,débutant,Bac+5 / Master,Mixte,4100,Français,Gestion réservations / Pack Office,2024-08-27,15
+OFF-0314,CYBERSECURITE,IT & Tech,KPMG Maroc,Marrakesh,Marrakech-Safi,CDI,0 à 2 ans,Bac+3,PRÉSENTIEL,10900-13080,,"Agile/Scrum, React, SQL, Docker",2024-09-10,7
+OFF-0315,CM,Commerce,Capgemini Maroc,casablanca,Casablanca-Settat,cdi,confirmé,Sans diplôme requis,Hybride,6900,Anglais,SEO; Salesforce; Excel; Négociation; Google Ads,2024-05-10,31
+OFF-0316,RESPONSABLE COMMERCIAL,Commerce,OCP Group,Casa,Casablanca-Settat,contrat CDI,Confirmé,Bac+3,PRÉSENTIEL,11300,Français; Anglais,SEO; Salesforce; Excel; Négociation; Analyse de marché,2024-04-27,
+OFF-0317,frontend developer,IT & Tech,vivo energy,RABAT,Rabat-Salé-Kénitra,cdi,Confirmé,Sans diplôme requis,Hybrid,10200,Français,JavaScript; TypeScript,2024-07-18,13
+OFF-0318,MARKETING DIGITAL,Commerce,Attijariwafa Bank,AGADIR,Souss-Massa,CDD ,2 à 5 ans,Sans diplôme requis,TÉLÉTRAVAIL,7600,Français,Google Ads; SEO; Excel; Négociation; CRM,2024-04-17,43
+OFF-0319,UXUI Designer,IT & Tech,KPMG Maroc,Tanger-Med,Tanger-Tétouan-Al Hoceïma,Stage,Confirmé,Bac+2,Mixte,3192,Français,"SQL, Azure, Node.js, Linux",09-03-2024,26
+OFF-0320,Directeur Commercial,Commerce,SII Group,CASABLANCA,Casablanca-Settat,Cdi,confirmé,Bac+5 / Master,présentiel,12600,Français; Anglais; Arabe,"Email Marketing, SEO",2025-02-12,34
+OFF-0321,UXUI Designer,IT & Tech,BMCE Bank,OUJDA,Oriental,Cdd,0/2 ans,Bac+2,En présentiel,6900 ,Français; Anglais; Arabe,Azure; SQL,2024-07-22,41
+OFF-0322,Machine Learning Engineer,IT & Tech,RAM,tanger,,CDI ,2-5ans,Bac+5 / Master,HYBRIDE,,Français; Anglais; Arabe,SQL - Docker - TypeScript - Node.js,2024-05-01,43
+OFF-0323,Chef Projet IT,IT & Tech,KPMG Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,contrat CDD,5-8 ans,Bac+5 / Master,Full remote,17800-21360,Français,Linux; Git; REST API,02-28-2025,25
+OFF-0324,Analyste Finance,Finance & RH,SQLI Maroc,fès,Fès-Meknès,CDD ,Senior,Bac+3,HYBRIDE,13800,Français; Anglais; Arabe,Consolidation; IFRS; SAP,2024-12-02,15
+OFF-0325,CYBERSECURITE,IT & Tech,TechMa Solutions,Casablanca-Settat,Casablanca-Settat,cdd,2-5ans,Bac+3,Hybrid,13700 DH,Français; Anglais,Node.js; AWS; Linux,2024-12-09,26
+OFF-0326,Analyste Finance,Finance & RH,ONCF,CASABLANCA,Casablanca-Settat,CDD,Confirmé,Bac+2,HYBRIDE,11000,Anglais,Excel avancé / SAP / Paie / Audit,2024-08-18,24
+OFF-0327,Technicien maintenance,Industrie,BMCE Bank,OUJDA,Oriental,contrat CDD,0/2 ans,Sans diplôme requis,sur site,5200,Français; Anglais; Arabe,ISO 9001 - Lean Manufacturing - AMDEC - AutoCAD,2024-05-08,34
+OFF-0328,Cyber Sécurité Analyst,IT & Tech,Vivo Energy,Casablanca,,CDI,2-5 ans,Bac+3,hybride,15400 DH,Français; Anglais; Arabe,MONGODB; DOCKER,2024-11-27,43
+OFF-0329,Project Manager IT,IT & Tech,Lydec,MEKNÈS,Fès-Meknès,contrat CDI,Confirmé,Bac+5 / Master,En présentiel,15500,Français,TensorFlow; Kubernetes; SQL; JavaScript; React,2024-07-16,
+OFF-0330,devops engineer,IT & Tech,Capgemini Maroc,RABAT,Rabat-Salé-Kénitra,STAGE,2/5 ans,Bac+2,présentiel,3470,Français; Anglais; Arabe,Java; AWS; TypeScript,14/08/2024,8
+OFF-0331,PHARMACIEN,Santé,Accenture Maroc,Tanger-Med,Tanger-Tétouan-Al Hoceïma,Freelance,0 à 2 ans,Bac+5 / Master,hybride,13400,Français,,2024-11-12,18
+OFF-0332,Resp. Qualité,Industrie,BMCE Bank,Agadir-Ida,Souss-Massa,CONTRAT CDI,0-2 ans,Bac+5 / Master,hybride,7800,Français; Anglais; Arabe,AutoCAD; Lean Manufacturing; SolidWorks; AMDEC,2024-05-02,32
+OFF-0333,ANALYSTE FINANCIER,Finance & RH,Orange Maroc,Tanger-Med,Tanger-Tétouan-Al Hoceïma,CDI ,senior,Bac+3,Présentiel,17000,Français; Anglais,IFRS; Excel avancé; Paie; Consolidation; Audit,2024-06-21,27 jours
+OFF-0334,backend developer,IT & Tech,Label'Vie,Oujda-Angad,,C.D.I,junior,Bac+2,HYBRIDE,9700,Français / Anglais / Arabe,PYTHON; JAVASCRIPT; DOCKER; GIT; JAVA,2024-05-02,
+OFF-0335,Développeur FrontEnd,IT & TECH,Vivo Energy,CASABLANCA,,Cdi,2-5 ans,Bac+2,En présentiel,10100,Français; Anglais; Arabe,"Docker, Power BI, Node.js, Git",2024-07-31,7
+OFF-0336,Commercial,Commerce,TechMa Solutions,Marrakech,Marrakech-Safi,Indépendant,Expert,Bac+8 / Doctorat,sur site,15600,Français; Arabe,CRM; Analyse de marché,,999
+OFF-0337,DRH,Finance & RH,Capgemini Maroc,Kenitra,Rabat-Salé-Kénitra,Stagiaire,2-5 ans,Bac+2,PRÉSENTIEL,4525,Français; Anglais; Arabe,Paie; SAP; Audit,02-06-2025,42
+OFF-0338,chef de projet,IT & Tech,Managem,AGADIR,,freelance,5/8 ans,Bac+2,Présentiel,23300,Français; Anglais,SQL; Java; MongoDB,2024-07-08,29
+OFF-0339,Ingenieur Réseaux,IT & Tech,OCP Group,AGADIR,Souss-Massa,FREELANCE,Débutant,Bac+5 / Master,Hybrid,10400,Anglais,React; Kubernetes; Docker; AWS; Agile/Scrum,2024-08-25,32
+OFF-0339,Ingenieur Réseaux,IT & Tech,OCP Group,AGADIR,Souss-Massa,FREELANCE,Débutant,Bac+5 / Master,Hybrid,10400,Anglais,React; Kubernetes; Docker; AWS; Agile/Scrum,2024-08-25,32
+OFF-0341,analyste financier,Finance & RH,Ernst & Young Maroc,RABAT,Rabat-Salé-Kénitra,C.D.I,Confirmé,Sans diplôme requis,TÉLÉTRAVAIL,13200,Français; Anglais; Arabe,SAP; Paie; IFRS,2024-05-31,44
+OFF-0342,Contrôleur gestion,Finance & RH,ALTEN MAROC,CASABLANCA,Casablanca-Settat,Alternance,Senior,Bac+5 / Master,presentiel,5928,Français; Anglais,Consolidation; IFRS; Paie; Droit du travail,2024-08-29,999
+OFF-0343,Auditeur,Finance & RH,Akdital,Casablanca,Casablanca-Settat,cdi,8ans+,Bac+8 / Doctorat,Remote,21100,Français; Arabe,,2024-03-10,9
+OFF-0344,ing production,,MAROC TELECOM,Casa,Casablanca-Settat,contrat CDI,Expert,Bac+5 / Master,En présentiel,15900,Français; Anglais,,2024-10-17,44
+OFF-0345,auditeur financier,Finance & RH,HPS,fès,Fès-Meknès,CONTRAT CDI,5 à 8 ans,Bac+3,hybride,13000,Français; Arabe,Consolidation; SAGE; SAP,2024-03-24,20
+OFF-0346,Controller,Finance & RH,Carrefour Maroc,marrakech,Marrakech-Safi,Cdi,8ans+,Bac+2,teletravail,18300,Anglais,SAP; Excel avancé; IFRS,2025-02-15,35
+OFF-0347,ml engineer,IT & Tech,CGI Maroc,RABAT,Rabat-Salé-Kénitra,CDI ,Confirmé,Bac+5 / Master,Télétravail,16500,Français; Arabe,AWS; Azure; TensorFlow; Git,2024-05-22,11
+OFF-0348,Directeur Commercial,Commerce,UM6P,Rabat-Salé,Rabat-Salé-Kénitra,Stage,confirmé,Bac+5 / Master,Sur site,4278,Anglais,Salesforce; SEO; Négociation,25 September 2024,42
+OFF-0349,RESPONSABLE COMMERCIAL,Commerce,TechMa Solutions,Fès,Fès-Meknès,CONTRAT CDI,5 à 8 ans,Bac+3,Sur site,16200,"Français, Arabe","SEO, Négociation, Email Marketing, Analyse de marché, CRM",2024-11-01,23
+OFF-0350,RESPONSABLE RH,Finance & RH,UM6P,Oujda,Oriental,contrat CDI,Senior,Bac+2,HYBRIDE,10600,Français; Anglais,IFRS - SAGE,2024-08-18,45
+OFF-0351,Paie Manager,Finance & RH,Attijariwafa Bank,MEKNÈS,Fès-Meknès,contrat CDD,Confirmé,BAC+5 / MASTER,Mixte,7000 ,Français,Consolidation; SAP; Audit; Excel avancé,2024-12-02,40
+OFF-0352,ux-ui designer,IT & Tech,UM6P,Casa,Casablanca-Settat,C.D.I,2-5 ans,Bac+3,Work from home,11300,Français; Anglais,Kubernetes; Power BI; Python,2025-02-02,25
+OFF-0353,Chef Projet IT,IT & Tech,Label'Vie,RABAT,Rabat-Salé-Kénitra,CDD,Confirmé,Sans diplôme requis,Sur site,13200,Français; Arabe,Agile/Scrum - JavaScript - React - Power BI,2025-02-05,33
+OFF-0354,Développeur BackEnd,IT & Tech,SQLI Maroc,Caza,Casablanca-Settat,cdi,2 à 5 ans,BAC+5 / MASTER,Sur site,,Français; Anglais; Arabe,JavaScript / REST API,31/07/2024,9
+OFF-0355,medecin generaliste,Santé,Deloitte Maroc,Tanger,Tanger-Tétouan-Al Hoceïma,Stage,0 à 2 ans,Bac+5 / Master,sur site,3794,Anglais,"Diagnostic, Soins infirmiers, Pharmacologie, Éthique médicale",2024-10-11,40
+OFF-0356,FRONTEND DEVELOPER,IT & Tech,CGI Maroc,Marrakech,Marrakech-Safi,cdi,Junior,Bac+5 / Master,présentiel,7500,Français,"Docker, React, Power BI, Python",2024-09-16,12
+OFF-0357,Developpeur FullStack,IT & Tech,Accenture Maroc,tanger,Tanger-Tétouan-Al Hoceïma,Stage de fin d'études,5 à 8 ans,Bac+5 / Master,teletravail,3145,Français,SQL; REST API; React; Kubernetes; Python,2024-04-01,45
+OFF-0358,INGÉNIEUR PRODUCTION,Industrie,Accenture Maroc,MARRAKECH,Marrakech-Safi,Stagiaire,junior,Sans diplôme requis,Hybride,4974,Français; Arabe,PLC/SCADA / AMDEC,2024-06-16,37
+OFF-0359,Conducteur travaux,BTP,UM6P,Tanjah,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,2-5 ans,Bac+5 / Master,Télétravail,9700,Français,AutoCAD; Revit; MS Project,2024-08-08,15
+OFF-0360,Infirmier,Santé,,Casa,Casablanca-Settat,Freelance,2-5ans,Bac+5 / Master,Full remote,8800,Français; Anglais; Arabe,Diagnostic; Éthique médicale; Pharmacologie; Soins infirmiers,2024-12-29,15
+OFF-0361,INFIRMIER,Santé,PwC Maroc,Marrakch,Marrakech-Safi,CONTRAT CDI,5-8 ans,Sans diplôme requis,sur site,10800,Français,Éthique médicale; Soins infirmiers; Pharmacologie,2024-07-30,21
+OFF-0362,Médecin,Santé,Lafarge Holcim,Caza,Casablanca-Settat,CDD,Expert,Bac+3,Remote partiel,,Anglais,Éthique médicale - Soins infirmiers,2024-06-12,17
+OFF-0363,Paie Manager,Finance & RH,BMCE Bank,Marrakech,Marrakech-Safi,Cdi,5-8 ans,Sans diplôme requis,En présentiel,10500,Anglais,"Excel avancé, Consolidation, SAGE, IFRS, Paie",2024-05-14,30
+OFF-0364,Médecin,Santé,PwC Maroc,Meknès,Fès-Meknès,contrat CDI,0-2 ans,Bac+5 / Master,HYBRIDE,12400,Anglais,Diagnostic; Éthique médicale; Soins infirmiers,2025-02-01,43
+OFF-0365,Controller,Finance & RH,Label'Vie,Agadir,Souss-Massa,CONTRAT CDI,5/8 ans,Bac+5 / Master,Présentiel,14700,,SAP; SAGE,2024-12-17,41
+OFF-0366,Développeur FrontEnd,IT & Tech,PwC Maroc,Casablanca-Settat,Casablanca-Settat,cdi,0-2ans,Bac+2,En présentiel,8800,Français; Anglais,SQL - Docker - Linux,2025-01-09,38
+OFF-0367,COMMUNITY MANAGER,Commerce,Ernst & Young Maroc,rabat,Rabat-Salé-Kénitra,contrat CDI,8ans+,BAC+2,présentiel,,Français; Arabe,Salesforce; Analyse de marché; Excel; SEO,2024-03-15,8
+OFF-0368,RESPONSABLE COMMERCIAL,Commerce,Renault Maroc,Meknès,Fès-Meknès,CDI,0/2 ans,Bac+5 / Master,Mixte,10100-12120,Anglais,SEO; Excel,2024-05-18,39
+OFF-0369,Marketer Digital,Commerce,BMCE Bank,Marrakesh,Marrakech-Safi,C.D.I,Confirmé,Bac+5 / Master,sur site,9600,Français,Salesforce; Google Ads,2025-01-20,21
+OFF-0370,DATA ENGINEER,IT & Tech,PEUGEOT MAROC,rabat,Rabat-Salé-Kénitra,Cdi,8ans+,Bac+8 / Doctorat,PRÉSENTIEL,24800,Anglais,MongoDB; AWS; Power BI,2024-12-11,
+OFF-0371,DevOps,IT & Tech,Marjane,agadir,Souss-Massa,cdi,0-2ans,Bac+5 / Master,En présentiel,12400,Français; Anglais; Arabe,MongoDB; TensorFlow; Agile/Scrum; REST API,,45
+OFF-0372,Médecin,Santé,Peugeot Maroc,AGADIR,Souss-Massa,C.D.I,0-2 ans,Bac+5 / Master,En présentiel,12000,Anglais,"Diagnostic, Éthique médicale, Soins infirmiers, Pharmacologie",2024-04-23,13
+OFF-0373,Dat Engineer,IT & TECH,Attijariwafa Bank,Casablanca-Settat,Casablanca-Settat,C.D.I,Expérimenté,Sans diplôme requis,hybride,19800,Anglais,"Power BI, MongoDB, JavaScript, Java",2024-12-13,38 jours
+OFF-0374,RESPONSABLE RH,FINANCE & RH,CGI Maroc,Casablanca,Casablanca-Settat,cdd,+ de 8 ans,Bac+2,Mixte,13300,Français; Arabe,Droit du travail / Audit / Consolidation,2024-03-28,45
+OFF-0375,pharmacien,Santé,CGI Maroc,Casablanca,,Cdi,Senior,BAC+2,sur site,15600,Anglais,Diagnostic; Pharmacologie; Soins infirmiers; Éthique médicale,11-30-2024,31
+OFF-0376,receptionniste hotel,,Alten Maroc,CASABLANCA,,contrat CDI,Débutant,Bac+3,Présentiel,4300-5160,Français; Anglais; Arabe,"Gestion réservations, Accueil client, Langues étrangères, Pack Office",2024-05-07,40
+OFF-0377,MÉDECIN GÉNÉRALISTE,Santé,HPS,Caza,Casablanca-Settat,contrat CDD,Senior,Bac+5 / Master,En présentiel,18500,Anglais,Soins infirmiers - Éthique médicale - Diagnostic - Pharmacologie,2024-06-23,26
+OFF-0378,ML Ingénieur,IT & Tech,Orange Maroc,CASABLANCA,Casablanca-Settat,CDD ,Senior,Sans diplôme requis,télétravail,18700,Français,Java; Linux; Node.js; Power BI,2025-02-21,28
+OFF-0379,Admin Système,IT & Tech,CGI Maroc,Tanger,Tanger-Tétouan-Al Hoceïma,CDD,2-5 ans,Bac+3,hybride,8700,Français; Anglais; Arabe,Agile/Scrum; MongoDB; Kubernetes; Linux; Azure,2024-12-04,
+OFF-0380,ML Ingénieur,IT & Tech,Total Maroc,tanger,Tanger-Tétouan-Al Hoceïma,contrat CDI,Junior,Bac+5 / Master,PRÉSENTIEL,12900,Français; Anglais,Azure; Python; Linux; React; Java,2024-07-19,
+OFF-0381,ML Ingénieur,IT & Tech,HPS,casablanca,Casablanca-Settat,Cdd,5 à 8 ans,Bac+3,Sur site,17400,Français; Arabe,Python; React; Linux; Power BI; AWS,2024-09-16,41
+OFF-0382,CYBERSECURITE,IT & Tech,Ernst & Young Maroc,Fès,Fès-Meknès,CDD,Confirmé,Bac+3,Mixte,11700,"Français, Arabe",Java; Docker; TensorFlow,2024-10-06,17
+OFF-0383,Machine Learning Engineer,IT & Tech,Maroc Telecom,rabat,Rabat-Salé-Kénitra,freelancer,0 à 2 ans,Bac+3,Remote partiel,14800,Français; Anglais; Arabe,Docker; Agile/Scrum; TypeScript; AWS,2024-12-06,27
+OFF-0384,GUIDE TOURISTIQUE,Tourisme,Université Hassan II,MARRAKECH,Marrakech-Safi,Cdi,2-5ans,Bac+5 / Master,Sur site,5500,Français; Anglais,Gestion réservations; Langues étrangères,2024-10-12,43 jours
+OFF-0385,Quality Manager,INDUSTRIE,Capgemini Maroc,Casa,Casablanca-Settat,contrat CDD,Junior,Bac+2,hybride,7500,Français,PLC/SCADA; AMDEC; AutoCAD; Lean Manufacturing,01/01/1900,39
+OFF-0386,RÉCEPTIONNISTE,Tourisme,Akdital,casablanca,Casablanca-Settat,Contrat d'alternance,8+,Bac+5 / Master,sur site,5843,Français / Anglais,,10-09-2024,45
+OFF-0387,Dta Scientist,IT & Tech,Orange Maroc,Rabat,Rabat-Salé-Kénitra,CDD,0-2 ans,Bac+3,Hybrid,8500,Français,JavaScript; Agile/Scrum,2024-07-03,
+OFF-0388,Machine Learning Engineer,IT & Tech,RAM,Tanger,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,5 à 8 ans,Bac+2,En présentiel,19800,Français; Arabe,"Kubernetes, TensorFlow, Java",2025-02-16,
+OFF-0389,Technicien maintenance,,Akdital,Casablanca,Casablanca-Settat,Stagiaire,débutant,Bac+3,hybride,2633,Français; Anglais; Arabe,AMDEC / AutoCAD / ISO 9001,16/10/2024,8
+OFF-0390,développeur full stack,IT & Tech,Atlantic Digital,Tanger-Med,Tanger-Tétouan-Al Hoceïma,CDI,2-5 ans,Bac+5 / Master,hybride,12600,Français,Power BI; TensorFlow; Docker; AWS,03/01/2025,
+OFF-0391,Ingenieur Réseaux,IT & Tech,CIH Bank,Casa,Casablanca-Settat,C.D.D,8+ ans,Bac+5 / Master,Full remote,15100,Français; Arabe,Docker; TypeScript; MongoDB,2024-06-18,37
+OFF-0392,INFIRMIER,Santé,Carrefour Maroc,CASABLANCA,Casablanca-Settat,contrat CDI,8+ ans,BAC+3,Remote partiel,13500,Français; Anglais,Pharmacologie; Éthique médicale; Diagnostic; Soins infirmiers,2024-05-03,39
+OFF-0393,PRODUCT MANAGER,IT & Tech,Accenture Maroc,rabat,Rabat-Salé-Kénitra,C.D.I,confirmé,Bac+8 / Doctorat,PRÉSENTIEL,16800,Français,TensorFlow; Docker; TypeScript,2024-08-03,42
+OFF-0394,Resp. Commercial,,Peugeot Maroc,MEKNÈS,Fès-Meknès,FREELANCE,confirmé,Bac+5 / Master,PRÉSENTIEL,13300,,Google Ads; Email Marketing; Excel; SEO; Salesforce,2024-08-13,26
+OFF-0395,INGÉNIEUR GÉNIE CIVIL,BTP,UM6P,Casablanca-Settat,Casablanca-Settat,CDI,confirmé,Bac+5 / Master,presentiel,10800,Français; Arabe,MS Project; Gestion de chantier; Béton armé; AutoCAD,2024-07-24,36
+OFF-0395,INGÉNIEUR GÉNIE CIVIL,BTP,UM6P,Casablanca-Settat,Casablanca-Settat,CDI,confirmé,Bac+5 / Master,presentiel,10800,Français; Arabe,MS Project; Gestion de chantier; Béton armé; AutoCAD,2024-07-24,36
+OFF-0397,Dta Scientist,IT & Tech,Accenture Maroc,tanger,Tanger-Tétouan-Al Hoceïma,STAGE,8+ ans,Bac+3,télétravail,3904,Français,SQL; Git; Java,2024-07-20,32
+OFF-0398,Marketing Digital,Commerce,UM6P,Casablanca-Settat,Casablanca-Settat,CONTRAT CDI,0-2 ans,Bac+3,sur site,7000,Français,Analyse de marché; Négociation,2025-02-18,10
+OFF-0399,UX Designer,IT & Tech,Label'Vie,TANGER,,Cdi,Confirmé,Bac+5 / Master,Hybrid,10100,Français; Anglais,"Node.js, Docker, MongoDB, AWS, React",2024-11-19,999
+OFF-0400,CHEF DE PROJET IT,IT & Tech,Orange Maroc,oujda,Oriental,Cdi,0 à 2 ans,Bac+5 / Master,HYBRIDE,13600,Anglais,Node.js; JavaScript; TypeScript,2025-01-18,39
+OFF-0401,Ingénieur civil,BTP,Total Maroc,Casa,Casablanca-Settat,freelancer,5/8 ans,Bac+2,PRÉSENTIEL,19600 DH,Français; Anglais,Revit; AutoCAD; Béton armé; Gestion de chantier,2024-09-17,30
+OFF-0402,dev frontend,IT & Tech,Peugeot Maroc,Marrakesh,Marrakech-Safi,Cdi,Senior,Bac+3,En présentiel,12900,Français; Arabe,TensorFlow; Python,2024-11-02,19
+OFF-0403,infirmière,Santé,Capgemini Maroc,TANGER,,Cdi,débutant,Bac+5 / Master,Sur site,5700,Français; Anglais,,2024-08-05,
+OFF-0404,Admin Système,IT & Tech,ONCF,Caza,Casablanca-Settat,contrat CDI,2-5ans,Bac+5 / Master,Mixte,11700,Français; Anglais; Arabe,Agile/Scrum / Kubernetes / Git / REST API,2024-10-17,999
+OFF-0405,CHEF DE PROJET IT,IT & Tech,Total Maroc,Rabat,Rabat-Salé-Kénitra,cdd,2-5ans,Bac+5 / Master,PRÉSENTIEL,15300,Français; Anglais,Node.js; Kubernetes; REST API; Agile/Scrum,2024-07-26,40
+OFF-0406,backend developer,,MAROC TELECOM,rabat,Rabat-Salé-Kénitra,C.D.I,0 à 2 ans,Bac+3,TÉLÉTRAVAIL,9400,Français; Arabe,POWER BI; TYPESCRIPT; KUBERNETES; JAVASCRIPT,2024-04-19,20
+OFF-0407,CM,,Atlantic Digital,Marrakech,Marrakech-Safi,CONTRAT CDI,2/5 ans,Bac+2,présentiel,7600,Français; Anglais,Google Ads; Analyse de marché,2024-08-28,14
+OFF-0408,Réceptionniste hôtel,Tourisme,SQLI Maroc,Meknès,,freelancer,Expérimenté,Bac+3,PRÉSENTIEL,9300 DH,Français; Arabe,"Langues étrangères, Accueil client, Gestion réservations",2024-04-18,28
+OFF-0409,gestionnaire de paie,Finance & RH,Atlantic Digital,Casablanca-Settat,Casablanca-Settat,Indépendant,Confirmé,Bac+5 / Master,PRÉSENTIEL,10800-12960,Français; Arabe,Droit du travail; SAP; SAGE; Excel avancé,2025-01-18,29
+OFF-0410,Cybersecurity,IT & Tech,Université Hassan II,Caza,Casablanca-Settat,CDI,débutant,Sans diplôme requis,presentiel,9100,Français,"Docker, Git",,15
+OFF-0411,DRH,Finance & RH,OCP Group,RABAT,Rabat-Salé-Kénitra,cdd,confirmé,Bac+2,Remote partiel,8800,Français; Anglais; Arabe,IFRS / Audit / Droit du travail,2024-07-19,18
+OFF-0412,Analyste Finance,Finance & RH,RAM,rabat,Rabat-Salé-Kénitra,CDI,confirmé,Bac+3,Remote partiel,11300,Français / Anglais / Arabe,Audit; IFRS; SAP; Paie; SAGE,2024-08-26,25
+OFF-0413,PM,IT & Tech,Lafarge Holcim,Marrakch,Marrakech-Safi,CDD ,Débutant,Bac+5 / Master,Sur site,9800,Français; Anglais; Arabe,TensorFlow / React,2025-02-18,9
+OFF-0414,Sysadmin,IT & Tech,CGI Maroc,Caza,Casablanca-Settat,cdd,Débutant,Bac+3,En présentiel,7600,Français,Git; Agile/Scrum,,34
+OFF-0415,Resp. Commercial,Commerce,KPMG MAROC,Tanger-Med,Tanger-Tétouan-Al Hoceïma,C.D.I,expert,Bac+2,TÉLÉTRAVAIL,21600 ,Français; Anglais,CRM; Négociation; Google Ads; Email Marketing,2024-10-07,25
+OFF-0416,Responsable qualité,Industrie,Ernst & Young Maroc,Casablanca-Settat,Casablanca-Settat,contrat CDI,0-2ans,Bac+5 / Master,PRÉSENTIEL,7000,Français; Anglais,PLC/SCADA - Lean Manufacturing - SolidWorks - ISO 9001,2025-01-22,35
+OFF-0417,DEVOPS ENGINEER,IT & Tech,CIH Bank,Marrakech,Marrakech-Safi,STAGE,5-8 ans,Bac+2,TÉLÉTRAVAIL,3202,Français; Anglais; Arabe,Python; Kubernetes; AWS; MongoDB; Java,2024-05-18,23
+OFF-0418,backend dev,IT & Tech,SQLI Maroc,Tanger-Med,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,0-2 ans,Bac+2,HYBRIDE,9100 DH,Français / Arabe,SQL; Docker,08 August 2024,28
+OFF-0419,Quality Manager,Industrie,INWI,tanger,Tanger-Tétouan-Al Hoceïma,Cdi,2-5 ans,,En présentiel,11000,Anglais,AMDEC; ISO 9001; PLC/SCADA,05 June 2024,10
+OFF-0420,Administrateur sys,IT & TECH,RAM,Casablanca,Casablanca-Settat,CONTRAT CDI,2 à 5 ans,Bac+2,sur site,10700,Français; Arabe,Azure; TensorFlow; AWS; REST API,08-14-2024,17
+OFF-0421,chef de projet,,RAM,Tanger,,contrat CDD,2-5ans,BAC+3,Mixte,12700,Français; Anglais,Kubernetes; Node.js; Git; React,2024-11-22,14
+OFF-0422,ANALYSTE FINANCIER,Finance & RH,Renault Maroc,marrakech,Marrakech-Safi,Cdi,2-5ans,BAC+5 / MASTER,presentiel,10500,"Français, Anglais, Arabe","Excel avancé, Consolidation, SAP",2025-02-27,999
+OFF-0423,chargé marketing,Commerce,Akdital,Marrakech,,CONTRAT CDI,senior,Bac+5 / Master,présentiel,11900-14280,Français,"Salesforce, Email Marketing, CRM, Google Ads, Excel",2024-09-24,25
+OFF-0424,INFIRMIER,Santé,CGI Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,2/5 ans,Bac+3,TÉLÉTRAVAIL,8200,Français; Arabe,Soins infirmiers; Pharmacologie; Éthique médicale,2024-12-29,43
+OFF-0425,comptable junior,Finance & RH,Renault Maroc,Rabat,Rabat-Salé-Kénitra,Freelance,Confirmé,Bac+5 / Master,sur site,7700,Français,Excel avancé; SAP; Consolidation; Paie; Audit,2025-02-05,18
+OFF-0426,Dev Full Stack,IT & Tech,OCP Group,Casablanca,Casablanca-Settat,CDI ,2 à 5 ans,Bac+5 / Master,sur site,10900 DH,Français; Anglais,"Git, Azure",2024-05-15,31
+OFF-0427,Médecin,Santé,BMCE Bank,Tanger,,contrat CDI,senior,Bac+3,En présentiel,25600 DH,Français,Éthique médicale / Soins infirmiers / Diagnostic,2024-04-23,8
+OFF-0428,UX UI Designer,IT & Tech,Accenture Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,junior,Bac+2,Mixte,7300,Anglais,Linux; JavaScript; Power BI,2024-07-16,23
+OFF-0429,Community manager,Commerce,DATAVISION MAROC,FÈS,Fès-Meknès,freelancer,5 à 8 ans,Bac+5 / Master,Présentiel,12500,Français; Anglais,CRM; Google Ads; Salesforce; Email Marketing; Analyse de marché,2025-01-27,27
+OFF-0430,data-scientist,IT & Tech,Carrefour Maroc,rabat,Rabat-Salé-Kénitra,C.D.I,5 à 8 ans,Bac+5 / Master,Hybrid,20100,Français; Anglais,TypeScript - Python - MongoDB,2024-09-28,36
+OFF-0431,SysAdmin,IT & Tech,OCP GROUP,Tanger,Tanger-Tétouan-Al Hoceïma,contrat CDI,2 à 5 ans,Bac+3,Sur site,11700,"Français, Arabe",TypeScript; Git,,31
+OFF-0432,UXUI Designer,IT & Tech,Deloitte Maroc,AGADIR,Souss-Massa,Alternance,0/2 ans,Bac+2,HYBRIDE,4490,Français; Anglais; Arabe,TypeScript; React,2025-01-22,37
+OFF-0433,Docteur,Santé,Atlantic Digital,rabat ,Rabat-Salé-Kénitra,contrat CDI,2/5 ans,Sans diplôme requis,Présentiel,19700,Français; Arabe,"Diagnostic, Pharmacologie, Soins infirmiers, Éthique médicale",2024-08-24,
+OFF-0434,infirmière,Santé,TechMa Solutions,RABAT,Rabat-Salé-Kénitra,contrat CDD,2/5 ans,Bac+5 / Master,Mixte,7100,Français,Soins infirmiers; Éthique médicale; Pharmacologie; Diagnostic,16/09/2024,15
+OFF-0435,Analyst BI,IT & Tech,CIH Bank,Fes,Fès-Meknès,CDI ,senior,Bac+8 / Doctorat,Hybrid,14600,Anglais,,01/01/1900,27
+OFF-0436,infirmière,Santé,Atlantic Digital,Meknès,Fès-Meknès,CDI,2-5ans,Bac+5 / Master,En présentiel,,Anglais,"Soins infirmiers, Pharmacologie, Éthique médicale, Diagnostic",2024-12-07,11
+OFF-0437,Audit Financier,Finance & RH,Lafarge Holcim,Marrakch,Marrakech-Safi,C.D.I,confirmé,BAC+5 / MASTER,HYBRIDE,12200,,Excel avancé; Droit du travail; Audit; Paie,2024-07-06,19
+OFF-0438,PRODUCT MANAGER,IT & Tech,Attijariwafa Bank,Casablanca-Settat,Casablanca-Settat,Cdi,0-2ans,Sans diplôme requis,Remote,11500,Français; Arabe,SQL; REST API; Java; Agile/Scrum; Azure,2025-02-12,27
+OFF-0439,ML Ingénieur,IT & Tech,CGI Maroc,Agadir,Souss-Massa,CDD,0/2 ans,,Présentiel,9800 DH,Français; Arabe,Kubernetes; Power BI,,9
+OFF-0440,receptionniste hotel,Tourisme,Inwi,Casa,Casablanca-Settat,CDI,débutant,Bac+3,Sur site,4100,Français; Anglais; Arabe,Gestion réservations; Accueil client,10-18-2024,16
+OFF-0441,RESPONSABLE QUALITE,Industrie,Université Hassan II,MARRAKECH,Marrakech-Safi,Free-lance,confirmé,,Hybrid,11300,Français; Anglais,AMDEC / ISO 9001,2024-07-06,15
+OFF-0442,pharmacien,Santé,ORANGE MAROC,CASABLANCA,Casablanca-Settat,Freelance,2-5ans,Bac+8 / Doctorat,HYBRIDE,15000,Français; Anglais,Soins infirmiers; Pharmacologie; Diagnostic; Éthique médicale,2025-02-04,28
+OFF-0443,HR Manager,Finance & RH,PwC Maroc,Rabat-Salé,Rabat-Salé-Kénitra,Indépendant,5-8ans,Bac+8 / Doctorat,présentiel,13700,Français; Anglais; Arabe,Consolidation; Paie,2024-08-02,9
+OFF-0444,Analyste Finance,Finance & RH,ONCF,rabat,Rabat-Salé-Kénitra,CDD,Expérimenté,Sans diplôme requis,sur site,12400,Français; Arabe,Consolidation; SAP,2024-08-13,9
+OFF-0445,Infirmier/ère,Santé,CGI Maroc,Tetouan,Tanger-Tétouan-Al Hoceïma,Cdi,2 à 5 ans,,En présentiel,7300,Français; Anglais,Soins infirmiers; Éthique médicale; Diagnostic; Pharmacologie,2024-09-17,21
+OFF-0446,RÉCEPTIONNISTE,Tourisme,BMCE Bank,rabat ,,freelancer,Confirmé,Bac+3,Hybride,6800,,Accueil client; Pack Office; Langues étrangères; Gestion réservations,2024-04-21,7
+OFF-0447,HR Manager,Finance & RH,TechMa Solutions,Agadir,Souss-Massa,contrat CDI,0/2 ans,Bac+5 / Master,télétravail,6100,Français; Arabe,SAP; IFRS; SAGE; Consolidation; Audit,07/10/2024,999
+OFF-0448,Infirmier/ère,Santé,Atlantic Digital,rabat,,CONTRAT CDI,2-5 ans,Bac+5 / Master,Hybride,7700,Français; Arabe,Éthique médicale / Soins infirmiers / Diagnostic,03 July 2024,8
+OFF-0449,cyber analyst,IT & Tech,Inwi,MARRAKECH,Marrakech-Safi,Indépendant,confirmé,Bac+5 / Master,Work from home,17200,Français,MongoDB - Java - TypeScript,2024-04-07,28
+OFF-0450,infirmière,Santé,Université Hassan II,Casablanca-Settat,Casablanca-Settat,Stagiaire,Senior,Sans diplôme requis,PRÉSENTIEL,4621,Français; Arabe,"Soins infirmiers, Éthique médicale, Pharmacologie, Diagnostic",2024-05-25,41
+OFF-0451,Admin Système,IT & Tech,Université Hassan II,tanger,Tanger-Tétouan-Al Hoceïma,CONTRAT CDI,2/5 ans,Bac+3,HYBRIDE,11100,Français,React; Git; Linux,2025-02-05,
+OFF-0452,DATA ENGINEER,IT & Tech,Managem,Tanjah,Tanger-Tétouan-Al Hoceïma,contrat CDD,0 à 2 ans,Bac+5 / Master,Hybride,10500 DH,Français; Anglais; Arabe,Azure - Agile/Scrum - Linux - React,28/10/2024,19
+OFF-0453,Audit Financier,Finance & RH,Renault Maroc,Tanjah,Tanger-Tétouan-Al Hoceïma,FREELANCE,expert,Bac+3,Sur site,,Français; Anglais,Audit; IFRS; Excel avancé; Paie,2025-02-07,29
+OFF-0454,ING. RÉSEAU,IT & Tech,PwC Maroc,Agadir,Souss-Massa,cdd,2-5ans,Bac+5 / Master,En présentiel,10700,Français; Anglais; Arabe,TensorFlow; JavaScript; Azure,2025-01-12,14
+OFF-0455,analyste financier,Finance & RH,HPS,casablanca,Casablanca-Settat,Stage de fin d'études,Expérimenté,Bac+5 / Master,Full remote,3k,Français; Arabe,Audit; Droit du travail; IFRS; SAGE; Consolidation,2025-02-07,39
+OFF-0456,AUDITEUR,Finance & RH,DataVision Maroc,Rabat,Rabat-Salé-Kénitra,CONTRAT CDI,Senior,Sans diplôme requis,Mixte,14300,Anglais,"Audit, Paie, Excel avancé, IFRS, SAGE",2024-08-30,7
+OFF-0457,ing production,Industrie,CGI Maroc,casablanca,Casablanca-Settat,cdd,2 à 5 ans,Bac+3,En présentiel,9000,Français; Anglais; Arabe,PLC/SCADA; Lean Manufacturing; ISO 9001,2024-09-29,12
+OFF-0458,tech maintenance,Industrie,Ernst & Young Maroc,Agadir-Ida,Souss-Massa,contrat CDI,expert,Bac+5 / Master,sur site,12900,,ISO 9001; PLC/SCADA; AMDEC,01/01/1900,20
+OFF-0459,analyste financier,,Lydec,TANGER,Tanger-Tétouan-Al Hoceïma,contrat CDD,5-8ans,Bac+2,Hybride,14800,Français; Anglais,IFRS; SAP,2024-08-21,42
+OFF-0460,guide,Tourisme,Carrefour Maroc,OUJDA,Oriental,Freelance,Confirmé,Bac+2,presentiel,8000,Anglais,Langues étrangères; Accueil client,2024-03-21,36
+OFF-0461,INGÉNIEUR GÉNIE CIVIL,BTP,HPS,fès,Fès-Meknès,CDI,0 à 2 ans,Bac+5 / Master,En présentiel,8000,Anglais,AutoCAD; Béton armé,2024-04-04,29
+OFF-0462,SysAdmin,IT & Tech,Akdital,Marrakesh,Marrakech-Safi,C.D.D,+ de 8 ans,Bac+2,teletravail,15000,Français; Anglais,Node.js; Kubernetes; Linux; Azure,2024-09-25,43
+OFF-0463,CONTROLEUR DE GESTION,Finance & RH,OCP Group,CASABLANCA,Casablanca-Settat,Cdd,2/5 ans,Bac+3,Remote,10500,Anglais,SAGE; IFRS; Droit du travail; Paie,2024-12-29,42
+OFF-0464,data scientist,IT & Tech,ONCF,Oujda,,Cdi,confirmé,Sans diplôme requis,Présentiel,15400,Français; Anglais; Arabe,TypeScript; Kubernetes; JavaScript; AWS; Agile/Scrum,2024-05-31,34
+OFF-0465,Community manager,Commerce,Attijariwafa Bank,CASABLANCA,Casablanca-Settat,CDI ,Junior,BAC+2,PRÉSENTIEL,,Français; Anglais; Arabe,Négociation; CRM,2024-09-12,7
+OFF-0466,UXUI Designer,IT & Tech,Capgemini Maroc,Caza,Casablanca-Settat,C.D.D,8ans+,Bac+2,Full remote,13900,Français; Anglais,AWS; TensorFlow; Node.js; Azure; Git,2024-05-30,43
+OFF-0467,pharmacien,Santé,RAM,Rabat,Rabat-Salé-Kénitra,cdi,8ans+,Bac+5 / Master,HYBRIDE,18000,Anglais,Diagnostic; Pharmacologie; Soins infirmiers; Éthique médicale,2024-06-07,30
+OFF-0468,backend developer,IT & Tech,BMCE Bank,Tanjah,Tanger-Tétouan-Al Hoceïma,contrat CDI,0-2ans,Bac+5 / Master,En présentiel,7800,Français; Anglais,"SQL, Power BI, Docker",2024-08-16,30
+OFF-0469,auditeur financier,Finance & RH,Capgemini Maroc,CASABLANCA,Casablanca-Settat,freelancer,2 à 5 ans,Bac+5 / Master,En présentiel,13500,Français,Audit; Droit du travail; Excel avancé; SAGE; SAP,2024-05-06,7
+OFF-0470,HR Manager,Finance & RH,KPMG Maroc,CASABLANCA,Casablanca-Settat,Cdi,0 à 2 ans,Bac+2,Sur site,6000,Français; Anglais; Arabe,SAGE; Consolidation; Audit; Paie,2024-03-08,
+OFF-0471,Ingénieur ML,IT & Tech,ONCF,Caza,Casablanca-Settat,Cdi,2 à 5 ans,Bac+2,présentiel,16k,Français,Git; AWS; Java,2024-11-30,7
+OFF-0472,comptable junior,Finance & RH,Orange Maroc,Casablanca,Casablanca-Settat,Alternance,junior,Bac+3,Remote,5086 DH,Français; Anglais,Audit; Droit du travail; SAGE; SAP; Paie,2025-02-20,43
+OFF-0472,comptable junior,Finance & RH,Orange Maroc,Casablanca,Casablanca-Settat,Alternance,junior,Bac+3,Remote,5086 DH,Français; Anglais,Audit; Droit du travail; SAGE; SAP; Paie,2025-02-20,43
+OFF-0474,Paie Manager,Finance & RH,KPMG Maroc,rabat ,Rabat-Salé-Kénitra,Cdi,5-8 ans,Sans diplôme requis,télétravail,11300,Français; Anglais; Arabe,"Paie, SAGE",2025-01-26,9
+OFF-0475,guide touristique,Tourisme,Accenture Maroc,Casa,Casablanca-Settat,CDI,0-2 ans,Bac+3,Présentiel,4000,Anglais,"Accueil client, Langues étrangères",2024-04-24,36
+OFF-0476,Machine Learning Engineer,IT & Tech,,Meknes,Fès-Meknès,Cdi,Expérimenté,,Sur site,22700 DH,Anglais,AWS; MongoDB; TypeScript,2025-01-16,45
+OFF-0477,Marketing Digital,Commerce,Managem,Caza,Casablanca-Settat,CDI ,expert,Sans diplôme requis,sur site,16k,Français; Anglais; Arabe,,2024-05-14,43
+OFF-0478,Dév. Full Stack,IT & Tech,bmce bank,Casa,Casablanca-Settat,CDI,0-2 ans,Bac+5 / Master,HYBRIDE,8500,Français; Arabe,Azure; Docker; Power BI; Node.js; Java,2024-07-14,39
+OFF-0479,pharmacien,Santé,TechMa Solutions,Agadir-Ida,Souss-Massa,cdd,5-8 ans,Sans diplôme requis,hybride,16200,Français,Éthique médicale; Diagnostic,2024-11-13,7
+OFF-0480,tech maintenance,Industrie,CIH Bank,Agadir,Souss-Massa,Cdi,Confirmé,Bac+5 / Master,Hybride,6300 DH,Français; Anglais; Arabe,,2024-03-02,25
+OFF-0481,ANALYSTE FINANCIER,Finance & RH,Maroc Telecom,Marrakesh,Marrakech-Safi,CONTRAT CDI,débutant,Bac+2,Sur site,10000,Anglais,"Droit du travail, Paie, SAGE, Consolidation, Excel avancé",2025-02-04,44
+OFF-0482,Médecin,Santé,RAM,casablanca,Casablanca-Settat,CDD ,0-2 ans,Bac+5 / Master,Sur site,13800,"Français, Arabe",Pharmacologie; Soins infirmiers; Diagnostic; Éthique médicale,24/10/2024,
+OFF-0483,analyste financier,Finance & RH,Orange Maroc,rabat ,,CONTRAT CDI,5-8ans,Bac+3,Hybride,14100,Anglais,Audit; SAP; SAGE,12 February 2025,40
+OFF-0484,Guide,Tourisme,TechMa Solutions,Casablanca-Settat,Casablanca-Settat,CDI,0 à 2 ans,Bac+5 / Master,HYBRIDE,4400 DH,Français; Arabe,Accueil client; Pack Office; Langues étrangères; Gestion réservations,2024-09-16,38
+OFF-0485,MARKETING DIGITAL,Commerce,KPMG Maroc,Rabat-Salé,,STAGE,2/5 ans,BAC+3,Remote partiel,4471,"Français, Anglais, Arabe",Email Marketing; Google Ads,2024-09-19,42
+OFF-0486,ING. RÉSEAU,IT & Tech,Atlantic Digital,Tanger-Med,Tanger-Tétouan-Al Hoceïma,cdi,2/5 ans,Bac+2,Remote partiel,11000,Français; Anglais,Azure; React; TensorFlow; Python,2024-03-21,25
+,,,,,,,,,,,,,,
+OFF-0488,RH Manager,Finance & RH,DATAVISION MAROC,Meknes,,cdd,2 à 5 ans,Bac+3,Remote partiel,9100,Français; Arabe,IFRS; SAGE; Droit du travail; Consolidation; Audit,2024-05-21,39
+OFF-0489,infirmière,Santé,Renault Maroc,agadir,Souss-Massa,C.D.I,+ de 8 ans,,sur site,10600-12720,Anglais,Pharmacologie; Diagnostic; Éthique médicale,,24
+OFF-0490,product manager,,sii group,casablanca,Casablanca-Settat,freelancer,Senior,Bac+5 / Master,presentiel,,Français; Arabe,JavaScript; React,2024-12-06,28
+OFF-0491,Technicien maintenance,Industrie,Lydec,kenitra,Rabat-Salé-Kénitra,CDI,Expérimenté,Bac+8 / Doctorat,PRÉSENTIEL,10100,Français; Arabe,AutoCAD / Lean Manufacturing / PLC/SCADA,2024-08-30,32
+OFF-0492,ing production,Industrie,Akdital,oujda,,Stagiaire,2-5 ans,Bac+3,Hybride,3916,Français,"AMDEC, ISO 9001",20/12/2024,16
+OFF-0493,RÉCEPTIONNISTE,Tourisme,CGI Maroc,TANGER,Tanger-Tétouan-Al Hoceïma,contrat CDI,Expérimenté,Bac+3,Présentiel,6800,Français; Arabe,Langues étrangères / Pack Office / Accueil client,2024-04-05,23
+OFF-0494,DevOps Ingénieur,IT & Tech,Inwi,Tetouan,Tanger-Tétouan-Al Hoceïma,contrat CDI,Expert,Bac+3,sur site,25900,Français; Anglais,Java; MongoDB; REST API,2024-06-27,12
+OFF-0495,Data Engneer,IT & Tech,PwC Maroc,casablanca,Casablanca-Settat,CDI ,0/2 ans,Bac+5 / Master,hybride,11600,Français; Anglais,AWS; Kubernetes; Linux,2024-04-15,11
+OFF-0496,Cybersécurité,it & tech,SII Group,tanger,,Cdd,Confirmé,Bac+5 / Master,Hybride,13500,Français / Anglais / Arabe,AWS; Python,2024-10-12,34
+OFF-0497,Commercial,COMMERCE,Inwi,Casablanca-Settat,Casablanca-Settat,contrat CDD,8ans+,Bac+5 / Master,Hybride,12800 DH,Français; Anglais; Arabe,,,31
+OFF-0498,comptable,Finance & RH,,CASABLANCA,,CDI ,5-8 ans,Bac+3,Sur site,8700,Français,EXCEL AVANCÉ; CONSOLIDATION; AUDIT; SAP; IFRS,2024-07-01,-1
+OFF-0499,TECHNICIEN MAINTENANCE,Industrie,DataVision Maroc,MARRAKECH,Marrakech-Safi,Freelance,2/5 ans,,presentiel,8100 DH,Français; Anglais; Arabe,PLC/SCADA; AutoCAD; AMDEC,2024-08-30,25
+OFF-0500,AUDITEUR,Finance & RH,Atlantic Digital,Casablanca-Settat,Casablanca-Settat,freelance,2-5 ans,Bac+3,sur site,13100,,Droit du travail; SAP,2024-08-08,32

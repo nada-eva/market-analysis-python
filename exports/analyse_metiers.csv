@@ -1,0 +1,52 @@
+﻿Titre_Poste,Secteur,Nb_Offres,Salaire_Moyen,Salaire_Median,Salaire_Min,Salaire_Max,Delai_Moyen,Nb_Entreprises,Score_Attractivite
+Analyste Financier,Finance & Rh,20,12188,11955,3000.0,22100.0,24.8,15,48.4
+Administrateur Système,It & Tech,17,12329,11700,6900.0,17600.0,28.6,15,41.8
+Chef de Projet IT,It & Tech,17,14523,14630,3888.0,23300.0,29.4,13,50.3
+Pharmacien,Santé,16,13719,13700,9500.0,18000.0,27.4,12,50.4
+Technicien Maintenance,Industrie,16,7278,6600,3918.0,12900.0,26.9,14,21.9
+Réceptionniste Hôtel,Tourisme,16,5875,5350,3500.0,9400.0,22.5,15,23.9
+Ingénieur Génie Civil,Btp,16,10878,10800,3075.0,19600.0,22.9,12,46.0
+Comptable,Finance & Rh,15,7737,7700,5086.0,10670.0,25.9,12,25.9
+Guide Touristique,Tourisme,15,5031,4600,2518.0,8700.0,28.7,14,8.2
+Chargé Marketing Digital,Commerce,14,10940,10500,3305.0,21700.0,25.1,11,42.1
+Auditeur Financier,Finance & Rh,13,13003,13100,3783.0,21100.0,21.3,11,58.8
+Développeur Backend,It & Tech,13,10510,9100,2772.0,20800.0,19.0,9,51.7
+Développeur Frontend,It & Tech,13,9492,10100,4093.0,14800.0,24.2,10,37.2
+ML Engineer,It & Tech,13,17484,16500,11990.0,26700.0,21.4,10,79.1
+Responsable Qualité,Industrie,13,9246,9500,6700.0,11500.0,25.9,13,32.8
+Médecin Généraliste,Santé,13,18145,18500,3794.0,34100.0,27.5,12,70.5
+DevOps Engineer,It & Tech,12,14139,12250,3202.0,26500.0,21.0,12,64.5
+Contrôleur de Gestion,Finance & Rh,11,11713,10900,5928.0,18300.0,29.8,10,36.7
+Data Scientist,It & Tech,11,12100,10300,3904.0,19000.0,24.4,10,48.7
+Cybersécurité Analyst,It & Tech,10,13228,13150,9100.0,18600.0,24.5,7,53.7
+Développeur Full Stack,It & Tech,10,12217,11750,3145.0,20500.0,25.6,8,47.0
+Responsable Commercial,Commerce,9,12796,12500,4278.0,19600.0,29.4,9,42.4
+Data Engineer,It & Tech,9,12591,11700,2000.0,24800.0,29.7,8,40.9
+Ingénieur Réseau,It & Tech,9,11900,12600,8500.0,15100.0,29.8,9,37.5
+Product Manager,It & Tech,9,14977,13200,9800.0,26800.0,28.3,9,54.5
+Gestionnaire de Paie,Finance & Rh,9,9512,9600,4730.0,14100.0,25.0,8,35.7
+Responsable Rh,Finance & Rh,9,11056,10500,6000.0,17100.0,30.0,9,33.3
+Community Manager,Commerce,9,9611,11500,5600.0,12500.0,27.0,8,32.4
+UX/UI Designer,It & Tech,8,8643,8380,3192.0,13900.0,32.0,8,18.4
+Ingénieur Production,Industrie,8,8171,6630,3737.0,14000.0,23.9,8,31.7
+Ml Ingénieur,It & Tech,8,16362,17200,9800.0,22300.0,28.2,8,61.0
+Responsable RH,Finance & Rh,8,8964,8950,4525.0,13700.0,24.5,7,34.2
+Ing Production,Industrie,7,9454,9000,3916.0,15500.0,23.9,6,37.6
+Conducteur de Travaux,Btp,7,9849,9700,6100.0,14000.0,27.0,7,33.5
+Analyste BI / Power BI,It & Tech,6,12132,11895,9900.0,14600.0,26.2,5,45.4
+Infirmier,Santé,5,9380,8800,5600.0,13500.0,28.8,4,27.9
+Data Engneer,It & Tech,5,14200,11600,9900.0,20300.0,24.2,5,58.7
+Infirmière,Santé,5,8256,7100,4621.0,12200.0,23.4,5,33.0
+Ux Designer,It & Tech,4,7882,9200,2630.0,10500.0,27.2,4,24.1
+Chargé Marketing,Commerce,4,9722,9400,7000.0,13090.0,20.5,3,45.3
+Infirmier(ère),Santé,4,7550,7550,7300.0,7800.0,15.2,4,45.4
+Commercial B2B,Commerce,3,10267,12300,6000.0,12500.0,25.0,3,39.2
+Commercial,Commerce,3,13300,12800,11500.0,15600.0,24.0,3,55.0
+Resp. Commercial,Commerce,3,13767,11700,8000.0,21600.0,29.0,3,47.6
+Cyber Analyst,It & Tech,3,11338,11000,5813.0,17200.0,33.0,3,28.9
+Développeur Full-Stack,It & Tech,3,10004,11800,5912.0,12300.0,27.3,3,33.6
+Ing. Réseau,It & Tech,3,10827,10780,10700.0,11000.0,15.7,3,59.5
+Data Engineeer,It & Tech,2,9862,9862,4425.0,15300.0,12.0,2,62.1
+Data-Scientist,It & Tech,2,17700,17700,15300.0,20100.0,25.0,2,73.2
+Dév. Full Stack,It & Tech,2,12750,12750,8500.0,17000.0,30.5,2,40.1
+Data Sientist,It & Tech,1,16000,16000,16000.0,16000.0,29.0,1,57.8

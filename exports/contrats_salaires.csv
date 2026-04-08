@@ -1,0 +1,97 @@
+﻿Type_Contrat,Experience_Requise,Secteur,Nb_Offres,Salaire_Min,Salaire_Moyen,Salaire_Max,Salaire_Median
+CDI,2-5 ans,It & Tech,45,10100.0,13481,18100.0,12800
+CDI,0-2 ans,It & Tech,41,6900.0,10385,13800.0,10300
+CDI,5-8 ans,It & Tech,22,12000.0,17823,22700.0,18600
+CDI,2-5 ans,Finance & Rh,18,6000.0,9967,13200.0,10450
+CDD,2-5 ans,It & Tech,15,8700.0,11859,15300.0,11700
+CDI,5-8 ans,Finance & Rh,15,7600.0,12640,17000.0,13700
+CDI,2-5 ans,Commerce,11,6800.0,10373,12600.0,11300
+CDD,0-2 ans,It & Tech,11,6500.0,9381,11990.0,9800
+CDI,2-5 ans,Santé,11,7300.0,12209,19900.0,12200
+CDI,0-2 ans,Finance & Rh,10,5200.0,7976,10560.0,7450
+CDD,5-8 ans,It & Tech,9,11200.0,15787,19580.0,16700
+CDI,0-2 ans,Industrie,9,4000.0,6629,8200.0,7000
+CDI,0-2 ans,Tourisme,8,3500.0,4100,4600.0,4100
+CDI,8+ ans,It & Tech,8,15500.0,20975,26800.0,20050
+CDI,0-2 ans,Commerce,8,5600.0,8464,11500.0,7500
+CDI,2-5 ans,Tourisme,7,4000.0,4979,5600.0,5000
+CDI,2-5 ans,Btp,7,9300.0,10249,11400.0,10340
+CDI,0-2 ans,Santé,7,5600.0,9714,12400.0,10600
+Freelance,0-2 ans,It & Tech,7,10400.0,12627,15300.0,12300
+Stage,2-5 ans,It & Tech,7,2630.0,3389,4093.0,3323
+Freelance,5-8 ans,Finance & Rh,7,9800.0,15124,22100.0,14100
+CDD,8+ ans,It & Tech,6,13900.0,14667,15100.0,14900
+CDD,2-5 ans,Finance & Rh,6,5700.0,8683,11000.0,8950
+CDD,0-2 ans,Industrie,6,5200.0,6217,7600.0,5900
+CDI,8+ ans,Commerce,6,11500.0,15067,21600.0,14350
+CDI,2-5 ans,Industrie,6,6300.0,9233,11000.0,9700
+Freelance,2-5 ans,Finance & Rh,6,7700.0,12463,16000.0,12850
+CDI,8+ ans,Santé,5,11660.0,20632,30700.0,18000
+CDI,5-8 ans,Commerce,5,8700.0,12198,16200.0,11500
+CDI,5-8 ans,Tourisme,5,5600.0,6542,7810.0,6500
+CDD,8+ ans,Finance & Rh,4,9600.0,12500,17100.0,11650
+CDD,5-8 ans,Finance & Rh,4,8000.0,11125,13800.0,11350
+Freelance,2-5 ans,Santé,4,8800.0,13200,15000.0,14500
+Freelance,2-5 ans,Industrie,4,8100.0,11000,14000.0,10950
+Freelance,2-5 ans,It & Tech,4,11990.0,16998,22300.0,16850
+Freelance,5-8 ans,It & Tech,4,20800.0,24325,26700.0,24900
+CDI,5-8 ans,Santé,4,10800.0,17225,25600.0,16250
+Alternance,0-2 ans,It & Tech,3,4264.0,4889,5912.0,4490
+CDD,5-8 ans,Industrie,3,11500.0,11700,12100.0,11500
+CDD,2-5 ans,Btp,3,7700.0,8233,8600.0,8400
+Stage,2-5 ans,Commerce,3,4184.0,4311,4471.0,4278
+Stage,5-8 ans,Industrie,3,3737.0,4073,4564.0,3918
+Freelance,5-8 ans,Tourisme,3,8700.0,9133,9400.0,9300
+Freelance,2-5 ans,Commerce,3,10900.0,12860,15180.0,12500
+CDD,0-2 ans,Finance & Rh,3,7800.0,8800,10500.0,8100
+CDI,8+ ans,Finance & Rh,3,18200.0,19200,21100.0,18300
+CDI,0-2 ans,Btp,3,7900.0,8823,10570.0,8000
+CDI,5-8 ans,Industrie,3,9100.0,10033,10900.0,10100
+CDD,8+ ans,Commerce,2,12800.0,16200,19600.0,16200
+CDD,5-8 ans,Santé,2,16200.0,17350,18500.0,17350
+Alternance,5-8 ans,It & Tech,2,3888.0,4850,5813.0,4850
+CDD,5-8 ans,Btp,2,11800.0,12600,13400.0,12600
+Freelance,0-2 ans,Industrie,2,6900.0,9050,11200.0,9050
+Freelance,0-2 ans,Santé,2,11200.0,12300,13400.0,12300
+CDI,8+ ans,Btp,2,14000.0,14850,15700.0,14850
+Stage,0-2 ans,It & Tech,2,2000.0,2386,2772.0,2386
+Stage,2-5 ans,Industrie,2,3916.0,4424,4933.0,4424
+Stage,5-8 ans,It & Tech,2,3145.0,3174,3202.0,3174
+Stage,2-5 ans,Tourisme,2,2518.0,3784,5050.0,3784
+Freelance,5-8 ans,Industrie,2,10500.0,13000,15500.0,13000
+Freelance,8+ ans,Commerce,2,15600.0,18650,21700.0,18650
+Freelance,2-5 ans,Tourisme,2,6800.0,7400,8000.0,7400
+Freelance,2-5 ans,Btp,2,12300.0,12450,12600.0,12450
+CDD,2-5 ans,Santé,2,7100.0,7450,7800.0,7450
+Stage,2-5 ans,Finance & Rh,2,4525.0,4628,4730.0,4628
+Freelance,5-8 ans,Commerce,2,12500.0,15150,17800.0,15150
+CDD,5-8 ans,Tourisme,1,5100.0,5100,5100.0,5100
+CDD,8+ ans,Industrie,1,14600.0,14600,14600.0,14600
+CDD,2-5 ans,Industrie,1,9000.0,9000,9000.0,9000
+CDD,0-2 ans,Santé,1,13800.0,13800,13800.0,13800
+Alternance,0-2 ans,Santé,1,3895.0,3895,3895.0,3895
+CDD,2-5 ans,Tourisme,1,4400.0,4400,4400.0,4400
+Alternance,8+ ans,Tourisme,1,5843.0,5843,5843.0,5843
+Alternance,5-8 ans,Finance & Rh,1,5928.0,5928,5928.0,5928
+Alternance,2-5 ans,It & Tech,1,4425.0,4425,4425.0,4425
+Alternance,2-5 ans,Finance & Rh,1,4751.0,4751,4751.0,4751
+CDD,0-2 ans,Btp,1,6100.0,6100,6100.0,6100
+CDD,2-5 ans,Commerce,1,7600.0,7600,7600.0,7600
+CDD,0-2 ans,Tourisme,1,4000.0,4000,4000.0,4000
+Alternance,0-2 ans,Finance & Rh,1,5086.0,5086,5086.0,5086
+CDD,8+ ans,Santé,1,12200.0,12200,12200.0,12200
+Freelance,0-2 ans,Commerce,1,10100.0,10100,10100.0,10100
+Freelance,0-2 ans,Btp,1,11500.0,11500,11500.0,11500
+CDI,8+ ans,Industrie,1,12900.0,12900,12900.0,12900
+Freelance,0-2 ans,Finance & Rh,1,12210.0,12210,12210.0,12210
+Freelance,8+ ans,Finance & Rh,1,10500.0,10500,10500.0,10500
+Freelance,5-8 ans,Btp,1,19600.0,19600,19600.0,19600
+Freelance,5-8 ans,Santé,1,34100.0,34100,34100.0,34100
+Stage,0-2 ans,Santé,1,3794.0,3794,3794.0,3794
+Stage,0-2 ans,Industrie,1,4974.0,4974,4974.0,4974
+Stage,2-5 ans,Btp,1,3075.0,3075,3075.0,3075
+Stage,5-8 ans,Finance & Rh,1,3000.0,3000,3000.0,3000
+Stage,5-8 ans,Santé,1,4621.0,4621,4621.0,4621
+Stage,8+ ans,Commerce,1,3305.0,3305,3305.0,3305
+Stage,8+ ans,Finance & Rh,1,3783.0,3783,3783.0,3783
+Stage,8+ ans,It & Tech,1,3904.0,3904,3904.0,3904
