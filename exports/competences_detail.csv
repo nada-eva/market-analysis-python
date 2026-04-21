@@ -1,1704 +1,1539 @@
 ﻿ID_Offre,Competence,Secteur,Titre_Poste,Ville
-OFF-0001,Iso 9001,Industrie,Responsable Qualité,Rabat
-OFF-0001,Lean Manufacturing,Industrie,Responsable Qualité,Rabat
-OFF-0002,Crm,Commerce,Community Manager,Tanger
-OFF-0002,Analyse De Marché,Commerce,Community Manager,Tanger
-OFF-0003,Amdec,Industrie,Ingénieur Production,Casablanca
-OFF-0003,Lean Manufacturing,Industrie,Ingénieur Production,Casablanca
-OFF-0003,Iso 9001,Industrie,Ingénieur Production,Casablanca
-OFF-0004,Négociation,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0004,Email Marketing,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0004,Seo,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0004,Excel,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0006,Audit,Finance & Rh,Responsable RH,Meknès
-OFF-0006,Excel Avancé,Finance & Rh,Responsable RH,Meknès
-OFF-0006,Consolidation,Finance & Rh,Responsable RH,Meknès
-OFF-0006,Sap,Finance & Rh,Responsable RH,Meknès
-OFF-0006,Paie,Finance & Rh,Responsable RH,Meknès
-OFF-0007,Git,It & Tech,Développeur Frontend,Tanger
-OFF-0007,Azure,It & Tech,Développeur Frontend,Tanger
-OFF-0007,Agile,It & Tech,Développeur Frontend,Tanger
-OFF-0007,Scrum,It & Tech,Développeur Frontend,Tanger
-OFF-0007,Node.Js,It & Tech,Développeur Frontend,Tanger
-OFF-0007,Javascript,It & Tech,Développeur Frontend,Tanger
-OFF-0008,Crm,Commerce,Resp. Commercial,Kénitra
-OFF-0008,Analyse De Marché,Commerce,Resp. Commercial,Kénitra
+OFF-0001,ISO 9001,Industrie,Quality Manager,Rabat
+OFF-0001,Lean Manufacturing,Industrie,Quality Manager,Rabat
+OFF-0002,CRM,Commerce,CM,Tanger
+OFF-0002,Analyse de marché,Commerce,CM,Tanger
+OFF-0003,AMDEC,Industrie,Ingénieur de production,Casablanca
+OFF-0003,Lean Manufacturing,Industrie,Ingénieur de production,Casablanca
+OFF-0003,ISO 9001,Industrie,Ingénieur de production,Casablanca
+OFF-0004,Négociation,Commerce,Marketing Digital,Casablanca
+OFF-0004,Email Marketing,Commerce,Marketing Digital,Casablanca
+OFF-0004,SEO,Commerce,Marketing Digital,Casablanca
+OFF-0004,Excel,Commerce,Marketing Digital,Casablanca
+OFF-0006,Audit,Finance & Rh,HR Manager,Meknès
+OFF-0006,Excel avancé,Finance & Rh,HR Manager,Meknès
+OFF-0006,Consolidation,Finance & Rh,HR Manager,Meknès
+OFF-0006,SAP,Finance & Rh,HR Manager,Meknès
+OFF-0006,Paie,Finance & Rh,HR Manager,Meknès
+OFF-0007,Git,It & Tech,frontend developer,Tanger
+OFF-0007,Azure,It & Tech,frontend developer,Tanger
+OFF-0007,Agile/Scrum,It & Tech,frontend developer,Tanger
+OFF-0007,Node.js,It & Tech,frontend developer,Tanger
+OFF-0007,JavaScript,It & Tech,frontend developer,Tanger
+OFF-0008,CRM,Commerce,Resp. Commercial,Kénitra
+OFF-0008,Analyse de marché,Commerce,Resp. Commercial,Kénitra
 OFF-0008,Email Marketing,Commerce,Resp. Commercial,Kénitra
-OFF-0008,Seo,Commerce,Resp. Commercial,Kénitra
+OFF-0008,SEO,Commerce,Resp. Commercial,Kénitra
 OFF-0008,Salesforce,Commerce,Resp. Commercial,Kénitra
-OFF-0009,Docker,It & Tech,Chef de Projet IT,Marrakech
-OFF-0009,Azure,It & Tech,Chef de Projet IT,Marrakech
-OFF-0011,Sage,Finance & Rh,Responsable Rh,Agadir
-OFF-0011,Audit,Finance & Rh,Responsable Rh,Agadir
-OFF-0011,Droit Du Travail,Finance & Rh,Responsable Rh,Agadir
-OFF-0012,Java,It & Tech,Administrateur Système,Casablanca
-OFF-0012,Agile,It & Tech,Administrateur Système,Casablanca
-OFF-0012,Scrum,It & Tech,Administrateur Système,Casablanca
-OFF-0013,Éthique Médicale,Santé,Pharmacien,Casablanca
-OFF-0013,Diagnostic,Santé,Pharmacien,Casablanca
-OFF-0013,Pharmacologie,Santé,Pharmacien,Casablanca
-OFF-0013,Soins Infirmiers,Santé,Pharmacien,Casablanca
-OFF-0014,Revit,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0014,Béton Armé,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0014,Autocad,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0014,Gestion De Chantier,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0015,Mongodb,It & Tech,Data-Scientist,Casablanca
-OFF-0015,Typescript,It & Tech,Data-Scientist,Casablanca
-OFF-0016,Javascript,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0016,Typescript,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0016,Power Bi,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0017,Ifrs,Finance & Rh,Auditeur Financier,Kénitra
-OFF-0017,Droit Du Travail,Finance & Rh,Auditeur Financier,Kénitra
-OFF-0017,Consolidation,Finance & Rh,Auditeur Financier,Kénitra
-OFF-0018,Seo,Commerce,Community Manager,Oujda
-OFF-0018,Google Ads,Commerce,Community Manager,Oujda
-OFF-0018,Email Marketing,Commerce,Community Manager,Oujda
-OFF-0019,Ms Project,Btp,Ingénieur Génie Civil,Marrakech
-OFF-0019,Revit,Btp,Ingénieur Génie Civil,Marrakech
-OFF-0020,Langues Étrangères,Tourisme,Guide Touristique,Casablanca
-OFF-0020,Gestion Réservations,Tourisme,Guide Touristique,Casablanca
-OFF-0021,Typescript,It & Tech,Product Manager,Casablanca
-OFF-0021,React,It & Tech,Product Manager,Casablanca
-OFF-0021,Aws,It & Tech,Product Manager,Casablanca
-OFF-0021,Kubernetes,It & Tech,Product Manager,Casablanca
-OFF-0021,Git,It & Tech,Product Manager,Casablanca
-OFF-0022,Salesforce,Commerce,Chargé Marketing Digital,Tanger
-OFF-0022,Négociation,Commerce,Chargé Marketing Digital,Tanger
-OFF-0022,Excel,Commerce,Chargé Marketing Digital,Tanger
-OFF-0022,Email Marketing,Commerce,Chargé Marketing Digital,Tanger
-OFF-0023,Soins Infirmiers,Santé,Pharmacien,Fès
-OFF-0023,Pharmacologie,Santé,Pharmacien,Fès
-OFF-0023,Éthique Médicale,Santé,Pharmacien,Fès
-OFF-0024,Git,It & Tech,Ux Designer,Meknès
-OFF-0024,Agile,It & Tech,Ux Designer,Meknès
-OFF-0024,Scrum,It & Tech,Ux Designer,Meknès
-OFF-0024,Typescript,It & Tech,Ux Designer,Meknès
-OFF-0024,Mongodb,It & Tech,Ux Designer,Meknès
-OFF-0025,Lean Manufacturing,Industrie,Ingénieur Production,Marrakech
-OFF-0025,Iso 9001,Industrie,Ingénieur Production,Marrakech
-OFF-0025,Plc,Industrie,Ingénieur Production,Marrakech
-OFF-0025,Scada,Industrie,Ingénieur Production,Marrakech
-OFF-0025,Amdec,Industrie,Ingénieur Production,Marrakech
-OFF-0025,Autocad,Industrie,Ingénieur Production,Marrakech
-OFF-0026,Node.Js,It & Tech,Product Manager,Tanger
-OFF-0026,Javascript,It & Tech,Product Manager,Tanger
-OFF-0026,Git,It & Tech,Product Manager,Tanger
-OFF-0027,Rest Api,It & Tech,DevOps Engineer,Casablanca
-OFF-0027,Power Bi,It & Tech,DevOps Engineer,Casablanca
-OFF-0027,Agile,It & Tech,DevOps Engineer,Casablanca
-OFF-0027,Scrum,It & Tech,DevOps Engineer,Casablanca
-OFF-0027,Kubernetes,It & Tech,DevOps Engineer,Casablanca
-OFF-0028,Sql,It & Tech,Data Engineer,Meknès
-OFF-0028,Rest Api,It & Tech,Data Engineer,Meknès
-OFF-0028,Aws,It & Tech,Data Engineer,Meknès
-OFF-0028,Python,It & Tech,Data Engineer,Meknès
-OFF-0029,Azure,,Administrateur Système,Casablanca
-OFF-0029,Python,,Administrateur Système,Casablanca
-OFF-0029,Rest Api,,Administrateur Système,Casablanca
-OFF-0029,Agile,,Administrateur Système,Casablanca
-OFF-0029,Scrum,,Administrateur Système,Casablanca
-OFF-0029,Docker,,Administrateur Système,Casablanca
-OFF-0030,Java,It & Tech,Développeur Backend,Casablanca
-OFF-0030,Kubernetes,It & Tech,Développeur Backend,Casablanca
-OFF-0031,Google Ads,Commerce,Commercial B2B,Agadir
-OFF-0031,Excel,Commerce,Commercial B2B,Agadir
-OFF-0031,Crm,Commerce,Commercial B2B,Agadir
-OFF-0031,Email Marketing,Commerce,Commercial B2B,Agadir
-OFF-0033,Soins Infirmiers,Santé,Médecin Généraliste,Marrakech
-OFF-0033,Éthique Médicale,Santé,Médecin Généraliste,Marrakech
-OFF-0033,Diagnostic,Santé,Médecin Généraliste,Marrakech
-OFF-0033,Pharmacologie,Santé,Médecin Généraliste,Marrakech
-OFF-0034,Javascript,It & Tech,Développeur Frontend,Casablanca
-OFF-0034,Typescript,It & Tech,Développeur Frontend,Casablanca
-OFF-0034,Rest Api,It & Tech,Développeur Frontend,Casablanca
-OFF-0034,Kubernetes,It & Tech,Développeur Frontend,Casablanca
-OFF-0034,React,It & Tech,Développeur Frontend,Casablanca
-OFF-0035,Pack Office,Tourisme,Réceptionniste Hôtel,Marrakech
-OFF-0035,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Marrakech
-OFF-0035,Accueil Client,Tourisme,Réceptionniste Hôtel,Marrakech
-OFF-0036,Sage,Finance & Rh,Responsable Rh,Rabat
-OFF-0036,Droit Du Travail,Finance & Rh,Responsable Rh,Rabat
-OFF-0036,Paie,Finance & Rh,Responsable Rh,Rabat
-OFF-0036,Consolidation,Finance & Rh,Responsable Rh,Rabat
-OFF-0036,Ifrs,Finance & Rh,Responsable Rh,Rabat
-OFF-0037,Agile,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0037,Scrum,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0037,Azure,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0037,Python,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0037,Linux,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0037,Sql,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0038,Sage,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0038,Excel Avancé,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0038,Audit,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0038,Droit Du Travail,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0038,Paie,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0039,Java,It & Tech,Développeur Backend,Fès
-OFF-0039,Javascript,It & Tech,Développeur Backend,Fès
-OFF-0039,Sql,It & Tech,Développeur Backend,Fès
-OFF-0039,React,It & Tech,Développeur Backend,Fès
-OFF-0039,Mongodb,It & Tech,Développeur Backend,Fès
-OFF-0040,Tensorflow,,Data Sientist,Rabat
-OFF-0040,Kubernetes,,Data Sientist,Rabat
-OFF-0040,Docker,,Data Sientist,Rabat
-OFF-0041,Ifrs,Finance & Rh,Comptable,Rabat
-OFF-0041,Sage,Finance & Rh,Comptable,Rabat
-OFF-0041,Sap,Finance & Rh,Comptable,Rabat
-OFF-0041,Excel Avancé,Finance & Rh,Comptable,Rabat
-OFF-0042,Soins Infirmiers,Santé,Infirmier(ère),Tanger
-OFF-0042,Diagnostic,Santé,Infirmier(ère),Tanger
-OFF-0042,Éthique Médicale,Santé,Infirmier(ère),Tanger
-OFF-0043,Diagnostic,Santé,Infirmier(ère),Agadir
-OFF-0043,Éthique Médicale,Santé,Infirmier(ère),Agadir
-OFF-0043,Soins Infirmiers,Santé,Infirmier(ère),Agadir
-OFF-0044,Droit Du Travail,Finance & Rh,Comptable,Tanger
-OFF-0044,Ifrs,Finance & Rh,Comptable,Tanger
-OFF-0045,Diagnostic,Santé,Pharmacien,Tanger
-OFF-0045,Éthique Médicale,Santé,Pharmacien,Tanger
-OFF-0045,Pharmacologie,Santé,Pharmacien,Tanger
-OFF-0045,Soins Infirmiers,Santé,Pharmacien,Tanger
-OFF-0046,Négociation,Commerce,Responsable Commercial,Casablanca
-OFF-0046,Email Marketing,Commerce,Responsable Commercial,Casablanca
-OFF-0046,Salesforce,Commerce,Responsable Commercial,Casablanca
-OFF-0046,Crm,Commerce,Responsable Commercial,Casablanca
-OFF-0047,Azure,It & Tech,Développeur Full Stack,Marrakech
-OFF-0047,Docker,It & Tech,Développeur Full Stack,Marrakech
-OFF-0047,Java,It & Tech,Développeur Full Stack,Marrakech
-OFF-0048,Autocad,Industrie,Technicien Maintenance,Fès
-OFF-0048,Plc,Industrie,Technicien Maintenance,Fès
-OFF-0048,Scada,Industrie,Technicien Maintenance,Fès
-OFF-0048,Amdec,Industrie,Technicien Maintenance,Fès
-OFF-0049,Accueil Client,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0049,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0050,Droit Du Travail,Finance & Rh,Responsable Rh,Rabat
-OFF-0050,Audit,Finance & Rh,Responsable Rh,Rabat
-OFF-0050,Paie,Finance & Rh,Responsable Rh,Rabat
-OFF-0050,Sage,Finance & Rh,Responsable Rh,Rabat
-OFF-0050,Sap,Finance & Rh,Responsable Rh,Rabat
-OFF-0051,Python,,Product Manager,Rabat
-OFF-0051,Typescript,,Product Manager,Rabat
-OFF-0051,Sql,,Product Manager,Rabat
-OFF-0051,Azure,,Product Manager,Rabat
-OFF-0051,Rest Api,,Product Manager,Rabat
-OFF-0052,Power Bi,It & Tech,Data Engneer,Rabat
-OFF-0052,Kubernetes,It & Tech,Data Engneer,Rabat
-OFF-0053,Droit Du Travail,Finance & Rh,Analyste Financier,Agadir
-OFF-0053,Consolidation,Finance & Rh,Analyste Financier,Agadir
-OFF-0053,Audit,Finance & Rh,Analyste Financier,Agadir
-OFF-0053,Excel Avancé,Finance & Rh,Analyste Financier,Agadir
-OFF-0054,Éthique Médicale,Santé,Pharmacien,Marrakech
-OFF-0054,Pharmacologie,Santé,Pharmacien,Marrakech
-OFF-0054,Soins Infirmiers,Santé,Pharmacien,Marrakech
-OFF-0055,Lean Manufacturing,Industrie,Technicien Maintenance,Casablanca
-OFF-0055,Amdec,Industrie,Technicien Maintenance,Casablanca
-OFF-0055,Iso 9001,Industrie,Technicien Maintenance,Casablanca
-OFF-0055,Autocad,Industrie,Technicien Maintenance,Casablanca
-OFF-0055,Plc,Industrie,Technicien Maintenance,Casablanca
-OFF-0055,Scada,Industrie,Technicien Maintenance,Casablanca
-OFF-0056,Aws,It & Tech,UX/UI Designer,Marrakech
-OFF-0056,Java,It & Tech,UX/UI Designer,Marrakech
-OFF-0056,Agile,It & Tech,UX/UI Designer,Marrakech
-OFF-0056,Scrum,It & Tech,UX/UI Designer,Marrakech
-OFF-0056,Mongodb,It & Tech,UX/UI Designer,Marrakech
-OFF-0056,Sql,It & Tech,UX/UI Designer,Marrakech
-OFF-0057,Mongodb,It & Tech,ML Engineer,Casablanca
-OFF-0057,Python,It & Tech,ML Engineer,Casablanca
-OFF-0057,Sql,It & Tech,ML Engineer,Casablanca
-OFF-0059,Droit Du Travail,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0059,Paie,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0059,Sap,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0059,Sage,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0060,Excel,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0060,Salesforce,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0060,Email Marketing,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0060,Crm,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0062,Aws,It & Tech,Développeur Backend,Casablanca
-OFF-0062,Java,It & Tech,Développeur Backend,Casablanca
-OFF-0062,Tensorflow,It & Tech,Développeur Backend,Casablanca
-OFF-0063,Linux,It & Tech,Chef de Projet IT,Casablanca
-OFF-0063,Agile,It & Tech,Chef de Projet IT,Casablanca
-OFF-0063,Scrum,It & Tech,Chef de Projet IT,Casablanca
-OFF-0063,Node.Js,It & Tech,Chef de Projet IT,Casablanca
-OFF-0063,Docker,It & Tech,Chef de Projet IT,Casablanca
-OFF-0063,Mongodb,It & Tech,Chef de Projet IT,Casablanca
-OFF-0064,Plc,Industrie,Technicien Maintenance,Tétouan
-OFF-0064,Scada,Industrie,Technicien Maintenance,Tétouan
-OFF-0064,Lean Manufacturing,Industrie,Technicien Maintenance,Tétouan
-OFF-0064,Solidworks,Industrie,Technicien Maintenance,Tétouan
-OFF-0064,Autocad,Industrie,Technicien Maintenance,Tétouan
-OFF-0065,Lean Manufacturing,Industrie,Ingénieur Production,Rabat
-OFF-0065,Plc,Industrie,Ingénieur Production,Rabat
-OFF-0065,Scada,Industrie,Ingénieur Production,Rabat
-OFF-0065,Solidworks,Industrie,Ingénieur Production,Rabat
-OFF-0065,Autocad,Industrie,Ingénieur Production,Rabat
-OFF-0066,Azure,It & Tech,Administrateur Système,Marrakech
-OFF-0066,Git,It & Tech,Administrateur Système,Marrakech
-OFF-0067,Java,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0067,Linux,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0067,Azure,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0068,Git,It & Tech,ML Engineer,Casablanca
-OFF-0068,React,It & Tech,ML Engineer,Casablanca
-OFF-0068,Aws,It & Tech,ML Engineer,Casablanca
-OFF-0069,Ifrs,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0069,Sap,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0069,Droit Du Travail,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0070,Sql,It & Tech,Data Scientist,Tanger
-OFF-0070,Rest Api,It & Tech,Data Scientist,Tanger
-OFF-0070,Agile,It & Tech,Data Scientist,Tanger
-OFF-0070,Scrum,It & Tech,Data Scientist,Tanger
-OFF-0070,Power Bi,It & Tech,Data Scientist,Tanger
-OFF-0071,Autocad,Industrie,Technicien Maintenance,Tanger
-OFF-0071,Amdec,Industrie,Technicien Maintenance,Tanger
-OFF-0071,Iso 9001,Industrie,Technicien Maintenance,Tanger
-OFF-0071,Lean Manufacturing,Industrie,Technicien Maintenance,Tanger
-OFF-0072,Consolidation,Finance & Rh,Responsable RH,Casablanca
-OFF-0072,Excel Avancé,Finance & Rh,Responsable RH,Casablanca
-OFF-0072,Sage,Finance & Rh,Responsable RH,Casablanca
-OFF-0072,Ifrs,Finance & Rh,Responsable RH,Casablanca
-OFF-0072,Sap,Finance & Rh,Responsable RH,Casablanca
-OFF-0073,Excel Avancé,Finance & Rh,Analyste Financier,Tanger
-OFF-0073,Droit Du Travail,Finance & Rh,Analyste Financier,Tanger
-OFF-0073,Paie,Finance & Rh,Analyste Financier,Tanger
-OFF-0073,Sap,Finance & Rh,Analyste Financier,Tanger
-OFF-0074,Power Bi,,Analyste BI / Power BI,Tanger
-OFF-0074,Git,,Analyste BI / Power BI,Tanger
-OFF-0074,Javascript,,Analyste BI / Power BI,Tanger
-OFF-0075,Javascript,It & Tech,DevOps Engineer,Tanger
-OFF-0075,Linux,It & Tech,DevOps Engineer,Tanger
-OFF-0075,Typescript,It & Tech,DevOps Engineer,Tanger
-OFF-0075,Rest Api,It & Tech,DevOps Engineer,Tanger
-OFF-0075,Python,It & Tech,DevOps Engineer,Tanger
-OFF-0076,Pack Office,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0076,Accueil Client,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0076,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0076,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0077,Diagnostic,,Médecin Généraliste,Marrakech
-OFF-0077,Pharmacologie,,Médecin Généraliste,Marrakech
-OFF-0077,Éthique Médicale,,Médecin Généraliste,Marrakech
-OFF-0077,Soins Infirmiers,,Médecin Généraliste,Marrakech
-OFF-0078,Autocad,Industrie,Technicien Maintenance,Casablanca
-OFF-0078,Plc,Industrie,Technicien Maintenance,Casablanca
-OFF-0078,Scada,Industrie,Technicien Maintenance,Casablanca
-OFF-0078,Iso 9001,Industrie,Technicien Maintenance,Casablanca
-OFF-0078,Amdec,Industrie,Technicien Maintenance,Casablanca
-OFF-0078,Lean Manufacturing,Industrie,Technicien Maintenance,Casablanca
-OFF-0079,Droit Du Travail,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0079,Consolidation,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0079,Audit,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0080,Consolidation,Finance & Rh,Comptable,Oujda
-OFF-0080,Excel Avancé,Finance & Rh,Comptable,Oujda
-OFF-0080,Sage,Finance & Rh,Comptable,Oujda
-OFF-0081,Paie,Finance & Rh,Responsable Rh,Tanger
-OFF-0081,Sage,Finance & Rh,Responsable Rh,Tanger
-OFF-0081,Excel Avancé,Finance & Rh,Responsable Rh,Tanger
-OFF-0081,Ifrs,Finance & Rh,Responsable Rh,Tanger
-OFF-0082,Linux,It & Tech,Cyber Analyst,Agadir
-OFF-0082,Tensorflow,It & Tech,Cyber Analyst,Agadir
-OFF-0082,Sql,It & Tech,Cyber Analyst,Agadir
-OFF-0082,Agile,It & Tech,Cyber Analyst,Agadir
-OFF-0082,Scrum,It & Tech,Cyber Analyst,Agadir
-OFF-0083,React,It & Tech,Développeur Full Stack,Tanger
-OFF-0083,Node.Js,It & Tech,Développeur Full Stack,Tanger
-OFF-0084,Kubernetes,It & Tech,Développeur Backend,Casablanca
-OFF-0084,Git,It & Tech,Développeur Backend,Casablanca
-OFF-0085,Analyse De Marché,Commerce,Responsable Commercial,Rabat
-OFF-0085,Salesforce,Commerce,Responsable Commercial,Rabat
-OFF-0085,Négociation,Commerce,Responsable Commercial,Rabat
-OFF-0085,Crm,Commerce,Responsable Commercial,Rabat
-OFF-0086,Gestion Réservations,Tourisme,Guide Touristique,Tanger
-OFF-0086,Langues Étrangères,Tourisme,Guide Touristique,Tanger
-OFF-0086,Accueil Client,Tourisme,Guide Touristique,Tanger
-OFF-0086,Pack Office,Tourisme,Guide Touristique,Tanger
-OFF-0087,Langues Étrangères,Tourisme,Guide Touristique,Rabat
-OFF-0087,Pack Office,Tourisme,Guide Touristique,Rabat
-OFF-0087,Gestion Réservations,Tourisme,Guide Touristique,Rabat
-OFF-0087,Accueil Client,Tourisme,Guide Touristique,Rabat
-OFF-0088,Linux,It & Tech,ML Engineer,Tanger
-OFF-0088,Java,It & Tech,ML Engineer,Tanger
-OFF-0088,Sql,It & Tech,ML Engineer,Tanger
-OFF-0089,Négociation,Commerce,Responsable Commercial,Casablanca
-OFF-0089,Email Marketing,Commerce,Responsable Commercial,Casablanca
-OFF-0089,Seo,Commerce,Responsable Commercial,Casablanca
-OFF-0089,Crm,Commerce,Responsable Commercial,Casablanca
-OFF-0090,Seo,Commerce,Commercial,Agadir
+OFF-0009,Docker,It & Tech,chef de projet,Marrakech
+OFF-0009,Azure,It & Tech,chef de projet,Marrakech
+OFF-0009,Docker,It & Tech,chef de projet,Marrakech
+OFF-0009,Azure,It & Tech,chef de projet,Marrakech
+OFF-0011,SAGE,Finance & Rh,RESPONSABLE RH,Agadir
+OFF-0011,Audit,Finance & Rh,RESPONSABLE RH,Agadir
+OFF-0011,Droit du travail,Finance & Rh,RESPONSABLE RH,Agadir
+OFF-0012,Java / Agile/Scrum,It & Tech,Admin Système,Casablanca
+OFF-0013,Éthique médicale,Santé,pharmacien,Casablanca
+OFF-0013,Diagnostic,Santé,pharmacien,Casablanca
+OFF-0013,Pharmacologie,Santé,pharmacien,Casablanca
+OFF-0013,Soins infirmiers,Santé,pharmacien,Casablanca
+OFF-0014,Revit,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0014,Béton armé,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0014,AutoCAD,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0014,Gestion de chantier,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0015,MONGODB,It & Tech,data-scientist,Casablanca
+OFF-0015,TYPESCRIPT,It & Tech,data-scientist,Casablanca
+OFF-0016,JavaScript,It & Tech,Ingénieur réseau,Casablanca
+OFF-0016,TypeScript,It & Tech,Ingénieur réseau,Casablanca
+OFF-0016,Power BI,It & Tech,Ingénieur réseau,Casablanca
+OFF-0017,"IFRS, Droit du travail, Consolidation",Finance & Rh,Audit Financier,Kénitra
+OFF-0018,"SEO, Google Ads, Email Marketing",Commerce,Community manager,Oujda
+OFF-0019,MS Project,Btp,Ingénieur civil,Marrakech
+OFF-0019,Revit,Btp,Ingénieur civil,Marrakech
+OFF-0020,Langues étrangères,Tourisme,Guide,Casablanca
+OFF-0020,Gestion réservations,Tourisme,Guide,Casablanca
+OFF-0021,"TypeScript, React, AWS, Kubernetes, Git",It & Tech,PRODUCT MANAGER,Casablanca
+OFF-0022,Salesforce,Commerce,Marketing Digital,Tanger
+OFF-0022,Négociation,Commerce,Marketing Digital,Tanger
+OFF-0022,Excel,Commerce,Marketing Digital,Tanger
+OFF-0022,Email Marketing,Commerce,Marketing Digital,Tanger
+OFF-0023,Soins infirmiers / Pharmacologie / Éthique médicale,Santé,pharmacien,Fès
+OFF-0024,Git,It & Tech,UX Designer,Meknès
+OFF-0024,Agile/Scrum,It & Tech,UX Designer,Meknès
+OFF-0024,TypeScript,It & Tech,UX Designer,Meknès
+OFF-0024,MongoDB,It & Tech,UX Designer,Meknès
+OFF-0025,LEAN MANUFACTURING,Industrie,INGÉNIEUR PRODUCTION,Marrakech
+OFF-0025,ISO 9001,Industrie,INGÉNIEUR PRODUCTION,Marrakech
+OFF-0025,PLC/SCADA,Industrie,INGÉNIEUR PRODUCTION,Marrakech
+OFF-0025,AMDEC,Industrie,INGÉNIEUR PRODUCTION,Marrakech
+OFF-0025,AUTOCAD,Industrie,INGÉNIEUR PRODUCTION,Marrakech
+OFF-0026,"Node.js, JavaScript, Git",It & Tech,Product Owner,Tanger
+OFF-0027,"REST API, Power BI, Agile/Scrum, Kubernetes",It & Tech,devops engineer,Casablanca
+OFF-0028,SQL / REST API / AWS / Python,It & Tech,Dat Engineer,Meknès
+OFF-0029,Azure,,admin sys,Casablanca
+OFF-0029,Python,,admin sys,Casablanca
+OFF-0029,REST API,,admin sys,Casablanca
+OFF-0029,Agile/Scrum,,admin sys,Casablanca
+OFF-0029,Docker,,admin sys,Casablanca
+OFF-0030,Java,It & Tech,BACKEND DEVELOPER,Casablanca
+OFF-0030,Kubernetes,It & Tech,BACKEND DEVELOPER,Casablanca
+OFF-0031,"Google Ads, Excel, CRM, Email Marketing",Commerce,commercial b2b,Agadir
+OFF-0033,SOINS INFIRMIERS,Santé,medecin generaliste,Marrakech
+OFF-0033,ÉTHIQUE MÉDICALE,Santé,medecin generaliste,Marrakech
+OFF-0033,DIAGNOSTIC,Santé,medecin generaliste,Marrakech
+OFF-0033,PHARMACOLOGIE,Santé,medecin generaliste,Marrakech
+OFF-0034,JavaScript / TypeScript / REST API / Kubernetes / React,It & Tech,dev frontend,Casablanca
+OFF-0035,Pack Office,Tourisme,RÉCEPTIONNISTE,Marrakech
+OFF-0035,Gestion réservations,Tourisme,RÉCEPTIONNISTE,Marrakech
+OFF-0035,Accueil client,Tourisme,RÉCEPTIONNISTE,Marrakech
+OFF-0036,SAGE,Finance & Rh,Responsable RH,Rabat
+OFF-0036,Droit du travail,Finance & Rh,Responsable RH,Rabat
+OFF-0036,Paie,Finance & Rh,Responsable RH,Rabat
+OFF-0036,Consolidation,Finance & Rh,Responsable RH,Rabat
+OFF-0036,IFRS,Finance & Rh,Responsable RH,Rabat
+OFF-0037,Agile/Scrum,It & Tech,BI Analyst,Casablanca
+OFF-0037,Azure,It & Tech,BI Analyst,Casablanca
+OFF-0037,Python,It & Tech,BI Analyst,Casablanca
+OFF-0037,Linux,It & Tech,BI Analyst,Casablanca
+OFF-0037,SQL,It & Tech,BI Analyst,Casablanca
+OFF-0038,SAGE,Finance & Rh,CDG,Casablanca
+OFF-0038,Excel avancé,Finance & Rh,CDG,Casablanca
+OFF-0038,Audit,Finance & Rh,CDG,Casablanca
+OFF-0038,Droit du travail,Finance & Rh,CDG,Casablanca
+OFF-0038,Paie,Finance & Rh,CDG,Casablanca
+OFF-0039,Java,It & Tech,backend dev,Fès
+OFF-0039,JavaScript,It & Tech,backend dev,Fès
+OFF-0039,SQL,It & Tech,backend dev,Fès
+OFF-0039,React,It & Tech,backend dev,Fès
+OFF-0039,MongoDB,It & Tech,backend dev,Fès
+OFF-0040,"TensorFlow, Kubernetes, Docker",,Data Sientist,Rabat
+OFF-0041,IFRS,Finance & Rh,Comptable Général,Rabat
+OFF-0041,SAGE,Finance & Rh,Comptable Général,Rabat
+OFF-0041,SAP,Finance & Rh,Comptable Général,Rabat
+OFF-0041,Excel avancé,Finance & Rh,Comptable Général,Rabat
+OFF-0042,Soins infirmiers - Diagnostic - Éthique médicale,Santé,Infirmier/ère,Tanger
+OFF-0043,Diagnostic,Santé,Infirmier/ère,Agadir
+OFF-0043,Éthique médicale,Santé,Infirmier/ère,Agadir
+OFF-0043,Soins infirmiers,Santé,Infirmier/ère,Agadir
+OFF-0044,Droit du travail,Finance & Rh,comptable,Tanger
+OFF-0044,IFRS,Finance & Rh,comptable,Tanger
+OFF-0045,Diagnostic,Santé,PHARMACIEN,Tanger
+OFF-0045,Éthique médicale,Santé,PHARMACIEN,Tanger
+OFF-0045,Pharmacologie,Santé,PHARMACIEN,Tanger
+OFF-0045,Soins infirmiers,Santé,PHARMACIEN,Tanger
+OFF-0046,Négociation,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0046,Email Marketing,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0046,Salesforce,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0046,CRM,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0047,Azure / Docker / Java,It & Tech,Developpeur FullStack,Marrakech
+OFF-0048,AUTOCAD,Industrie,tech maintenance,Fès
+OFF-0048,PLC/SCADA,Industrie,tech maintenance,Fès
+OFF-0048,AMDEC,Industrie,tech maintenance,Fès
+OFF-0049,Accueil client,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0049,Gestion réservations,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0050,Droit du travail,Finance & Rh,RESPONSABLE RH,Rabat
+OFF-0050,Audit,Finance & Rh,RESPONSABLE RH,Rabat
+OFF-0050,Paie,Finance & Rh,RESPONSABLE RH,Rabat
+OFF-0050,SAGE,Finance & Rh,RESPONSABLE RH,Rabat
+OFF-0050,SAP,Finance & Rh,RESPONSABLE RH,Rabat
+OFF-0051,Python,,Chef de Produit,Rabat
+OFF-0051,TypeScript,,Chef de Produit,Rabat
+OFF-0051,SQL,,Chef de Produit,Rabat
+OFF-0051,Azure,,Chef de Produit,Rabat
+OFF-0051,REST API,,Chef de Produit,Rabat
+OFF-0052,Power BI / Kubernetes,It & Tech,Data Engneer,Rabat
+OFF-0053,Droit du travail,Finance & Rh,analyste financier,Agadir
+OFF-0053,Consolidation,Finance & Rh,analyste financier,Agadir
+OFF-0053,Audit,Finance & Rh,analyste financier,Agadir
+OFF-0053,Excel avancé,Finance & Rh,analyste financier,Agadir
+OFF-0054,Éthique médicale,Santé,Pharmacien d'officine,Marrakech
+OFF-0054,Pharmacologie,Santé,Pharmacien d'officine,Marrakech
+OFF-0054,Soins infirmiers,Santé,Pharmacien d'officine,Marrakech
+OFF-0055,Lean Manufacturing,Industrie,Technicien maintenance,Casablanca
+OFF-0055,AMDEC,Industrie,Technicien maintenance,Casablanca
+OFF-0055,ISO 9001,Industrie,Technicien maintenance,Casablanca
+OFF-0055,AutoCAD,Industrie,Technicien maintenance,Casablanca
+OFF-0055,PLC/SCADA,Industrie,Technicien maintenance,Casablanca
+OFF-0056,"AWS, Java, Agile/Scrum, MongoDB, SQL",It & Tech,ux-ui designer,Marrakech
+OFF-0057,MongoDB - Python - SQL,It & Tech,Ingénieur ML,Casablanca
+OFF-0057,MongoDB - Python - SQL,It & Tech,Ingénieur ML,Casablanca
+OFF-0059,"Droit du travail, Paie, SAP, SAGE",Finance & Rh,CDG,Marrakech
+OFF-0060,EXCEL,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,SALESFORCE,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,EMAIL MARKETING,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,CRM,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,EXCEL,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,SALESFORCE,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,EMAIL MARKETING,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0060,CRM,Commerce,MARKETING DIGITAL,Casablanca
+OFF-0062,AWS,It & Tech,Dev Backend,Casablanca
+OFF-0062,Java,It & Tech,Dev Backend,Casablanca
+OFF-0062,TensorFlow,It & Tech,Dev Backend,Casablanca
+OFF-0063,Linux,It & Tech,CHEF DE PROJET IT,Casablanca
+OFF-0063,Agile/Scrum,It & Tech,CHEF DE PROJET IT,Casablanca
+OFF-0063,Node.js,It & Tech,CHEF DE PROJET IT,Casablanca
+OFF-0063,Docker,It & Tech,CHEF DE PROJET IT,Casablanca
+OFF-0063,MongoDB,It & Tech,CHEF DE PROJET IT,Casablanca
+OFF-0064,PLC/SCADA,Industrie,Technicien maintenance,Tétouan
+OFF-0064,Lean Manufacturing,Industrie,Technicien maintenance,Tétouan
+OFF-0064,SolidWorks,Industrie,Technicien maintenance,Tétouan
+OFF-0064,AutoCAD,Industrie,Technicien maintenance,Tétouan
+OFF-0065,Lean Manufacturing,Industrie,Ingénieur de production,Rabat
+OFF-0065,PLC/SCADA,Industrie,Ingénieur de production,Rabat
+OFF-0065,SolidWorks,Industrie,Ingénieur de production,Rabat
+OFF-0065,AutoCAD,Industrie,Ingénieur de production,Rabat
+OFF-0066,Azure,It & Tech,admin sys,Marrakech
+OFF-0066,Git,It & Tech,admin sys,Marrakech
+OFF-0067,Java,It & Tech,Cyber Sécurité Analyst,Rabat-Salé
+OFF-0067,Linux,It & Tech,Cyber Sécurité Analyst,Rabat-Salé
+OFF-0067,Azure,It & Tech,Cyber Sécurité Analyst,Rabat-Salé
+OFF-0068,"Git, React, AWS",It & Tech,Machine Learning Engineer,Casablanca
+OFF-0069,IFRS,Finance & Rh,gestionnaire de paie,Marrakech
+OFF-0069,SAP,Finance & Rh,gestionnaire de paie,Marrakech
+OFF-0069,Droit du travail,Finance & Rh,gestionnaire de paie,Marrakech
+OFF-0070,SQL,It & Tech,Data scientist,Tanger
+OFF-0070,REST API,It & Tech,Data scientist,Tanger
+OFF-0070,Agile/Scrum,It & Tech,Data scientist,Tanger
+OFF-0070,Power BI,It & Tech,Data scientist,Tanger
+OFF-0071,AutoCAD,Industrie,TECHNICIEN MAINTENANCE,Tanger
+OFF-0071,AMDEC,Industrie,TECHNICIEN MAINTENANCE,Tanger
+OFF-0071,ISO 9001,Industrie,TECHNICIEN MAINTENANCE,Tanger
+OFF-0071,Lean Manufacturing,Industrie,TECHNICIEN MAINTENANCE,Tanger
+OFF-0072,Consolidation,Finance & Rh,HR Manager,Casablanca
+OFF-0072,Excel avancé,Finance & Rh,HR Manager,Casablanca
+OFF-0072,SAGE,Finance & Rh,HR Manager,Casablanca
+OFF-0072,IFRS,Finance & Rh,HR Manager,Casablanca
+OFF-0072,SAP,Finance & Rh,HR Manager,Casablanca
+OFF-0073,"Excel avancé, Droit du travail, Paie, SAP",Finance & Rh,Analyste Finance,Tanger
+OFF-0074,Power BI,,BI Analyst,Tanger
+OFF-0074,Git,,BI Analyst,Tanger
+OFF-0074,JavaScript,,BI Analyst,Tanger
+OFF-0075,JavaScript / Linux / TypeScript / REST API / Python,It & Tech,DevOps,Tanger
+OFF-0076,"Pack Office, Accueil client, Gestion réservations, Langues étrangères",Tourisme,receptionniste hotel,Tanger
+OFF-0077,Diagnostic,,medecin generaliste,Marrakech
+OFF-0077,Pharmacologie,,medecin generaliste,Marrakech
+OFF-0077,Éthique médicale,,medecin generaliste,Marrakech
+OFF-0077,Soins infirmiers,,medecin generaliste,Marrakech
+OFF-0078,AutoCAD,Industrie,tech maintenance,Casablanca
+OFF-0078,PLC/SCADA,Industrie,tech maintenance,Casablanca
+OFF-0078,ISO 9001,Industrie,tech maintenance,Casablanca
+OFF-0078,AMDEC,Industrie,tech maintenance,Casablanca
+OFF-0078,Lean Manufacturing,Industrie,tech maintenance,Casablanca
+OFF-0079,Droit du travail,Finance & Rh,Gestionnaire paie,Marrakech
+OFF-0079,Consolidation,Finance & Rh,Gestionnaire paie,Marrakech
+OFF-0079,Audit,Finance & Rh,Gestionnaire paie,Marrakech
+OFF-0080,Consolidation,Finance & Rh,comptable,Oujda-Angad
+OFF-0080,Excel avancé,Finance & Rh,comptable,Oujda-Angad
+OFF-0080,SAGE,Finance & Rh,comptable,Oujda-Angad
+OFF-0081,"Paie, SAGE, Excel avancé, IFRS",Finance & Rh,RESPONSABLE RH,Tanger
+OFF-0082,"Linux, TensorFlow, SQL, Agile/Scrum",It & Tech,cyber analyst,Agadir-Ida
+OFF-0083,React,It & Tech,Developpeur FullStack,Tanger
+OFF-0083,Node.js,It & Tech,Developpeur FullStack,Tanger
+OFF-0084,Kubernetes,It & Tech,backend developer,Casablanca
+OFF-0084,Git,It & Tech,backend developer,Casablanca
+OFF-0085,"Analyse de marché, Salesforce, Négociation, CRM",Commerce,Responsable commercial,Rabat
+OFF-0086,"Gestion réservations, Langues étrangères, Accueil client, Pack Office",Tourisme,Guide,Tanger
+OFF-0087,Langues étrangères,Tourisme,guide,Rabat-Salé
+OFF-0087,Pack Office,Tourisme,guide,Rabat-Salé
+OFF-0087,Gestion réservations,Tourisme,guide,Rabat-Salé
+OFF-0087,Accueil client,Tourisme,guide,Rabat-Salé
+OFF-0088,"Linux, Java, SQL",It & Tech,Ingénieur ML,Tanger
+OFF-0089,Négociation,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0089,Email Marketing,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0089,SEO,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0089,CRM,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0090,SEO,Commerce,Commercial,Agadir
 OFF-0090,Google Ads,Commerce,Commercial,Agadir
-OFF-0091,Linux,It & Tech,DevOps Engineer,Casablanca
-OFF-0091,Kubernetes,It & Tech,DevOps Engineer,Casablanca
-OFF-0092,Excel,Commerce,Resp. Commercial,Casablanca
-OFF-0092,Analyse De Marché,Commerce,Resp. Commercial,Casablanca
-OFF-0092,Google Ads,Commerce,Resp. Commercial,Casablanca
-OFF-0092,Seo,Commerce,Resp. Commercial,Casablanca
-OFF-0093,Plc,Industrie,Responsable Qualité,Casablanca
-OFF-0093,Scada,Industrie,Responsable Qualité,Casablanca
-OFF-0093,Solidworks,Industrie,Responsable Qualité,Casablanca
-OFF-0093,Iso 9001,Industrie,Responsable Qualité,Casablanca
-OFF-0093,Autocad,Industrie,Responsable Qualité,Casablanca
-OFF-0093,Amdec,Industrie,Responsable Qualité,Casablanca
-OFF-0094,Linux,It & Tech,Chef de Projet IT,Tanger
-OFF-0094,Git,It & Tech,Chef de Projet IT,Tanger
-OFF-0094,Power Bi,It & Tech,Chef de Projet IT,Tanger
-OFF-0094,Typescript,It & Tech,Chef de Projet IT,Tanger
-OFF-0096,Ifrs,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0096,Audit,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0097,Agile,,Développeur Frontend,Meknès
-OFF-0097,Scrum,,Développeur Frontend,Meknès
-OFF-0097,Power Bi,,Développeur Frontend,Meknès
-OFF-0097,Kubernetes,,Développeur Frontend,Meknès
-OFF-0097,Javascript,,Développeur Frontend,Meknès
-OFF-0098,Plc,Industrie,Ing Production,Casablanca
-OFF-0098,Scada,Industrie,Ing Production,Casablanca
-OFF-0098,Autocad,Industrie,Ing Production,Casablanca
-OFF-0098,Solidworks,Industrie,Ing Production,Casablanca
-OFF-0099,Consolidation,Finance & Rh,Auditeur Financier,Rabat
-OFF-0099,Sage,Finance & Rh,Auditeur Financier,Rabat
-OFF-0100,Power Bi,It & Tech,Ml Ingénieur,Marrakech
-OFF-0100,Azure,It & Tech,Ml Ingénieur,Marrakech
-OFF-0100,Agile,It & Tech,Ml Ingénieur,Marrakech
-OFF-0100,Scrum,It & Tech,Ml Ingénieur,Marrakech
-OFF-0100,Kubernetes,It & Tech,Ml Ingénieur,Marrakech
-OFF-0100,Javascript,It & Tech,Ml Ingénieur,Marrakech
-OFF-0101,Node.Js,It & Tech,Product Manager,Rabat
-OFF-0101,Typescript,It & Tech,Product Manager,Rabat
-OFF-0101,Agile,It & Tech,Product Manager,Rabat
-OFF-0101,Scrum,It & Tech,Product Manager,Rabat
-OFF-0102,Git,It & Tech,Développeur Full-Stack,Tanger
-OFF-0102,Azure,It & Tech,Développeur Full-Stack,Tanger
-OFF-0102,React,It & Tech,Développeur Full-Stack,Tanger
-OFF-0102,Docker,It & Tech,Développeur Full-Stack,Tanger
-OFF-0102,Aws,It & Tech,Développeur Full-Stack,Tanger
-OFF-0104,Plc,Industrie,Responsable Qualité,Marrakech
-OFF-0104,Scada,Industrie,Responsable Qualité,Marrakech
-OFF-0104,Iso 9001,Industrie,Responsable Qualité,Marrakech
-OFF-0105,Excel,Commerce,Chargé Marketing Digital,Rabat
-OFF-0105,Salesforce,Commerce,Chargé Marketing Digital,Rabat
-OFF-0105,Seo,Commerce,Chargé Marketing Digital,Rabat
-OFF-0105,Google Ads,Commerce,Chargé Marketing Digital,Rabat
-OFF-0107,Béton Armé,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0107,Autocad,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0107,Revit,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0108,Sap,Finance & Rh,Responsable Rh,Tanger
-OFF-0108,Droit Du Travail,Finance & Rh,Responsable Rh,Tanger
-OFF-0108,Excel Avancé,Finance & Rh,Responsable Rh,Tanger
-OFF-0109,Java,It & Tech,ML Engineer,Rabat
-OFF-0109,Node.Js,It & Tech,ML Engineer,Rabat
-OFF-0109,Typescript,It & Tech,ML Engineer,Rabat
-OFF-0109,Aws,It & Tech,ML Engineer,Rabat
-OFF-0110,Négociation,Commerce,Chargé Marketing Digital,Kénitra
-OFF-0110,Analyse De Marché,Commerce,Chargé Marketing Digital,Kénitra
-OFF-0111,Typescript,It & Tech,Développeur Frontend,Marrakech
-OFF-0111,Azure,It & Tech,Développeur Frontend,Marrakech
-OFF-0111,Node.Js,It & Tech,Développeur Frontend,Marrakech
-OFF-0111,Mongodb,It & Tech,Développeur Frontend,Marrakech
-OFF-0111,Git,It & Tech,Développeur Frontend,Marrakech
-OFF-0112,Sage,Finance & Rh,Comptable,Tanger
-OFF-0112,Excel Avancé,Finance & Rh,Comptable,Tanger
-OFF-0114,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0114,Pack Office,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0114,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0114,Accueil Client,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0115,React,It & Tech,Ml Ingénieur,Tanger
-OFF-0115,Node.Js,It & Tech,Ml Ingénieur,Tanger
-OFF-0115,Mongodb,It & Tech,Ml Ingénieur,Tanger
-OFF-0115,Sql,It & Tech,Ml Ingénieur,Tanger
-OFF-0115,Java,It & Tech,Ml Ingénieur,Tanger
-OFF-0116,Email Marketing,Commerce,Chargé Marketing,Casablanca
-OFF-0116,Salesforce,Commerce,Chargé Marketing,Casablanca
-OFF-0116,Négociation,Commerce,Chargé Marketing,Casablanca
-OFF-0116,Seo,Commerce,Chargé Marketing,Casablanca
-OFF-0117,Solidworks,Industrie,Ingénieur Production,Marrakech
-OFF-0117,Autocad,Industrie,Ingénieur Production,Marrakech
-OFF-0117,Lean Manufacturing,Industrie,Ingénieur Production,Marrakech
-OFF-0117,Plc,Industrie,Ingénieur Production,Marrakech
-OFF-0117,Scada,Industrie,Ingénieur Production,Marrakech
-OFF-0118,Agile,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0118,Scrum,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0118,Node.Js,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0118,Javascript,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0119,Accueil Client,Tourisme,Guide Touristique,Tanger
-OFF-0119,Pack Office,Tourisme,Guide Touristique,Tanger
-OFF-0120,Google Ads,Commerce,Commercial B2B,Rabat
-OFF-0120,Email Marketing,Commerce,Commercial B2B,Rabat
-OFF-0120,Seo,Commerce,Commercial B2B,Rabat
-OFF-0120,Crm,Commerce,Commercial B2B,Rabat
-OFF-0120,Salesforce,Commerce,Commercial B2B,Rabat
-OFF-0121,Ms Project,Btp,Conducteur de Travaux,Casablanca
-OFF-0121,Autocad,Btp,Conducteur de Travaux,Casablanca
-OFF-0121,Béton Armé,Btp,Conducteur de Travaux,Casablanca
-OFF-0121,Gestion De Chantier,Btp,Conducteur de Travaux,Casablanca
-OFF-0121,Revit,Btp,Conducteur de Travaux,Casablanca
-OFF-0122,Typescript,It & Tech,Ml Ingénieur,Casablanca
-OFF-0122,Aws,It & Tech,Ml Ingénieur,Casablanca
-OFF-0122,Node.Js,It & Tech,Ml Ingénieur,Casablanca
-OFF-0122,Rest Api,It & Tech,Ml Ingénieur,Casablanca
-OFF-0123,Email Marketing,Commerce,Chargé Marketing Digital,Fès
-OFF-0123,Google Ads,Commerce,Chargé Marketing Digital,Fès
-OFF-0123,Négociation,Commerce,Chargé Marketing Digital,Fès
-OFF-0123,Crm,Commerce,Chargé Marketing Digital,Fès
-OFF-0124,Sql,It & Tech,Ingénieur Réseau,Marrakech
-OFF-0124,Azure,It & Tech,Ingénieur Réseau,Marrakech
-OFF-0124,Git,It & Tech,Ingénieur Réseau,Marrakech
-OFF-0125,Git,It & Tech,Data Engineer,Tanger
-OFF-0125,Javascript,It & Tech,Data Engineer,Tanger
-OFF-0125,Rest Api,It & Tech,Data Engineer,Tanger
-OFF-0126,Linux,It & Tech,Ml Ingénieur,Rabat
-OFF-0126,Mongodb,It & Tech,Ml Ingénieur,Rabat
-OFF-0126,Rest Api,It & Tech,Ml Ingénieur,Rabat
-OFF-0127,Node.Js,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0127,Rest Api,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0128,Aws,It & Tech,Ux Designer,Fès
-OFF-0128,Typescript,It & Tech,Ux Designer,Fès
-OFF-0128,Node.Js,It & Tech,Ux Designer,Fès
-OFF-0128,Tensorflow,It & Tech,Ux Designer,Fès
-OFF-0128,React,It & Tech,Ux Designer,Fès
-OFF-0129,Agile,It & Tech,Administrateur Système,Casablanca
-OFF-0129,Scrum,It & Tech,Administrateur Système,Casablanca
-OFF-0129,Java,It & Tech,Administrateur Système,Casablanca
-OFF-0130,Négociation,Commerce,Chargé Marketing Digital,Rabat
-OFF-0130,Salesforce,Commerce,Chargé Marketing Digital,Rabat
-OFF-0130,Analyse De Marché,Commerce,Chargé Marketing Digital,Rabat
-OFF-0130,Google Ads,Commerce,Chargé Marketing Digital,Rabat
-OFF-0132,Agile,It & Tech,DevOps Engineer,Casablanca
-OFF-0132,Scrum,It & Tech,DevOps Engineer,Casablanca
-OFF-0132,Aws,It & Tech,DevOps Engineer,Casablanca
-OFF-0133,Soins Infirmiers,Santé,Pharmacien,Casablanca
-OFF-0133,Éthique Médicale,Santé,Pharmacien,Casablanca
-OFF-0133,Pharmacologie,Santé,Pharmacien,Casablanca
-OFF-0133,Diagnostic,Santé,Pharmacien,Casablanca
-OFF-0134,Paie,Finance & Rh,Comptable,Rabat
-OFF-0134,Sage,Finance & Rh,Comptable,Rabat
-OFF-0135,Éthique Médicale,Santé,Médecin Généraliste,Marrakech
-OFF-0135,Soins Infirmiers,Santé,Médecin Généraliste,Marrakech
-OFF-0135,Diagnostic,Santé,Médecin Généraliste,Marrakech
-OFF-0136,Paie,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0136,Droit Du Travail,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0136,Sage,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0136,Consolidation,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0136,Audit,Finance & Rh,Auditeur Financier,Casablanca
+OFF-0091,Linux,It & Tech,DevOps,Casablanca
+OFF-0091,Kubernetes,It & Tech,DevOps,Casablanca
+OFF-0092,Excel - Analyse de marché - Google Ads - SEO,Commerce,Resp. Commercial,Casablanca
+OFF-0093,PLC/SCADA,Industrie,Responsable qualité,Casablanca
+OFF-0093,SolidWorks,Industrie,Responsable qualité,Casablanca
+OFF-0093,ISO 9001,Industrie,Responsable qualité,Casablanca
+OFF-0093,AutoCAD,Industrie,Responsable qualité,Casablanca
+OFF-0093,AMDEC,Industrie,Responsable qualité,Casablanca
+OFF-0094,Linux - Git - Power BI - TypeScript,It & Tech,Project Manager IT,Tanger
+OFF-0096,"IFRS, Audit",Finance & Rh,CONTROLEUR DE GESTION,Rabat
+OFF-0097,Agile/Scrum,,Frontend Dev,Meknès
+OFF-0097,Power BI,,Frontend Dev,Meknès
+OFF-0097,Kubernetes,,Frontend Dev,Meknès
+OFF-0097,JavaScript,,Frontend Dev,Meknès
+OFF-0098,PLC/SCADA,Industrie,ing production,Casablanca
+OFF-0098,AutoCAD,Industrie,ing production,Casablanca
+OFF-0098,SolidWorks,Industrie,ing production,Casablanca
+OFF-0099,CONSOLIDATION,Finance & Rh,Auditeur,Rabat
+OFF-0099,SAGE,Finance & Rh,Auditeur,Rabat
+OFF-0100,Power BI,It & Tech,ML Ingénieur,Marrakech
+OFF-0100,Azure,It & Tech,ML Ingénieur,Marrakech
+OFF-0100,Agile/Scrum,It & Tech,ML Ingénieur,Marrakech
+OFF-0100,Kubernetes,It & Tech,ML Ingénieur,Marrakech
+OFF-0100,JavaScript,It & Tech,ML Ingénieur,Marrakech
+OFF-0101,Node.js,It & Tech,PM,Rabat
+OFF-0101,TypeScript,It & Tech,PM,Rabat
+OFF-0101,Agile/Scrum,It & Tech,PM,Rabat
+OFF-0102,Git,It & Tech,développeur full-stack,Tanger
+OFF-0102,Azure,It & Tech,développeur full-stack,Tanger
+OFF-0102,React,It & Tech,développeur full-stack,Tanger
+OFF-0102,Docker,It & Tech,développeur full-stack,Tanger
+OFF-0102,AWS,It & Tech,développeur full-stack,Tanger
+OFF-0104,PLC/SCADA / ISO 9001,Industrie,Responsable qualité,Marrakech
+OFF-0105,"Excel, Salesforce, SEO, Google Ads",Commerce,MARKETING DIGITAL,Rabat
+OFF-0105,"Excel, Salesforce, SEO, Google Ads",Commerce,MARKETING DIGITAL,Rabat
+OFF-0107,Béton armé,Btp,Génie Civil,Casablanca
+OFF-0107,AutoCAD,Btp,Génie Civil,Casablanca
+OFF-0107,Revit,Btp,Génie Civil,Casablanca
+OFF-0108,SAP / Droit du travail / Excel avancé,Finance & Rh,RESPONSABLE RH,Tanger
+OFF-0109,Java,It & Tech,Machine Learning Engineer,Rabat-Salé
+OFF-0109,Node.js,It & Tech,Machine Learning Engineer,Rabat-Salé
+OFF-0109,TypeScript,It & Tech,Machine Learning Engineer,Rabat-Salé
+OFF-0109,AWS,It & Tech,Machine Learning Engineer,Rabat-Salé
+OFF-0110,NÉGOCIATION,Commerce,Marketing Digital,Kénitra
+OFF-0110,ANALYSE DE MARCHÉ,Commerce,Marketing Digital,Kénitra
+OFF-0111,TypeScript,It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0111,Azure,It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0111,Node.js,It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0111,MongoDB,It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0111,Git,It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0112,SAGE,Finance & Rh,comptable junior,Tanger
+OFF-0112,Excel avancé,Finance & Rh,comptable junior,Tanger
+OFF-0114,Langues étrangères,Tourisme,RÉCEPTIONNISTE,Tanger
+OFF-0114,Pack Office,Tourisme,RÉCEPTIONNISTE,Tanger
+OFF-0114,Gestion réservations,Tourisme,RÉCEPTIONNISTE,Tanger
+OFF-0114,Accueil client,Tourisme,RÉCEPTIONNISTE,Tanger
+OFF-0115,React,It & Tech,ML Ingénieur,Tanger
+OFF-0115,Node.js,It & Tech,ML Ingénieur,Tanger
+OFF-0115,MongoDB,It & Tech,ML Ingénieur,Tanger
+OFF-0115,SQL,It & Tech,ML Ingénieur,Tanger
+OFF-0115,Java,It & Tech,ML Ingénieur,Tanger
+OFF-0116,Email Marketing,Commerce,chargé marketing,Casablanca
+OFF-0116,Salesforce,Commerce,chargé marketing,Casablanca
+OFF-0116,Négociation,Commerce,chargé marketing,Casablanca
+OFF-0116,SEO,Commerce,chargé marketing,Casablanca
+OFF-0117,SolidWorks,Industrie,Ingénieur de production,Marrakech
+OFF-0117,AutoCAD,Industrie,Ingénieur de production,Marrakech
+OFF-0117,Lean Manufacturing,Industrie,Ingénieur de production,Marrakech
+OFF-0117,PLC/SCADA,Industrie,Ingénieur de production,Marrakech
+OFF-0118,Agile/Scrum,It & Tech,BI Analyst,Casablanca
+OFF-0118,Node.js,It & Tech,BI Analyst,Casablanca
+OFF-0118,JavaScript,It & Tech,BI Analyst,Casablanca
+OFF-0119,Accueil client,Tourisme,Guide,Tanger
+OFF-0119,Pack Office,Tourisme,Guide,Tanger
+OFF-0120,Google Ads,Commerce,commercial b 2 b,Rabat
+OFF-0120,Email Marketing,Commerce,commercial b 2 b,Rabat
+OFF-0120,SEO,Commerce,commercial b 2 b,Rabat
+OFF-0120,CRM,Commerce,commercial b 2 b,Rabat
+OFF-0120,Salesforce,Commerce,commercial b 2 b,Rabat
+OFF-0121,MS Project,Btp,CONDUCTEUR TRAVAUX,Casablanca
+OFF-0121,AutoCAD,Btp,CONDUCTEUR TRAVAUX,Casablanca
+OFF-0121,Béton armé,Btp,CONDUCTEUR TRAVAUX,Casablanca
+OFF-0121,Gestion de chantier,Btp,CONDUCTEUR TRAVAUX,Casablanca
+OFF-0121,Revit,Btp,CONDUCTEUR TRAVAUX,Casablanca
+OFF-0122,TypeScript,It & Tech,ML Ingénieur,Casablanca
+OFF-0122,AWS,It & Tech,ML Ingénieur,Casablanca
+OFF-0122,Node.js,It & Tech,ML Ingénieur,Casablanca
+OFF-0122,REST API,It & Tech,ML Ingénieur,Casablanca
+OFF-0123,Email Marketing,Commerce,Marketing Digital,Fès
+OFF-0123,Google Ads,Commerce,Marketing Digital,Fès
+OFF-0123,Négociation,Commerce,Marketing Digital,Fès
+OFF-0123,CRM,Commerce,Marketing Digital,Fès
+OFF-0124,SQL,It & Tech,ingenieur reseau,Marrakech
+OFF-0124,Azure,It & Tech,ingenieur reseau,Marrakech
+OFF-0124,Git,It & Tech,ingenieur reseau,Marrakech
+OFF-0125,"Git, JavaScript, REST API",It & Tech,Data engineer,Tanger
+OFF-0126,Linux,It & Tech,ML Ingénieur,Rabat
+OFF-0126,MongoDB,It & Tech,ML Ingénieur,Rabat
+OFF-0126,REST API,It & Tech,ML Ingénieur,Rabat
+OFF-0127,"Node.js, REST API",It & Tech,Power BI Developer,Casablanca
+OFF-0128,AWS,It & Tech,UX Designer,Fès
+OFF-0128,TypeScript,It & Tech,UX Designer,Fès
+OFF-0128,Node.js,It & Tech,UX Designer,Fès
+OFF-0128,TensorFlow,It & Tech,UX Designer,Fès
+OFF-0128,React,It & Tech,UX Designer,Fès
+OFF-0129,Agile/Scrum,It & Tech,Sysadmin,Casablanca
+OFF-0129,Java,It & Tech,Sysadmin,Casablanca
+OFF-0130,"Négociation, Salesforce, Analyse de marché, Google Ads",Commerce,Marketer Digital,Rabat
+OFF-0132,Agile/Scrum,It & Tech,DevOps,Casablanca
+OFF-0132,AWS,It & Tech,DevOps,Casablanca
+OFF-0133,Soins infirmiers,Santé,Pharmacien d'officine,Casablanca
+OFF-0133,Éthique médicale,Santé,Pharmacien d'officine,Casablanca
+OFF-0133,Pharmacologie,Santé,Pharmacien d'officine,Casablanca
+OFF-0133,Diagnostic,Santé,Pharmacien d'officine,Casablanca
+OFF-0134,Paie,Finance & Rh,comptable junior,Rabat
+OFF-0134,SAGE,Finance & Rh,comptable junior,Rabat
+OFF-0135,Éthique médicale,Santé,Médecin,Marrakech
+OFF-0135,Soins infirmiers,Santé,Médecin,Marrakech
+OFF-0135,Diagnostic,Santé,Médecin,Marrakech
+OFF-0136,Paie / Droit du travail / SAGE / Consolidation / Audit,Finance & Rh,AUDITEUR,Casablanca
 OFF-0137,Pharmacologie,,Infirmier,Casablanca
-OFF-0137,Soins Infirmiers,,Infirmier,Casablanca
-OFF-0137,Éthique Médicale,,Infirmier,Casablanca
+OFF-0137,Soins infirmiers,,Infirmier,Casablanca
+OFF-0137,Éthique médicale,,Infirmier,Casablanca
 OFF-0137,Diagnostic,,Infirmier,Casablanca
-OFF-0138,Email Marketing,Commerce,Chargé Marketing,Tanger
-OFF-0138,Seo,Commerce,Chargé Marketing,Tanger
-OFF-0139,Revit,Btp,Ingénieur Génie Civil,Tanger
-OFF-0139,Béton Armé,Btp,Ingénieur Génie Civil,Tanger
-OFF-0140,Éthique Médicale,Santé,Médecin Généraliste,Fès
-OFF-0140,Pharmacologie,Santé,Médecin Généraliste,Fès
-OFF-0140,Soins Infirmiers,Santé,Médecin Généraliste,Fès
-OFF-0140,Diagnostic,Santé,Médecin Généraliste,Fès
-OFF-0141,Autocad,Industrie,Technicien Maintenance,Tanger
-OFF-0141,Plc,Industrie,Technicien Maintenance,Tanger
-OFF-0141,Scada,Industrie,Technicien Maintenance,Tanger
-OFF-0141,Lean Manufacturing,Industrie,Technicien Maintenance,Tanger
-OFF-0141,Amdec,Industrie,Technicien Maintenance,Tanger
-OFF-0142,Node.Js,It & Tech,Chef de Projet IT,Casablanca
-OFF-0142,Linux,It & Tech,Chef de Projet IT,Casablanca
-OFF-0142,Mongodb,It & Tech,Chef de Projet IT,Casablanca
-OFF-0142,Tensorflow,It & Tech,Chef de Projet IT,Casablanca
-OFF-0143,Tensorflow,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0143,Python,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0145,React,It & Tech,Développeur Frontend,Casablanca
-OFF-0145,Agile,It & Tech,Développeur Frontend,Casablanca
-OFF-0145,Scrum,It & Tech,Développeur Frontend,Casablanca
-OFF-0145,Docker,It & Tech,Développeur Frontend,Casablanca
-OFF-0145,Rest Api,It & Tech,Développeur Frontend,Casablanca
-OFF-0145,Kubernetes,It & Tech,Développeur Frontend,Casablanca
-OFF-0146,Ms Project,Btp,Conducteur de Travaux,Casablanca
-OFF-0146,Revit,Btp,Conducteur de Travaux,Casablanca
-OFF-0146,Autocad,Btp,Conducteur de Travaux,Casablanca
-OFF-0146,Béton Armé,Btp,Conducteur de Travaux,Casablanca
-OFF-0147,Javascript,It & Tech,Cyber Analyst,Casablanca
-OFF-0147,Typescript,It & Tech,Cyber Analyst,Casablanca
-OFF-0147,Aws,It & Tech,Cyber Analyst,Casablanca
-OFF-0147,Rest Api,It & Tech,Cyber Analyst,Casablanca
-OFF-0147,Node.Js,It & Tech,Cyber Analyst,Casablanca
-OFF-0148,Linux,It & Tech,Data Scientist,Casablanca
-OFF-0148,Rest Api,It & Tech,Data Scientist,Casablanca
-OFF-0148,Node.Js,It & Tech,Data Scientist,Casablanca
-OFF-0149,Python,It & Tech,Administrateur Système,Casablanca
-OFF-0149,Kubernetes,It & Tech,Administrateur Système,Casablanca
-OFF-0150,Power Bi,It & Tech,ML Engineer,Casablanca
-OFF-0150,React,It & Tech,ML Engineer,Casablanca
-OFF-0150,Sql,It & Tech,ML Engineer,Casablanca
-OFF-0152,Droit Du Travail,Finance & Rh,Analyste Financier,Casablanca
-OFF-0152,Excel Avancé,Finance & Rh,Analyste Financier,Casablanca
-OFF-0152,Paie,Finance & Rh,Analyste Financier,Casablanca
-OFF-0153,Kubernetes,It & Tech,Data Scientist,Marrakech
-OFF-0153,Tensorflow,It & Tech,Data Scientist,Marrakech
-OFF-0153,Power Bi,It & Tech,Data Scientist,Marrakech
-OFF-0154,Mongodb,It & Tech,Data Scientist,Casablanca
-OFF-0154,Power Bi,It & Tech,Data Scientist,Casablanca
-OFF-0154,Docker,It & Tech,Data Scientist,Casablanca
-OFF-0154,Azure,It & Tech,Data Scientist,Casablanca
-OFF-0154,React,It & Tech,Data Scientist,Casablanca
-OFF-0155,Solidworks,,Ing Production,Casablanca
-OFF-0155,Autocad,,Ing Production,Casablanca
-OFF-0155,Iso 9001,,Ing Production,Casablanca
-OFF-0155,Lean Manufacturing,,Ing Production,Casablanca
-OFF-0155,Amdec,,Ing Production,Casablanca
-OFF-0156,Javascript,It & Tech,Administrateur Système,Marrakech
-OFF-0156,Linux,It & Tech,Administrateur Système,Marrakech
-OFF-0156,Rest Api,It & Tech,Administrateur Système,Marrakech
-OFF-0156,Kubernetes,It & Tech,Administrateur Système,Marrakech
-OFF-0156,Typescript,It & Tech,Administrateur Système,Marrakech
-OFF-0157,Pack Office,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0157,Accueil Client,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0157,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0158,Amdec,Industrie,Technicien Maintenance,Casablanca
-OFF-0158,Iso 9001,Industrie,Technicien Maintenance,Casablanca
-OFF-0158,Autocad,Industrie,Technicien Maintenance,Casablanca
-OFF-0159,Négociation,Commerce,Community Manager,Oujda
-OFF-0159,Analyse De Marché,Commerce,Community Manager,Oujda
-OFF-0159,Salesforce,Commerce,Community Manager,Oujda
-OFF-0159,Crm,Commerce,Community Manager,Oujda
-OFF-0159,Excel,Commerce,Community Manager,Oujda
-OFF-0161,Sql,It & Tech,Administrateur Système,Marrakech
-OFF-0161,Typescript,It & Tech,Administrateur Système,Marrakech
-OFF-0162,Agile,It & Tech,Développeur Full Stack,Casablanca
-OFF-0162,Scrum,It & Tech,Développeur Full Stack,Casablanca
-OFF-0162,Rest Api,It & Tech,Développeur Full Stack,Casablanca
-OFF-0162,React,It & Tech,Développeur Full Stack,Casablanca
-OFF-0162,Azure,It & Tech,Développeur Full Stack,Casablanca
-OFF-0163,Python,It & Tech,DevOps Engineer,Tanger
-OFF-0163,Tensorflow,It & Tech,DevOps Engineer,Tanger
-OFF-0164,Kubernetes,It & Tech,Développeur Full Stack,Casablanca
-OFF-0164,Java,It & Tech,Développeur Full Stack,Casablanca
-OFF-0164,Aws,It & Tech,Développeur Full Stack,Casablanca
-OFF-0164,Mongodb,It & Tech,Développeur Full Stack,Casablanca
-OFF-0164,Agile,It & Tech,Développeur Full Stack,Casablanca
-OFF-0164,Scrum,It & Tech,Développeur Full Stack,Casablanca
+OFF-0138,Email Marketing,Commerce,chargé marketing,Tanger
+OFF-0138,SEO,Commerce,chargé marketing,Tanger
+OFF-0139,Revit,Btp,ing génie civil,Tanger
+OFF-0139,Béton armé,Btp,ing génie civil,Tanger
+OFF-0140,Éthique médicale,Santé,MÉDECIN GÉNÉRALISTE,Fès
+OFF-0140,Pharmacologie,Santé,MÉDECIN GÉNÉRALISTE,Fès
+OFF-0140,Soins infirmiers,Santé,MÉDECIN GÉNÉRALISTE,Fès
+OFF-0140,Diagnostic,Santé,MÉDECIN GÉNÉRALISTE,Fès
+OFF-0141,AutoCAD,Industrie,Technicien maintenance,Tanger
+OFF-0141,PLC/SCADA,Industrie,Technicien maintenance,Tanger
+OFF-0141,Lean Manufacturing,Industrie,Technicien maintenance,Tanger
+OFF-0141,AMDEC,Industrie,Technicien maintenance,Tanger
+OFF-0142,Node.js,It & Tech,chef de projet,Casablanca
+OFF-0142,Linux,It & Tech,chef de projet,Casablanca
+OFF-0142,MongoDB,It & Tech,chef de projet,Casablanca
+OFF-0142,TensorFlow,It & Tech,chef de projet,Casablanca
+OFF-0143,TensorFlow,It & Tech,ingenieur reseau,Casablanca
+OFF-0143,Python,It & Tech,ingenieur reseau,Casablanca
+OFF-0145,React,It & Tech,Développeur FrontEnd,Casablanca
+OFF-0145,Agile/Scrum,It & Tech,Développeur FrontEnd,Casablanca
+OFF-0145,Docker,It & Tech,Développeur FrontEnd,Casablanca
+OFF-0145,REST API,It & Tech,Développeur FrontEnd,Casablanca
+OFF-0145,Kubernetes,It & Tech,Développeur FrontEnd,Casablanca
+OFF-0146,MS Project,Btp,chef de chantier,Casablanca
+OFF-0146,Revit,Btp,chef de chantier,Casablanca
+OFF-0146,AutoCAD,Btp,chef de chantier,Casablanca
+OFF-0146,Béton armé,Btp,chef de chantier,Casablanca
+OFF-0147,"JavaScript, TypeScript, AWS, REST API, Node.js",It & Tech,cyber analyst,Casablanca
+OFF-0148,"Linux, REST API, Node.js",It & Tech,DATA SCIENTIST,Casablanca
+OFF-0149,Python,It & Tech,SysAdmin,Casablanca
+OFF-0149,Kubernetes,It & Tech,SysAdmin,Casablanca
+OFF-0150,Power BI,It & Tech,ml engineer,Casablanca
+OFF-0150,React,It & Tech,ml engineer,Casablanca
+OFF-0150,SQL,It & Tech,ml engineer,Casablanca
+OFF-0152,Droit du travail,Finance & Rh,Financial Analyst,Casablanca
+OFF-0152,Excel avancé,Finance & Rh,Financial Analyst,Casablanca
+OFF-0152,Paie,Finance & Rh,Financial Analyst,Casablanca
+OFF-0153,"Kubernetes, TensorFlow, Power BI",It & Tech,Data scientist,Marrakech
+OFF-0154,"MongoDB, Power BI, Docker, Azure, React",It & Tech,Data scientist,Casablanca
+OFF-0155,SOLIDWORKS,,ing production,Casablanca
+OFF-0155,AUTOCAD,,ing production,Casablanca
+OFF-0155,ISO 9001,,ing production,Casablanca
+OFF-0155,LEAN MANUFACTURING,,ing production,Casablanca
+OFF-0155,AMDEC,,ing production,Casablanca
+OFF-0156,JavaScript,It & Tech,Admin Système,Marrakech
+OFF-0156,Linux,It & Tech,Admin Système,Marrakech
+OFF-0156,REST API,It & Tech,Admin Système,Marrakech
+OFF-0156,Kubernetes,It & Tech,Admin Système,Marrakech
+OFF-0156,TypeScript,It & Tech,Admin Système,Marrakech
+OFF-0157,Pack Office,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0157,Accueil client,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0157,Gestion réservations,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0158,AMDEC,Industrie,tech maintenance,Casablanca
+OFF-0158,ISO 9001,Industrie,tech maintenance,Casablanca
+OFF-0158,AutoCAD,Industrie,tech maintenance,Casablanca
+OFF-0159,"Négociation, Analyse de marché, Salesforce, CRM, Excel",Commerce,COMMUNITY MANAGER,Oujda
+OFF-0159,"Négociation, Analyse de marché, Salesforce, CRM, Excel",Commerce,COMMUNITY MANAGER,Oujda
+OFF-0161,SQL,It & Tech,Sysadmin,Marrakech
+OFF-0161,TypeScript,It & Tech,Sysadmin,Marrakech
+OFF-0162,"Agile/Scrum, REST API, React, Azure",It & Tech,Developpeur FullStack,Casablanca
+OFF-0163,Python,It & Tech,devops engineer,Tanger
+OFF-0163,TensorFlow,It & Tech,devops engineer,Tanger
+OFF-0164,Kubernetes,It & Tech,DEVELOPPEUR FULL STACK,Casablanca
+OFF-0164,Java,It & Tech,DEVELOPPEUR FULL STACK,Casablanca
+OFF-0164,AWS,It & Tech,DEVELOPPEUR FULL STACK,Casablanca
+OFF-0164,MongoDB,It & Tech,DEVELOPPEUR FULL STACK,Casablanca
+OFF-0164,Agile/Scrum,It & Tech,DEVELOPPEUR FULL STACK,Casablanca
 OFF-0165,Kubernetes,It & Tech,Data Engneer,Marrakech
-OFF-0165,Agile,It & Tech,Data Engneer,Marrakech
-OFF-0165,Scrum,It & Tech,Data Engneer,Marrakech
-OFF-0165,Rest Api,It & Tech,Data Engneer,Marrakech
-OFF-0165,Typescript,It & Tech,Data Engneer,Marrakech
-OFF-0166,Plc,Industrie,Technicien Maintenance,Tanger
-OFF-0166,Scada,Industrie,Technicien Maintenance,Tanger
-OFF-0166,Iso 9001,Industrie,Technicien Maintenance,Tanger
-OFF-0166,Amdec,Industrie,Technicien Maintenance,Tanger
-OFF-0166,Lean Manufacturing,Industrie,Technicien Maintenance,Tanger
-OFF-0166,Solidworks,Industrie,Technicien Maintenance,Tanger
-OFF-0167,Node.Js,It & Tech,Product Manager,Casablanca
-OFF-0167,Tensorflow,It & Tech,Product Manager,Casablanca
-OFF-0167,Typescript,It & Tech,Product Manager,Casablanca
-OFF-0167,Sql,It & Tech,Product Manager,Casablanca
-OFF-0168,Power Bi,It & Tech,ML Engineer,Casablanca
-OFF-0168,Docker,It & Tech,ML Engineer,Casablanca
-OFF-0169,Paie,Finance & Rh,Comptable,Rabat
-OFF-0169,Sage,Finance & Rh,Comptable,Rabat
-OFF-0170,Sage,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0170,Paie,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0171,Javascript,It & Tech,Data Engineeer,Fès
-OFF-0171,Sql,It & Tech,Data Engineeer,Fès
-OFF-0171,React,It & Tech,Data Engineeer,Fès
-OFF-0172,Power Bi,It & Tech,Développeur Frontend,Rabat
-OFF-0172,Docker,It & Tech,Développeur Frontend,Rabat
-OFF-0175,Pack Office,Tourisme,Guide Touristique,Casablanca
-OFF-0175,Accueil Client,Tourisme,Guide Touristique,Casablanca
-OFF-0175,Langues Étrangères,Tourisme,Guide Touristique,Casablanca
-OFF-0175,Gestion Réservations,Tourisme,Guide Touristique,Casablanca
-OFF-0176,Éthique Médicale,,Pharmacien,Marrakech
-OFF-0176,Soins Infirmiers,,Pharmacien,Marrakech
-OFF-0176,Diagnostic,,Pharmacien,Marrakech
-OFF-0176,Pharmacologie,,Pharmacien,Marrakech
-OFF-0177,Tensorflow,It & Tech,Data Engneer,Fès
-OFF-0177,Rest Api,It & Tech,Data Engneer,Fès
-OFF-0178,Sage,Finance & Rh,Analyste Financier,Rabat
-OFF-0178,Consolidation,Finance & Rh,Analyste Financier,Rabat
-OFF-0178,Ifrs,Finance & Rh,Analyste Financier,Rabat
-OFF-0179,Aws,It & Tech,Ingénieur Réseau,Tanger
-OFF-0179,React,It & Tech,Ingénieur Réseau,Tanger
-OFF-0179,Kubernetes,It & Tech,Ingénieur Réseau,Tanger
-OFF-0179,Sql,It & Tech,Ingénieur Réseau,Tanger
-OFF-0179,Azure,It & Tech,Ingénieur Réseau,Tanger
-OFF-0180,Paie,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0180,Consolidation,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0180,Droit Du Travail,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0182,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0182,Accueil Client,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0183,Rest Api,It & Tech,Administrateur Système,Casablanca
-OFF-0183,Mongodb,It & Tech,Administrateur Système,Casablanca
-OFF-0184,Azure,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0184,Aws,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0184,Java,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0184,Agile,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0184,Scrum,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0185,Soins Infirmiers,Santé,Pharmacien,Casablanca
-OFF-0185,Diagnostic,Santé,Pharmacien,Casablanca
-OFF-0185,Éthique Médicale,Santé,Pharmacien,Casablanca
-OFF-0185,Pharmacologie,Santé,Pharmacien,Casablanca
-OFF-0186,Crm,Commerce,Community Manager,Marrakech
-OFF-0186,Google Ads,Commerce,Community Manager,Marrakech
-OFF-0187,Gestion Réservations,Tourisme,Guide Touristique,Oujda
-OFF-0187,Pack Office,Tourisme,Guide Touristique,Oujda
-OFF-0187,Accueil Client,Tourisme,Guide Touristique,Oujda
-OFF-0187,Langues Étrangères,Tourisme,Guide Touristique,Oujda
-OFF-0188,Sap,Finance & Rh,Analyste Financier,Rabat
-OFF-0188,Audit,Finance & Rh,Analyste Financier,Rabat
-OFF-0188,Ifrs,Finance & Rh,Analyste Financier,Rabat
-OFF-0189,Typescript,It & Tech,Développeur Frontend,Marrakech
-OFF-0189,Node.Js,It & Tech,Développeur Frontend,Marrakech
-OFF-0189,Power Bi,It & Tech,Développeur Frontend,Marrakech
-OFF-0190,Sql,It & Tech,Data Scientist,Fès
-OFF-0190,Mongodb,It & Tech,Data Scientist,Fès
-OFF-0190,Javascript,It & Tech,Data Scientist,Fès
-OFF-0191,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0191,Pack Office,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0191,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0191,Accueil Client,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0192,Docker,It & Tech,Ux Designer,Casablanca
-OFF-0192,Linux,It & Tech,Ux Designer,Casablanca
-OFF-0193,Rest Api,It & Tech,Data Sientist,Tanger
+OFF-0165,Agile/Scrum,It & Tech,Data Engneer,Marrakech
+OFF-0165,REST API,It & Tech,Data Engneer,Marrakech
+OFF-0165,TypeScript,It & Tech,Data Engneer,Marrakech
+OFF-0166,PLC/SCADA / ISO 9001 / AMDEC / Lean Manufacturing / SolidWorks,Industrie,Technicien maintenance,Tanger
+OFF-0167,Node.js,It & Tech,Product Owner,Casablanca
+OFF-0167,TensorFlow,It & Tech,Product Owner,Casablanca
+OFF-0167,TypeScript,It & Tech,Product Owner,Casablanca
+OFF-0167,SQL,It & Tech,Product Owner,Casablanca
+OFF-0168,Power BI,It & Tech,ml engineer,Casablanca
+OFF-0168,Docker,It & Tech,ml engineer,Casablanca
+OFF-0169,"Paie, SAGE",Finance & Rh,comptable,Rabat
+OFF-0170,SAGE,Finance & Rh,Contrôleur gestion,Casablanca
+OFF-0170,Paie,Finance & Rh,Contrôleur gestion,Casablanca
+OFF-0171,JavaScript,It & Tech,data engineeer,Fès
+OFF-0171,SQL,It & Tech,data engineeer,Fès
+OFF-0171,React,It & Tech,data engineeer,Fès
+OFF-0172,Power BI,It & Tech,FRONTEND DEVELOPER,Rabat
+OFF-0172,Docker,It & Tech,FRONTEND DEVELOPER,Rabat
+OFF-0175,Pack Office,Tourisme,Guide,Casablanca
+OFF-0175,Accueil client,Tourisme,Guide,Casablanca
+OFF-0175,Langues étrangères,Tourisme,Guide,Casablanca
+OFF-0175,Gestion réservations,Tourisme,Guide,Casablanca
+OFF-0176,Éthique médicale,,PHARMACIEN,Marrakech
+OFF-0176,Soins infirmiers,,PHARMACIEN,Marrakech
+OFF-0176,Diagnostic,,PHARMACIEN,Marrakech
+OFF-0176,Pharmacologie,,PHARMACIEN,Marrakech
+OFF-0177,TensorFlow,It & Tech,Data Engneer,Fès
+OFF-0177,REST API,It & Tech,Data Engneer,Fès
+OFF-0178,SAGE,Finance & Rh,ANALYSTE FINANCIER,Rabat
+OFF-0178,Consolidation,Finance & Rh,ANALYSTE FINANCIER,Rabat
+OFF-0178,IFRS,Finance & Rh,ANALYSTE FINANCIER,Rabat
+OFF-0179,AWS,It & Tech,Ingénieur réseau,Tanger
+OFF-0179,React,It & Tech,Ingénieur réseau,Tanger
+OFF-0179,Kubernetes,It & Tech,Ingénieur réseau,Tanger
+OFF-0179,SQL,It & Tech,Ingénieur réseau,Tanger
+OFF-0179,Azure,It & Tech,Ingénieur réseau,Tanger
+OFF-0180,Paie,Finance & Rh,Audit Financier,Casablanca
+OFF-0180,Consolidation,Finance & Rh,Audit Financier,Casablanca
+OFF-0180,Droit du travail,Finance & Rh,Audit Financier,Casablanca
+OFF-0180,Paie,Finance & Rh,Audit Financier,Casablanca
+OFF-0180,Consolidation,Finance & Rh,Audit Financier,Casablanca
+OFF-0180,Droit du travail,Finance & Rh,Audit Financier,Casablanca
+OFF-0182,Langues étrangères,Tourisme,receptionniste hotel,Casablanca
+OFF-0182,Accueil client,Tourisme,receptionniste hotel,Casablanca
+OFF-0183,REST API,It & Tech,Administrateur sys,Casablanca
+OFF-0183,MONGODB,It & Tech,Administrateur sys,Casablanca
+OFF-0184,"Azure, AWS, Java, Agile/Scrum",It & Tech,développeur full-stack,Casablanca
+OFF-0185,Soins infirmiers,Santé,pharmacien,Casablanca
+OFF-0185,Diagnostic,Santé,pharmacien,Casablanca
+OFF-0185,Éthique médicale,Santé,pharmacien,Casablanca
+OFF-0185,Pharmacologie,Santé,pharmacien,Casablanca
+OFF-0186,CRM,Commerce,Community manager,Marrakech
+OFF-0186,Google Ads,Commerce,Community manager,Marrakech
+OFF-0187,Gestion réservations,Tourisme,guide touristique,Oujda
+OFF-0187,Pack Office,Tourisme,guide touristique,Oujda
+OFF-0187,Accueil client,Tourisme,guide touristique,Oujda
+OFF-0187,Langues étrangères,Tourisme,guide touristique,Oujda
+OFF-0188,SAP,Finance & Rh,analyste financier,Rabat
+OFF-0188,Audit,Finance & Rh,analyste financier,Rabat
+OFF-0188,IFRS,Finance & Rh,analyste financier,Rabat
+OFF-0189,"TypeScript, Node.js, Power BI",It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0190,SQL,It & Tech,data scientist,Fès
+OFF-0190,MongoDB,It & Tech,data scientist,Fès
+OFF-0190,JavaScript,It & Tech,data scientist,Fès
+OFF-0191,Langues étrangères,Tourisme,Réceptionniste,Casablanca
+OFF-0191,Pack Office,Tourisme,Réceptionniste,Casablanca
+OFF-0191,Gestion réservations,Tourisme,Réceptionniste,Casablanca
+OFF-0191,Accueil client,Tourisme,Réceptionniste,Casablanca
+OFF-0192,Docker / Linux,It & Tech,UX Designer,Casablanca
+OFF-0193,REST API,It & Tech,Data Sientist,Tanger
 OFF-0193,Docker,It & Tech,Data Sientist,Tanger
-OFF-0193,Typescript,It & Tech,Data Sientist,Tanger
-OFF-0194,Sage,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0194,Ifrs,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0195,Typescript,It & Tech,Dév. Full Stack,Casablanca
-OFF-0195,Aws,It & Tech,Dév. Full Stack,Casablanca
+OFF-0193,TypeScript,It & Tech,Data Sientist,Tanger
+OFF-0194,SAGE / IFRS,Finance & Rh,Auditeur,Casablanca
+OFF-0195,TypeScript,It & Tech,Dév. Full Stack,Casablanca
+OFF-0195,AWS,It & Tech,Dév. Full Stack,Casablanca
 OFF-0195,React,It & Tech,Dév. Full Stack,Casablanca
-OFF-0196,Docker,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0196,Kubernetes,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0196,Node.Js,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0196,Rest Api,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0196,Javascript,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0197,Java,It & Tech,Chef de Projet IT,Casablanca
-OFF-0197,Agile,It & Tech,Chef de Projet IT,Casablanca
-OFF-0197,Scrum,It & Tech,Chef de Projet IT,Casablanca
-OFF-0197,Tensorflow,It & Tech,Chef de Projet IT,Casablanca
-OFF-0198,Typescript,It & Tech,Développeur Frontend,Tanger
-OFF-0198,Docker,It & Tech,Développeur Frontend,Tanger
-OFF-0198,Aws,It & Tech,Développeur Frontend,Tanger
-OFF-0199,Lean Manufacturing,Industrie,Responsable Qualité,Casablanca
-OFF-0199,Solidworks,Industrie,Responsable Qualité,Casablanca
-OFF-0200,Revit,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0200,Ms Project,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0200,Autocad,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0201,Gestion De Chantier,Btp,Conducteur de Travaux,Casablanca
-OFF-0201,Revit,Btp,Conducteur de Travaux,Casablanca
-OFF-0201,Béton Armé,Btp,Conducteur de Travaux,Casablanca
-OFF-0201,Ms Project,Btp,Conducteur de Travaux,Casablanca
-OFF-0201,Autocad,Btp,Conducteur de Travaux,Casablanca
-OFF-0202,Audit,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0202,Sap,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0202,Ifrs,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0202,Droit Du Travail,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0203,Audit,Finance & Rh,Gestionnaire de Paie,Rabat
-OFF-0203,Paie,Finance & Rh,Gestionnaire de Paie,Rabat
-OFF-0203,Ifrs,Finance & Rh,Gestionnaire de Paie,Rabat
-OFF-0203,Droit Du Travail,Finance & Rh,Gestionnaire de Paie,Rabat
-OFF-0204,Power Bi,It & Tech,Analyste BI / Power BI,Agadir
-OFF-0204,Docker,It & Tech,Analyste BI / Power BI,Agadir
-OFF-0204,Agile,It & Tech,Analyste BI / Power BI,Agadir
-OFF-0204,Scrum,It & Tech,Analyste BI / Power BI,Agadir
-OFF-0205,Amdec,Industrie,Ingénieur Production,Casablanca
-OFF-0205,Plc,Industrie,Ingénieur Production,Casablanca
-OFF-0205,Scada,Industrie,Ingénieur Production,Casablanca
-OFF-0205,Lean Manufacturing,Industrie,Ingénieur Production,Casablanca
-OFF-0206,Azure,It & Tech,Chef de Projet IT,Rabat
-OFF-0206,Mongodb,It & Tech,Chef de Projet IT,Rabat
-OFF-0206,Aws,It & Tech,Chef de Projet IT,Rabat
-OFF-0206,Agile,It & Tech,Chef de Projet IT,Rabat
-OFF-0206,Scrum,It & Tech,Chef de Projet IT,Rabat
-OFF-0206,Kubernetes,It & Tech,Chef de Projet IT,Rabat
-OFF-0207,Python,It & Tech,Ing. Réseau,Casablanca
-OFF-0207,Power Bi,It & Tech,Ing. Réseau,Casablanca
-OFF-0207,Git,It & Tech,Ing. Réseau,Casablanca
-OFF-0207,Kubernetes,It & Tech,Ing. Réseau,Casablanca
-OFF-0208,Consolidation,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0208,Audit,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0208,Sap,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0208,Ifrs,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0208,Excel Avancé,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0209,Git,It & Tech,Product Manager,Tanger
-OFF-0209,Agile,It & Tech,Product Manager,Tanger
-OFF-0209,Scrum,It & Tech,Product Manager,Tanger
-OFF-0209,Node.Js,It & Tech,Product Manager,Tanger
-OFF-0209,React,It & Tech,Product Manager,Tanger
-OFF-0210,Soins Infirmiers,Santé,Pharmacien,Rabat
-OFF-0210,Diagnostic,Santé,Pharmacien,Rabat
-OFF-0210,Éthique Médicale,Santé,Pharmacien,Rabat
-OFF-0211,Ms Project,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0211,Gestion De Chantier,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0211,Béton Armé,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0212,Consolidation,Finance & Rh,Comptable,Casablanca
-OFF-0212,Sage,Finance & Rh,Comptable,Casablanca
-OFF-0212,Droit Du Travail,Finance & Rh,Comptable,Casablanca
-OFF-0212,Audit,Finance & Rh,Comptable,Casablanca
-OFF-0212,Sap,Finance & Rh,Comptable,Casablanca
-OFF-0213,Béton Armé,Btp,Ingénieur Génie Civil,Meknès
-OFF-0213,Gestion De Chantier,Btp,Ingénieur Génie Civil,Meknès
-OFF-0213,Ms Project,Btp,Ingénieur Génie Civil,Meknès
-OFF-0214,React,It & Tech,Développeur Backend,Tétouan
-OFF-0214,Python,It & Tech,Développeur Backend,Tétouan
-OFF-0214,Azure,It & Tech,Développeur Backend,Tétouan
-OFF-0215,Tensorflow,It & Tech,Ingénieur Réseau,Marrakech
-OFF-0215,Mongodb,It & Tech,Ingénieur Réseau,Marrakech
-OFF-0217,Mongodb,It & Tech,Cybersécurité Analyst,Agadir
-OFF-0217,Tensorflow,It & Tech,Cybersécurité Analyst,Agadir
-OFF-0217,Python,It & Tech,Cybersécurité Analyst,Agadir
-OFF-0217,Sql,It & Tech,Cybersécurité Analyst,Agadir
-OFF-0218,Diagnostic,Santé,Pharmacien,Tanger
-OFF-0218,Éthique Médicale,Santé,Pharmacien,Tanger
-OFF-0218,Pharmacologie,Santé,Pharmacien,Tanger
-OFF-0219,Linux,It & Tech,Data Engineeer,Tanger
-OFF-0219,Mongodb,It & Tech,Data Engineeer,Tanger
-OFF-0219,Agile,It & Tech,Data Engineeer,Tanger
-OFF-0219,Scrum,It & Tech,Data Engineeer,Tanger
-OFF-0219,Java,It & Tech,Data Engineeer,Tanger
-OFF-0220,Pack Office,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0220,Accueil Client,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0220,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0221,Node.Js,It & Tech,DevOps Engineer,Tanger
-OFF-0221,React,It & Tech,DevOps Engineer,Tanger
-OFF-0221,Tensorflow,It & Tech,DevOps Engineer,Tanger
-OFF-0221,Mongodb,It & Tech,DevOps Engineer,Tanger
-OFF-0222,Git,It & Tech,Chef de Projet IT,Casablanca
-OFF-0222,React,It & Tech,Chef de Projet IT,Casablanca
-OFF-0222,Tensorflow,It & Tech,Chef de Projet IT,Casablanca
-OFF-0223,Mongodb,It & Tech,Administrateur Système,Tanger
-OFF-0223,Rest Api,It & Tech,Administrateur Système,Tanger
-OFF-0223,Tensorflow,It & Tech,Administrateur Système,Tanger
-OFF-0223,Javascript,It & Tech,Administrateur Système,Tanger
-OFF-0224,Sql,It & Tech,DevOps Engineer,Agadir
-OFF-0224,Java,It & Tech,DevOps Engineer,Agadir
-OFF-0224,Git,It & Tech,DevOps Engineer,Agadir
-OFF-0224,Azure,It & Tech,DevOps Engineer,Agadir
-OFF-0225,Lean Manufacturing,Industrie,Responsable Qualité,Tanger
-OFF-0225,Autocad,Industrie,Responsable Qualité,Tanger
-OFF-0225,Amdec,Industrie,Responsable Qualité,Tanger
-OFF-0225,Plc,Industrie,Responsable Qualité,Tanger
-OFF-0225,Scada,Industrie,Responsable Qualité,Tanger
-OFF-0226,Sage,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0226,Consolidation,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0227,Amdec,,Technicien Maintenance,Tanger
-OFF-0227,Solidworks,,Technicien Maintenance,Tanger
-OFF-0227,Iso 9001,,Technicien Maintenance,Tanger
-OFF-0227,Plc,,Technicien Maintenance,Tanger
-OFF-0227,Scada,,Technicien Maintenance,Tanger
-OFF-0227,Autocad,,Technicien Maintenance,Tanger
-OFF-0228,Node.Js,It & Tech,Data Engineer,Casablanca
-OFF-0228,Sql,It & Tech,Data Engineer,Casablanca
-OFF-0228,Rest Api,It & Tech,Data Engineer,Casablanca
-OFF-0228,Agile,It & Tech,Data Engineer,Casablanca
-OFF-0228,Scrum,It & Tech,Data Engineer,Casablanca
-OFF-0228,React,It & Tech,Data Engineer,Casablanca
-OFF-0229,Azure,It & Tech,Développeur Full Stack,Casablanca
-OFF-0229,Sql,It & Tech,Développeur Full Stack,Casablanca
-OFF-0229,Mongodb,It & Tech,Développeur Full Stack,Casablanca
-OFF-0229,Linux,It & Tech,Développeur Full Stack,Casablanca
-OFF-0230,Sql,It & Tech,Administrateur Système,Casablanca
-OFF-0230,Aws,It & Tech,Administrateur Système,Casablanca
-OFF-0231,Rest Api,It & Tech,Data Engineer,Rabat
-OFF-0231,Typescript,It & Tech,Data Engineer,Rabat
-OFF-0231,Java,It & Tech,Data Engineer,Rabat
-OFF-0231,Node.Js,It & Tech,Data Engineer,Rabat
-OFF-0232,Docker,It & Tech,DevOps Engineer,Casablanca
-OFF-0232,Linux,It & Tech,DevOps Engineer,Casablanca
-OFF-0232,Aws,It & Tech,DevOps Engineer,Casablanca
-OFF-0232,Rest Api,It & Tech,DevOps Engineer,Casablanca
-OFF-0234,Ms Project,Btp,Ingénieur Génie Civil,Tanger
-OFF-0234,Gestion De Chantier,Btp,Ingénieur Génie Civil,Tanger
-OFF-0234,Béton Armé,Btp,Ingénieur Génie Civil,Tanger
-OFF-0235,Négociation,Commerce,Responsable Commercial,Oujda
-OFF-0235,Salesforce,Commerce,Responsable Commercial,Oujda
-OFF-0235,Google Ads,Commerce,Responsable Commercial,Oujda
-OFF-0235,Analyse De Marché,Commerce,Responsable Commercial,Oujda
-OFF-0235,Email Marketing,Commerce,Responsable Commercial,Oujda
-OFF-0236,Agile,It & Tech,Chef de Projet IT,Casablanca
-OFF-0236,Scrum,It & Tech,Chef de Projet IT,Casablanca
-OFF-0236,Git,It & Tech,Chef de Projet IT,Casablanca
-OFF-0237,Autocad,Industrie,Ingénieur Production,Casablanca
-OFF-0237,Amdec,Industrie,Ingénieur Production,Casablanca
-OFF-0237,Plc,Industrie,Ingénieur Production,Casablanca
-OFF-0237,Scada,Industrie,Ingénieur Production,Casablanca
-OFF-0237,Lean Manufacturing,Industrie,Ingénieur Production,Casablanca
-OFF-0238,Sage,Finance & Rh,Analyste Financier,Casablanca
-OFF-0238,Consolidation,Finance & Rh,Analyste Financier,Casablanca
-OFF-0238,Droit Du Travail,Finance & Rh,Analyste Financier,Casablanca
-OFF-0238,Sap,Finance & Rh,Analyste Financier,Casablanca
-OFF-0239,Iso 9001,Industrie,Ing Production,Casablanca
-OFF-0239,Autocad,Industrie,Ing Production,Casablanca
-OFF-0239,Solidworks,Industrie,Ing Production,Casablanca
-OFF-0239,Plc,Industrie,Ing Production,Casablanca
-OFF-0239,Scada,Industrie,Ing Production,Casablanca
-OFF-0240,Solidworks,Industrie,Responsable Qualité,Rabat
-OFF-0240,Amdec,Industrie,Responsable Qualité,Rabat
-OFF-0241,Aws,It & Tech,Développeur Full Stack,Casablanca
-OFF-0241,Tensorflow,It & Tech,Développeur Full Stack,Casablanca
-OFF-0241,React,It & Tech,Développeur Full Stack,Casablanca
-OFF-0242,Accueil Client,Tourisme,Guide Touristique,Fès
-OFF-0242,Pack Office,Tourisme,Guide Touristique,Fès
-OFF-0242,Gestion Réservations,Tourisme,Guide Touristique,Fès
-OFF-0242,Langues Étrangères,Tourisme,Guide Touristique,Fès
-OFF-0243,Java,It & Tech,Chef de Projet IT,Casablanca
-OFF-0243,Mongodb,It & Tech,Chef de Projet IT,Casablanca
-OFF-0244,Audit,Finance & Rh,Analyste Financier,Tanger
-OFF-0244,Excel Avancé,Finance & Rh,Analyste Financier,Tanger
-OFF-0244,Ifrs,Finance & Rh,Analyste Financier,Tanger
-OFF-0244,Paie,Finance & Rh,Analyste Financier,Tanger
-OFF-0244,Droit Du Travail,Finance & Rh,Analyste Financier,Tanger
-OFF-0245,Linux,It & Tech,Data Engineer,Tanger
-OFF-0245,React,It & Tech,Data Engineer,Tanger
-OFF-0245,Power Bi,It & Tech,Data Engineer,Tanger
-OFF-0246,Iso 9001,Industrie,Ing Production,Casablanca
-OFF-0246,Amdec,Industrie,Ing Production,Casablanca
-OFF-0247,Javascript,It & Tech,Développeur Backend,Agadir
-OFF-0247,Rest Api,It & Tech,Développeur Backend,Agadir
-OFF-0247,Agile,It & Tech,Développeur Backend,Agadir
-OFF-0247,Scrum,It & Tech,Développeur Backend,Agadir
-OFF-0247,Linux,It & Tech,Développeur Backend,Agadir
-OFF-0248,Azure,It & Tech,Data Engneer,Rabat
-OFF-0248,Javascript,It & Tech,Data Engneer,Rabat
-OFF-0249,Ifrs,Finance & Rh,Comptable,Fès
-OFF-0249,Excel Avancé,Finance & Rh,Comptable,Fès
-OFF-0249,Audit,Finance & Rh,Comptable,Fès
-OFF-0249,Sage,Finance & Rh,Comptable,Fès
-OFF-0249,Droit Du Travail,Finance & Rh,Comptable,Fès
-OFF-0250,Paie,Finance & Rh,Analyste Financier,Casablanca
-OFF-0250,Audit,Finance & Rh,Analyste Financier,Casablanca
-OFF-0250,Ifrs,Finance & Rh,Analyste Financier,Casablanca
-OFF-0250,Sap,Finance & Rh,Analyste Financier,Casablanca
-OFF-0250,Excel Avancé,Finance & Rh,Analyste Financier,Casablanca
-OFF-0251,Lean Manufacturing,Industrie,Technicien Maintenance,Casablanca
-OFF-0251,Solidworks,Industrie,Technicien Maintenance,Casablanca
-OFF-0251,Amdec,Industrie,Technicien Maintenance,Casablanca
-OFF-0252,Revit,Btp,Ingénieur Génie Civil,Tanger
-OFF-0252,Ms Project,Btp,Ingénieur Génie Civil,Tanger
-OFF-0252,Gestion De Chantier,Btp,Ingénieur Génie Civil,Tanger
-OFF-0252,Autocad,Btp,Ingénieur Génie Civil,Tanger
-OFF-0252,Béton Armé,Btp,Ingénieur Génie Civil,Tanger
-OFF-0253,Aws,It & Tech,Product Manager,Tanger
-OFF-0253,Azure,It & Tech,Product Manager,Tanger
-OFF-0253,Docker,It & Tech,Product Manager,Tanger
-OFF-0254,Linux,It & Tech,Développeur Frontend,Casablanca
-OFF-0254,Tensorflow,It & Tech,Développeur Frontend,Casablanca
-OFF-0254,Git,It & Tech,Développeur Frontend,Casablanca
-OFF-0254,React,It & Tech,Développeur Frontend,Casablanca
-OFF-0254,Mongodb,It & Tech,Développeur Frontend,Casablanca
-OFF-0255,Autocad,Btp,Conducteur de Travaux,Casablanca
-OFF-0255,Revit,Btp,Conducteur de Travaux,Casablanca
-OFF-0255,Ms Project,Btp,Conducteur de Travaux,Casablanca
-OFF-0255,Gestion De Chantier,Btp,Conducteur de Travaux,Casablanca
-OFF-0256,Diagnostic,Santé,Médecin Généraliste,Tanger
-OFF-0256,Éthique Médicale,Santé,Médecin Généraliste,Tanger
-OFF-0256,Soins Infirmiers,Santé,Médecin Généraliste,Tanger
-OFF-0257,Tensorflow,It & Tech,Développeur Backend,Tanger
-OFF-0257,Sql,It & Tech,Développeur Backend,Tanger
-OFF-0258,Soins Infirmiers,Santé,Infirmier,Fès
-OFF-0258,Diagnostic,Santé,Infirmier,Fès
-OFF-0258,Pharmacologie,Santé,Infirmier,Fès
-OFF-0258,Éthique Médicale,Santé,Infirmier,Fès
-OFF-0259,Docker,It & Tech,Développeur Full Stack,Casablanca
-OFF-0259,Rest Api,It & Tech,Développeur Full Stack,Casablanca
-OFF-0259,Tensorflow,It & Tech,Développeur Full Stack,Casablanca
-OFF-0259,Azure,It & Tech,Développeur Full Stack,Casablanca
-OFF-0259,Agile,It & Tech,Développeur Full Stack,Casablanca
-OFF-0259,Scrum,It & Tech,Développeur Full Stack,Casablanca
-OFF-0260,Autocad,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0260,Revit,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0260,Ms Project,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0261,Tensorflow,It & Tech,Administrateur Système,Fès
-OFF-0261,Kubernetes,It & Tech,Administrateur Système,Fès
-OFF-0261,Aws,It & Tech,Administrateur Système,Fès
-OFF-0261,Mongodb,It & Tech,Administrateur Système,Fès
-OFF-0262,Docker,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0262,React,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0262,Azure,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0262,Javascript,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0262,Java,It & Tech,Analyste BI / Power BI,Casablanca
-OFF-0263,Pack Office,Tourisme,Guide Touristique,Casablanca
-OFF-0263,Gestion Réservations,Tourisme,Guide Touristique,Casablanca
-OFF-0263,Accueil Client,Tourisme,Guide Touristique,Casablanca
-OFF-0263,Langues Étrangères,Tourisme,Guide Touristique,Casablanca
-OFF-0264,Négociation,Commerce,Community Manager,Rabat
-OFF-0264,Seo,Commerce,Community Manager,Rabat
-OFF-0264,Google Ads,Commerce,Community Manager,Rabat
-OFF-0264,Crm,Commerce,Community Manager,Rabat
-OFF-0265,Audit,Finance & Rh,Comptable,Casablanca
-OFF-0265,Sap,Finance & Rh,Comptable,Casablanca
-OFF-0266,Paie,Finance & Rh,Responsable Rh,Marrakech
-OFF-0266,Consolidation,Finance & Rh,Responsable Rh,Marrakech
-OFF-0266,Excel Avancé,Finance & Rh,Responsable Rh,Marrakech
-OFF-0266,Ifrs,Finance & Rh,Responsable Rh,Marrakech
-OFF-0267,Sap,Finance & Rh,Auditeur Financier,Agadir
-OFF-0267,Ifrs,Finance & Rh,Auditeur Financier,Agadir
-OFF-0267,Consolidation,Finance & Rh,Auditeur Financier,Agadir
-OFF-0268,Lean Manufacturing,Industrie,Technicien Maintenance,Marrakech
-OFF-0268,Autocad,Industrie,Technicien Maintenance,Marrakech
-OFF-0268,Iso 9001,Industrie,Technicien Maintenance,Marrakech
-OFF-0269,Sage,Finance & Rh,Gestionnaire de Paie,Casablanca
-OFF-0269,Audit,Finance & Rh,Gestionnaire de Paie,Casablanca
-OFF-0271,Mongodb,It & Tech,Data Scientist,Rabat
-OFF-0271,Power Bi,It & Tech,Data Scientist,Rabat
-OFF-0272,Mongodb,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0272,Sql,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0272,Node.Js,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0272,Aws,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0272,Java,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0273,Excel Avancé,,Gestionnaire de Paie,Tanger
-OFF-0273,Sage,,Gestionnaire de Paie,Tanger
-OFF-0273,Audit,,Gestionnaire de Paie,Tanger
-OFF-0274,Sage,Finance & Rh,Comptable,Casablanca
-OFF-0274,Consolidation,Finance & Rh,Comptable,Casablanca
-OFF-0274,Ifrs,Finance & Rh,Comptable,Casablanca
-OFF-0274,Paie,Finance & Rh,Comptable,Casablanca
-OFF-0274,Excel Avancé,Finance & Rh,Comptable,Casablanca
-OFF-0275,Linux,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0275,React,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0275,Git,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0275,Kubernetes,It & Tech,Développeur Full-Stack,Casablanca
-OFF-0276,Diagnostic,Santé,Médecin Généraliste,Casablanca
-OFF-0276,Pharmacologie,Santé,Médecin Généraliste,Casablanca
-OFF-0276,Éthique Médicale,Santé,Médecin Généraliste,Casablanca
-OFF-0276,Soins Infirmiers,Santé,Médecin Généraliste,Casablanca
-OFF-0277,Plc,Industrie,Technicien Maintenance,Meknès
-OFF-0277,Scada,Industrie,Technicien Maintenance,Meknès
-OFF-0277,Iso 9001,Industrie,Technicien Maintenance,Meknès
-OFF-0277,Autocad,Industrie,Technicien Maintenance,Meknès
-OFF-0278,Ms Project,Btp,Ingénieur Génie Civil,Fès
-OFF-0278,Gestion De Chantier,Btp,Ingénieur Génie Civil,Fès
-OFF-0278,Revit,Btp,Ingénieur Génie Civil,Fès
-OFF-0278,Béton Armé,Btp,Ingénieur Génie Civil,Fès
-OFF-0279,Amdec,Industrie,Ing Production,Agadir
-OFF-0279,Solidworks,Industrie,Ing Production,Agadir
-OFF-0279,Plc,Industrie,Ing Production,Agadir
-OFF-0279,Scada,Industrie,Ing Production,Agadir
-OFF-0280,Paie,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0280,Sage,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0280,Audit,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0280,Droit Du Travail,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0280,Ifrs,Finance & Rh,Contrôleur de Gestion,Rabat
-OFF-0281,Béton Armé,Btp,Ingénieur Génie Civil,Tanger
-OFF-0281,Ms Project,Btp,Ingénieur Génie Civil,Tanger
-OFF-0281,Autocad,Btp,Ingénieur Génie Civil,Tanger
-OFF-0281,Gestion De Chantier,Btp,Ingénieur Génie Civil,Tanger
-OFF-0281,Revit,Btp,Ingénieur Génie Civil,Tanger
-OFF-0282,Soins Infirmiers,Santé,Pharmacien,Tanger
-OFF-0282,Éthique Médicale,Santé,Pharmacien,Tanger
-OFF-0282,Pharmacologie,Santé,Pharmacien,Tanger
-OFF-0282,Diagnostic,Santé,Pharmacien,Tanger
-OFF-0283,Sage,Finance & Rh,Comptable,Fès
-OFF-0283,Droit Du Travail,Finance & Rh,Comptable,Fès
-OFF-0283,Audit,Finance & Rh,Comptable,Fès
-OFF-0284,Excel,Commerce,Commercial B2B,Casablanca
-OFF-0284,Google Ads,Commerce,Commercial B2B,Casablanca
-OFF-0284,Salesforce,Commerce,Commercial B2B,Casablanca
-OFF-0285,Java,It & Tech,Data Engineer,Tanger
-OFF-0285,Git,It & Tech,Data Engineer,Tanger
-OFF-0286,Accueil Client,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0286,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0286,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0286,Pack Office,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0287,Git,It & Tech,Chef de Projet IT,Casablanca
-OFF-0287,Agile,It & Tech,Chef de Projet IT,Casablanca
-OFF-0287,Scrum,It & Tech,Chef de Projet IT,Casablanca
-OFF-0288,Revit,Btp,Conducteur de Travaux,Casablanca
-OFF-0288,Autocad,Btp,Conducteur de Travaux,Casablanca
-OFF-0289,Java,It & Tech,ML Engineer,Meknès
-OFF-0289,Node.Js,It & Tech,ML Engineer,Meknès
-OFF-0290,Linux,It & Tech,UX/UI Designer,Casablanca
-OFF-0290,Git,It & Tech,UX/UI Designer,Casablanca
-OFF-0290,React,It & Tech,UX/UI Designer,Casablanca
-OFF-0290,Rest Api,It & Tech,UX/UI Designer,Casablanca
-OFF-0290,Python,It & Tech,UX/UI Designer,Casablanca
-OFF-0291,Solidworks,Industrie,Responsable Qualité,Oujda
-OFF-0291,Iso 9001,Industrie,Responsable Qualité,Oujda
-OFF-0291,Plc,Industrie,Responsable Qualité,Oujda
-OFF-0291,Scada,Industrie,Responsable Qualité,Oujda
-OFF-0291,Autocad,Industrie,Responsable Qualité,Oujda
-OFF-0291,Lean Manufacturing,Industrie,Responsable Qualité,Oujda
-OFF-0292,Typescript,It & Tech,Développeur Backend,Tanger
-OFF-0292,Azure,It & Tech,Développeur Backend,Tanger
-OFF-0292,Javascript,It & Tech,Développeur Backend,Tanger
-OFF-0292,Java,It & Tech,Développeur Backend,Tanger
-OFF-0292,Sql,It & Tech,Développeur Backend,Tanger
-OFF-0293,Négociation,Commerce,Chargé Marketing Digital,Tanger
-OFF-0293,Seo,Commerce,Chargé Marketing Digital,Tanger
-OFF-0293,Email Marketing,Commerce,Chargé Marketing Digital,Tanger
-OFF-0294,Rest Api,It & Tech,Chef de Projet IT,Tanger
-OFF-0294,Javascript,It & Tech,Chef de Projet IT,Tanger
-OFF-0294,Docker,It & Tech,Chef de Projet IT,Tanger
-OFF-0295,Autocad,Industrie,Responsable Qualité,Tanger
-OFF-0295,Solidworks,Industrie,Responsable Qualité,Tanger
-OFF-0295,Amdec,Industrie,Responsable Qualité,Tanger
-OFF-0295,Lean Manufacturing,Industrie,Responsable Qualité,Tanger
-OFF-0295,Plc,Industrie,Responsable Qualité,Tanger
-OFF-0295,Scada,Industrie,Responsable Qualité,Tanger
-OFF-0296,Paie,Finance & Rh,Comptable,Fès
-OFF-0296,Consolidation,Finance & Rh,Comptable,Fès
-OFF-0296,Sage,Finance & Rh,Comptable,Fès
-OFF-0297,Java,It & Tech,Data Scientist,Tanger
-OFF-0297,Rest Api,It & Tech,Data Scientist,Tanger
-OFF-0297,Git,It & Tech,Data Scientist,Tanger
-OFF-0297,Node.Js,It & Tech,Data Scientist,Tanger
-OFF-0297,Mongodb,It & Tech,Data Scientist,Tanger
-OFF-0298,Aws,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0298,Mongodb,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0298,Azure,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0298,Java,It & Tech,Cybersécurité Analyst,Rabat
-OFF-0299,Excel,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0299,Analyse De Marché,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0299,Google Ads,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0300,Béton Armé,Btp,Conducteur de Travaux,Marrakech
-OFF-0300,Autocad,Btp,Conducteur de Travaux,Marrakech
-OFF-0300,Ms Project,Btp,Conducteur de Travaux,Marrakech
-OFF-0301,Solidworks,Industrie,Ing Production,Tanger
-OFF-0301,Plc,Industrie,Ing Production,Tanger
-OFF-0301,Scada,Industrie,Ing Production,Tanger
-OFF-0303,Node.Js,It & Tech,Ingénieur Réseau,Tanger
-OFF-0303,Power Bi,It & Tech,Ingénieur Réseau,Tanger
-OFF-0303,Aws,It & Tech,Ingénieur Réseau,Tanger
-OFF-0303,Azure,It & Tech,Ingénieur Réseau,Tanger
-OFF-0304,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0304,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0304,Accueil Client,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0304,Pack Office,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0305,Paie,Finance & Rh,Analyste Financier,Marrakech
-OFF-0305,Consolidation,Finance & Rh,Analyste Financier,Marrakech
-OFF-0305,Ifrs,Finance & Rh,Analyste Financier,Marrakech
-OFF-0305,Excel Avancé,Finance & Rh,Analyste Financier,Marrakech
-OFF-0305,Droit Du Travail,Finance & Rh,Analyste Financier,Marrakech
-OFF-0306,Soins Infirmiers,Santé,Pharmacien,Casablanca
-OFF-0306,Pharmacologie,Santé,Pharmacien,Casablanca
-OFF-0306,Éthique Médicale,Santé,Pharmacien,Casablanca
-OFF-0307,Rest Api,It & Tech,Développeur Backend,Casablanca
-OFF-0307,Agile,It & Tech,Développeur Backend,Casablanca
-OFF-0307,Scrum,It & Tech,Développeur Backend,Casablanca
-OFF-0307,Aws,It & Tech,Développeur Backend,Casablanca
-OFF-0307,Mongodb,It & Tech,Développeur Backend,Casablanca
-OFF-0307,Git,It & Tech,Développeur Backend,Casablanca
-OFF-0308,Langues Étrangères,Tourisme,Guide Touristique,Rabat
-OFF-0308,Gestion Réservations,Tourisme,Guide Touristique,Rabat
-OFF-0309,Langues Étrangères,Tourisme,Guide Touristique,Casablanca
-OFF-0309,Gestion Réservations,Tourisme,Guide Touristique,Casablanca
-OFF-0309,Pack Office,Tourisme,Guide Touristique,Casablanca
-OFF-0309,Accueil Client,Tourisme,Guide Touristique,Casablanca
-OFF-0310,Gestion De Chantier,Btp,Ingénieur Génie Civil,Meknès
-OFF-0310,Revit,Btp,Ingénieur Génie Civil,Meknès
-OFF-0310,Béton Armé,Btp,Ingénieur Génie Civil,Meknès
-OFF-0310,Ms Project,Btp,Ingénieur Génie Civil,Meknès
-OFF-0310,Autocad,Btp,Ingénieur Génie Civil,Meknès
-OFF-0311,Python,It & Tech,Data Scientist,Casablanca
-OFF-0311,Azure,It & Tech,Data Scientist,Casablanca
-OFF-0311,Typescript,It & Tech,Data Scientist,Casablanca
-OFF-0311,Kubernetes,It & Tech,Data Scientist,Casablanca
-OFF-0313,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0313,Pack Office,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0314,Agile,It & Tech,Cybersécurité Analyst,Marrakech
-OFF-0314,Scrum,It & Tech,Cybersécurité Analyst,Marrakech
-OFF-0314,React,It & Tech,Cybersécurité Analyst,Marrakech
-OFF-0314,Sql,It & Tech,Cybersécurité Analyst,Marrakech
-OFF-0314,Docker,It & Tech,Cybersécurité Analyst,Marrakech
-OFF-0315,Seo,Commerce,Community Manager,Casablanca
-OFF-0315,Salesforce,Commerce,Community Manager,Casablanca
-OFF-0315,Excel,Commerce,Community Manager,Casablanca
-OFF-0315,Négociation,Commerce,Community Manager,Casablanca
-OFF-0315,Google Ads,Commerce,Community Manager,Casablanca
-OFF-0316,Seo,Commerce,Responsable Commercial,Casablanca
-OFF-0316,Salesforce,Commerce,Responsable Commercial,Casablanca
-OFF-0316,Excel,Commerce,Responsable Commercial,Casablanca
-OFF-0316,Négociation,Commerce,Responsable Commercial,Casablanca
-OFF-0316,Analyse De Marché,Commerce,Responsable Commercial,Casablanca
-OFF-0317,Javascript,It & Tech,Développeur Frontend,Rabat
-OFF-0317,Typescript,It & Tech,Développeur Frontend,Rabat
-OFF-0318,Google Ads,Commerce,Chargé Marketing Digital,Agadir
-OFF-0318,Seo,Commerce,Chargé Marketing Digital,Agadir
-OFF-0318,Excel,Commerce,Chargé Marketing Digital,Agadir
-OFF-0318,Négociation,Commerce,Chargé Marketing Digital,Agadir
-OFF-0318,Crm,Commerce,Chargé Marketing Digital,Agadir
-OFF-0319,Sql,It & Tech,UX/UI Designer,Tanger
-OFF-0319,Azure,It & Tech,UX/UI Designer,Tanger
-OFF-0319,Node.Js,It & Tech,UX/UI Designer,Tanger
-OFF-0319,Linux,It & Tech,UX/UI Designer,Tanger
-OFF-0320,Email Marketing,Commerce,Responsable Commercial,Casablanca
-OFF-0320,Seo,Commerce,Responsable Commercial,Casablanca
-OFF-0321,Azure,It & Tech,UX/UI Designer,Oujda
-OFF-0321,Sql,It & Tech,UX/UI Designer,Oujda
-OFF-0322,Sql,It & Tech,ML Engineer,Tanger
-OFF-0322,Docker,It & Tech,ML Engineer,Tanger
-OFF-0322,Typescript,It & Tech,ML Engineer,Tanger
-OFF-0322,Node.Js,It & Tech,ML Engineer,Tanger
-OFF-0323,Linux,It & Tech,Chef de Projet IT,Tanger
-OFF-0323,Git,It & Tech,Chef de Projet IT,Tanger
-OFF-0323,Rest Api,It & Tech,Chef de Projet IT,Tanger
-OFF-0324,Consolidation,Finance & Rh,Analyste Financier,Fès
-OFF-0324,Ifrs,Finance & Rh,Analyste Financier,Fès
-OFF-0324,Sap,Finance & Rh,Analyste Financier,Fès
-OFF-0325,Node.Js,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0325,Aws,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0325,Linux,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0326,Excel Avancé,Finance & Rh,Analyste Financier,Casablanca
-OFF-0326,Sap,Finance & Rh,Analyste Financier,Casablanca
-OFF-0326,Paie,Finance & Rh,Analyste Financier,Casablanca
-OFF-0326,Audit,Finance & Rh,Analyste Financier,Casablanca
-OFF-0327,Iso 9001,Industrie,Technicien Maintenance,Oujda
-OFF-0327,Lean Manufacturing,Industrie,Technicien Maintenance,Oujda
-OFF-0327,Amdec,Industrie,Technicien Maintenance,Oujda
-OFF-0327,Autocad,Industrie,Technicien Maintenance,Oujda
-OFF-0328,Mongodb,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0328,Docker,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0329,Tensorflow,It & Tech,Chef de Projet IT,Meknès
-OFF-0329,Kubernetes,It & Tech,Chef de Projet IT,Meknès
-OFF-0329,Sql,It & Tech,Chef de Projet IT,Meknès
-OFF-0329,Javascript,It & Tech,Chef de Projet IT,Meknès
-OFF-0329,React,It & Tech,Chef de Projet IT,Meknès
-OFF-0330,Java,It & Tech,DevOps Engineer,Rabat
-OFF-0330,Aws,It & Tech,DevOps Engineer,Rabat
-OFF-0330,Typescript,It & Tech,DevOps Engineer,Rabat
-OFF-0332,Autocad,Industrie,Responsable Qualité,Agadir
-OFF-0332,Lean Manufacturing,Industrie,Responsable Qualité,Agadir
-OFF-0332,Solidworks,Industrie,Responsable Qualité,Agadir
-OFF-0332,Amdec,Industrie,Responsable Qualité,Agadir
-OFF-0333,Ifrs,Finance & Rh,Analyste Financier,Tanger
-OFF-0333,Excel Avancé,Finance & Rh,Analyste Financier,Tanger
-OFF-0333,Paie,Finance & Rh,Analyste Financier,Tanger
-OFF-0333,Consolidation,Finance & Rh,Analyste Financier,Tanger
-OFF-0333,Audit,Finance & Rh,Analyste Financier,Tanger
-OFF-0334,Python,It & Tech,Développeur Backend,Oujda
-OFF-0334,Javascript,It & Tech,Développeur Backend,Oujda
-OFF-0334,Docker,It & Tech,Développeur Backend,Oujda
-OFF-0334,Git,It & Tech,Développeur Backend,Oujda
-OFF-0334,Java,It & Tech,Développeur Backend,Oujda
-OFF-0335,Docker,It & Tech,Développeur Frontend,Casablanca
-OFF-0335,Power Bi,It & Tech,Développeur Frontend,Casablanca
-OFF-0335,Node.Js,It & Tech,Développeur Frontend,Casablanca
-OFF-0335,Git,It & Tech,Développeur Frontend,Casablanca
-OFF-0336,Crm,Commerce,Commercial,Marrakech
-OFF-0336,Analyse De Marché,Commerce,Commercial,Marrakech
-OFF-0337,Paie,Finance & Rh,Responsable RH,Kénitra
-OFF-0337,Sap,Finance & Rh,Responsable RH,Kénitra
-OFF-0337,Audit,Finance & Rh,Responsable RH,Kénitra
-OFF-0338,Sql,It & Tech,Chef de Projet IT,Agadir
-OFF-0338,Java,It & Tech,Chef de Projet IT,Agadir
-OFF-0338,Mongodb,It & Tech,Chef de Projet IT,Agadir
-OFF-0339,React,It & Tech,Ingénieur Réseau,Agadir
-OFF-0339,Kubernetes,It & Tech,Ingénieur Réseau,Agadir
-OFF-0339,Docker,It & Tech,Ingénieur Réseau,Agadir
-OFF-0339,Aws,It & Tech,Ingénieur Réseau,Agadir
-OFF-0339,Agile,It & Tech,Ingénieur Réseau,Agadir
-OFF-0339,Scrum,It & Tech,Ingénieur Réseau,Agadir
-OFF-0341,Sap,Finance & Rh,Analyste Financier,Rabat
-OFF-0341,Paie,Finance & Rh,Analyste Financier,Rabat
-OFF-0341,Ifrs,Finance & Rh,Analyste Financier,Rabat
-OFF-0342,Consolidation,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0342,Ifrs,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0342,Paie,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0342,Droit Du Travail,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0345,Consolidation,Finance & Rh,Auditeur Financier,Fès
-OFF-0345,Sage,Finance & Rh,Auditeur Financier,Fès
-OFF-0345,Sap,Finance & Rh,Auditeur Financier,Fès
-OFF-0346,Sap,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0346,Excel Avancé,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0346,Ifrs,Finance & Rh,Contrôleur de Gestion,Marrakech
-OFF-0347,Aws,It & Tech,ML Engineer,Rabat
-OFF-0347,Azure,It & Tech,ML Engineer,Rabat
-OFF-0347,Tensorflow,It & Tech,ML Engineer,Rabat
-OFF-0347,Git,It & Tech,ML Engineer,Rabat
-OFF-0348,Salesforce,Commerce,Responsable Commercial,Rabat
-OFF-0348,Seo,Commerce,Responsable Commercial,Rabat
-OFF-0348,Négociation,Commerce,Responsable Commercial,Rabat
-OFF-0349,Seo,Commerce,Responsable Commercial,Fès
-OFF-0349,Négociation,Commerce,Responsable Commercial,Fès
-OFF-0349,Email Marketing,Commerce,Responsable Commercial,Fès
-OFF-0349,Analyse De Marché,Commerce,Responsable Commercial,Fès
-OFF-0349,Crm,Commerce,Responsable Commercial,Fès
-OFF-0350,Ifrs,Finance & Rh,Responsable Rh,Oujda
-OFF-0350,Sage,Finance & Rh,Responsable Rh,Oujda
-OFF-0351,Consolidation,Finance & Rh,Gestionnaire de Paie,Meknès
-OFF-0351,Sap,Finance & Rh,Gestionnaire de Paie,Meknès
-OFF-0351,Audit,Finance & Rh,Gestionnaire de Paie,Meknès
-OFF-0351,Excel Avancé,Finance & Rh,Gestionnaire de Paie,Meknès
-OFF-0352,Kubernetes,It & Tech,UX/UI Designer,Casablanca
-OFF-0352,Power Bi,It & Tech,UX/UI Designer,Casablanca
-OFF-0352,Python,It & Tech,UX/UI Designer,Casablanca
-OFF-0353,Agile,It & Tech,Chef de Projet IT,Rabat
-OFF-0353,Scrum,It & Tech,Chef de Projet IT,Rabat
-OFF-0353,Javascript,It & Tech,Chef de Projet IT,Rabat
-OFF-0353,React,It & Tech,Chef de Projet IT,Rabat
-OFF-0353,Power Bi,It & Tech,Chef de Projet IT,Rabat
-OFF-0354,Javascript,It & Tech,Développeur Backend,Casablanca
-OFF-0354,Rest Api,It & Tech,Développeur Backend,Casablanca
-OFF-0355,Diagnostic,Santé,Médecin Généraliste,Tanger
-OFF-0355,Soins Infirmiers,Santé,Médecin Généraliste,Tanger
-OFF-0355,Pharmacologie,Santé,Médecin Généraliste,Tanger
-OFF-0355,Éthique Médicale,Santé,Médecin Généraliste,Tanger
-OFF-0356,Docker,It & Tech,Développeur Frontend,Marrakech
-OFF-0356,React,It & Tech,Développeur Frontend,Marrakech
-OFF-0356,Power Bi,It & Tech,Développeur Frontend,Marrakech
-OFF-0356,Python,It & Tech,Développeur Frontend,Marrakech
-OFF-0357,Sql,It & Tech,Développeur Full Stack,Tanger
-OFF-0357,Rest Api,It & Tech,Développeur Full Stack,Tanger
-OFF-0357,React,It & Tech,Développeur Full Stack,Tanger
-OFF-0357,Kubernetes,It & Tech,Développeur Full Stack,Tanger
-OFF-0357,Python,It & Tech,Développeur Full Stack,Tanger
-OFF-0358,Plc,Industrie,Ingénieur Production,Marrakech
-OFF-0358,Scada,Industrie,Ingénieur Production,Marrakech
-OFF-0358,Amdec,Industrie,Ingénieur Production,Marrakech
-OFF-0359,Autocad,Btp,Conducteur de Travaux,Tanger
-OFF-0359,Revit,Btp,Conducteur de Travaux,Tanger
-OFF-0359,Ms Project,Btp,Conducteur de Travaux,Tanger
+OFF-0196,Docker,It & Tech,Cybersécurité,Casablanca
+OFF-0196,Kubernetes,It & Tech,Cybersécurité,Casablanca
+OFF-0196,Node.js,It & Tech,Cybersécurité,Casablanca
+OFF-0196,REST API,It & Tech,Cybersécurité,Casablanca
+OFF-0196,JavaScript,It & Tech,Cybersécurité,Casablanca
+OFF-0197,"Java, Agile/Scrum, TensorFlow",It & Tech,Project Manager IT,Casablanca
+OFF-0198,TypeScript,It & Tech,Frontend Dev,Tanger
+OFF-0198,Docker,It & Tech,Frontend Dev,Tanger
+OFF-0198,AWS,It & Tech,Frontend Dev,Tanger
+OFF-0199,Lean Manufacturing,Industrie,Resp. Qualité,Casablanca
+OFF-0199,SolidWorks,Industrie,Resp. Qualité,Casablanca
+OFF-0200,Revit,Btp,Génie Civil,Casablanca
+OFF-0200,MS Project,Btp,Génie Civil,Casablanca
+OFF-0200,AutoCAD,Btp,Génie Civil,Casablanca
+OFF-0201,"Gestion de chantier, Revit, Béton armé, MS Project, AutoCAD",Btp,Conducteur travaux,Casablanca
+OFF-0202,"Audit, SAP, IFRS, Droit du travail",Finance & Rh,CDG,Rabat-Salé
+OFF-0203,Audit / Paie / IFRS / Droit du travail,Finance & Rh,Paie Manager,Rabat
+OFF-0204,Power BI,It & Tech,Power BI Developer,Agadir
+OFF-0204,Docker,It & Tech,Power BI Developer,Agadir
+OFF-0204,Agile/Scrum,It & Tech,Power BI Developer,Agadir
+OFF-0205,AMDEC,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0205,PLC/SCADA,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0205,Lean Manufacturing,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0206,Azure / MongoDB / AWS / Agile/Scrum / Kubernetes,It & Tech,Chef Projet IT,Rabat
+OFF-0207,Python / Power BI / Git / Kubernetes,It & Tech,ING. RÉSEAU,Casablanca
+OFF-0208,Consolidation,Finance & Rh,GESTIONNAIRE PAIE,Marrakech
+OFF-0208,Audit,Finance & Rh,GESTIONNAIRE PAIE,Marrakech
+OFF-0208,SAP,Finance & Rh,GESTIONNAIRE PAIE,Marrakech
+OFF-0208,IFRS,Finance & Rh,GESTIONNAIRE PAIE,Marrakech
+OFF-0208,Excel avancé,Finance & Rh,GESTIONNAIRE PAIE,Marrakech
+OFF-0209,Git / Agile/Scrum / Node.js / React,It & Tech,Product Owner,Tanger
+OFF-0210,Soins infirmiers,Santé,pharmacien,Rabat
+OFF-0210,Diagnostic,Santé,pharmacien,Rabat
+OFF-0210,Éthique médicale,Santé,pharmacien,Rabat
+OFF-0211,MS Project,Btp,Ingénieur civil,Casablanca
+OFF-0211,Gestion de chantier,Btp,Ingénieur civil,Casablanca
+OFF-0211,Béton armé,Btp,Ingénieur civil,Casablanca
+OFF-0212,Consolidation / SAGE / Droit du travail / Audit / SAP,Finance & Rh,comptable,Casablanca
+OFF-0213,BÉTON ARMÉ,Btp,ing génie civil,Meknès
+OFF-0213,GESTION DE CHANTIER,Btp,ing génie civil,Meknès
+OFF-0213,MS PROJECT,Btp,ing génie civil,Meknès
+OFF-0214,React,It & Tech,BACKEND DEVELOPER,Tétouan
+OFF-0214,Python,It & Tech,BACKEND DEVELOPER,Tétouan
+OFF-0214,Azure,It & Tech,BACKEND DEVELOPER,Tétouan
+OFF-0215,TensorFlow - MongoDB,It & Tech,Ingénieur réseau,Marrakech
+OFF-0215,TensorFlow - MongoDB,It & Tech,Ingénieur réseau,Marrakech
+OFF-0217,MongoDB / TensorFlow / Python / SQL,It & Tech,Cyber Sécurité Analyst,Agadir
+OFF-0218,Diagnostic,Santé,Pharmacien d'officine,Tanger
+OFF-0218,Éthique médicale,Santé,Pharmacien d'officine,Tanger
+OFF-0218,Pharmacologie,Santé,Pharmacien d'officine,Tanger
+OFF-0219,Linux,It & Tech,data engineeer,Tanger
+OFF-0219,MongoDB,It & Tech,data engineeer,Tanger
+OFF-0219,Agile/Scrum,It & Tech,data engineeer,Tanger
+OFF-0219,Java,It & Tech,data engineeer,Tanger
+OFF-0220,Pack Office,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0220,Accueil client,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0220,Langues étrangères,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0221,Node.js,It & Tech,DEVOPS ENGINEER,Tanger
+OFF-0221,React,It & Tech,DEVOPS ENGINEER,Tanger
+OFF-0221,TensorFlow,It & Tech,DEVOPS ENGINEER,Tanger
+OFF-0221,MongoDB,It & Tech,DEVOPS ENGINEER,Tanger
+OFF-0222,Git,It & Tech,Project Manager IT,Casablanca
+OFF-0222,React,It & Tech,Project Manager IT,Casablanca
+OFF-0222,TensorFlow,It & Tech,Project Manager IT,Casablanca
+OFF-0223,MongoDB,It & Tech,SysAdmin,Tanger
+OFF-0223,REST API,It & Tech,SysAdmin,Tanger
+OFF-0223,TensorFlow,It & Tech,SysAdmin,Tanger
+OFF-0223,JavaScript,It & Tech,SysAdmin,Tanger
+OFF-0224,SQL - Java - Git - Azure,It & Tech,devops,Agadir
+OFF-0225,Lean Manufacturing,Industrie,Resp. Qualité,Tanger
+OFF-0225,AutoCAD,Industrie,Resp. Qualité,Tanger
+OFF-0225,AMDEC,Industrie,Resp. Qualité,Tanger
+OFF-0225,PLC/SCADA,Industrie,Resp. Qualité,Tanger
+OFF-0226,"SAGE, Consolidation",Finance & Rh,CDG,Rabat
+OFF-0227,AMDEC,,TECHNICIEN MAINTENANCE,Tanger
+OFF-0227,SolidWorks,,TECHNICIEN MAINTENANCE,Tanger
+OFF-0227,ISO 9001,,TECHNICIEN MAINTENANCE,Tanger
+OFF-0227,PLC/SCADA,,TECHNICIEN MAINTENANCE,Tanger
+OFF-0227,AutoCAD,,TECHNICIEN MAINTENANCE,Tanger
+OFF-0228,Node.js,It & Tech,DATA ENGINEER,Casablanca
+OFF-0228,SQL,It & Tech,DATA ENGINEER,Casablanca
+OFF-0228,REST API,It & Tech,DATA ENGINEER,Casablanca
+OFF-0228,Agile/Scrum,It & Tech,DATA ENGINEER,Casablanca
+OFF-0228,React,It & Tech,DATA ENGINEER,Casablanca
+OFF-0229,"Azure, SQL, MongoDB, Linux",It & Tech,dev fullstack,Casablanca
+OFF-0230,SQL,It & Tech,Administrateur sys,Casablanca
+OFF-0230,AWS,It & Tech,Administrateur sys,Casablanca
+OFF-0231,REST API / TypeScript / Java / Node.js,It & Tech,Dat Engineer,Rabat
+OFF-0232,Docker,It & Tech,DevOps,Casablanca
+OFF-0232,Linux,It & Tech,DevOps,Casablanca
+OFF-0232,AWS,It & Tech,DevOps,Casablanca
+OFF-0232,REST API,It & Tech,DevOps,Casablanca
+OFF-0232,Docker,It & Tech,DevOps,Casablanca
+OFF-0232,Linux,It & Tech,DevOps,Casablanca
+OFF-0232,AWS,It & Tech,DevOps,Casablanca
+OFF-0232,REST API,It & Tech,DevOps,Casablanca
+OFF-0234,MS Project - Gestion de chantier - Béton armé,Btp,ing génie civil,Tanger
+OFF-0235,Négociation,Commerce,RESPONSABLE COMMERCIAL,Oujda
+OFF-0235,Salesforce,Commerce,RESPONSABLE COMMERCIAL,Oujda
+OFF-0235,Google Ads,Commerce,RESPONSABLE COMMERCIAL,Oujda
+OFF-0235,Analyse de marché,Commerce,RESPONSABLE COMMERCIAL,Oujda
+OFF-0235,Email Marketing,Commerce,RESPONSABLE COMMERCIAL,Oujda
+OFF-0236,"Agile/Scrum, Git",It & Tech,chef de projet,Casablanca
+OFF-0237,AutoCAD,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0237,AMDEC,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0237,PLC/SCADA,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0237,Lean Manufacturing,Industrie,INGÉNIEUR PRODUCTION,Casablanca
+OFF-0238,SAGE,Finance & Rh,Analyste Finance,Casablanca
+OFF-0238,Consolidation,Finance & Rh,Analyste Finance,Casablanca
+OFF-0238,Droit du travail,Finance & Rh,Analyste Finance,Casablanca
+OFF-0238,SAP,Finance & Rh,Analyste Finance,Casablanca
+OFF-0239,ISO 9001,Industrie,ing production,Casablanca
+OFF-0239,AutoCAD,Industrie,ing production,Casablanca
+OFF-0239,SolidWorks,Industrie,ing production,Casablanca
+OFF-0239,PLC/SCADA,Industrie,ing production,Casablanca
+OFF-0240,"SolidWorks, AMDEC",Industrie,Responsable qualité,Rabat
+OFF-0241,AWS / TensorFlow / React,It & Tech,Developpeur FullStack,Casablanca
+OFF-0242,"Accueil client, Pack Office, Gestion réservations, Langues étrangères",Tourisme,guide touristique,Fès
+OFF-0243,Java,It & Tech,chef de projet,Casablanca
+OFF-0243,MongoDB,It & Tech,chef de projet,Casablanca
+OFF-0244,Audit / Excel avancé / IFRS / Paie / Droit du travail,Finance & Rh,Analyste Finance,Tanger
+OFF-0245,Linux,It & Tech,Data engineer,Tanger
+OFF-0245,React,It & Tech,Data engineer,Tanger
+OFF-0245,Power BI,It & Tech,Data engineer,Tanger
+OFF-0246,ISO 9001 / AMDEC,Industrie,ing production,Casablanca
+OFF-0247,"JavaScript, REST API, Agile/Scrum, Linux",It & Tech,Dev Backend,Agadir
+OFF-0248,Azure / JavaScript,It & Tech,Data Engneer,Rabat
+OFF-0249,IFRS,Finance & Rh,Comptable Général,Fès
+OFF-0249,Excel avancé,Finance & Rh,Comptable Général,Fès
+OFF-0249,Audit,Finance & Rh,Comptable Général,Fès
+OFF-0249,SAGE,Finance & Rh,Comptable Général,Fès
+OFF-0249,Droit du travail,Finance & Rh,Comptable Général,Fès
+OFF-0250,Paie / Audit / IFRS / SAP / Excel avancé,Finance & Rh,Analyste Finance,Casablanca
+OFF-0251,Lean Manufacturing - SolidWorks - AMDEC,Industrie,Technicien maintenance,Casablanca
+OFF-0252,Revit,Btp,Ingénieur civil,Tanger
+OFF-0252,MS Project,Btp,Ingénieur civil,Tanger
+OFF-0252,Gestion de chantier,Btp,Ingénieur civil,Tanger
+OFF-0252,AutoCAD,Btp,Ingénieur civil,Tanger
+OFF-0252,Béton armé,Btp,Ingénieur civil,Tanger
+OFF-0253,AWS,It & Tech,PM,Tanger
+OFF-0253,Azure,It & Tech,PM,Tanger
+OFF-0253,Docker,It & Tech,PM,Tanger
+OFF-0254,Linux,It & Tech,FRONTEND DEVELOPER,Casablanca
+OFF-0254,TensorFlow,It & Tech,FRONTEND DEVELOPER,Casablanca
+OFF-0254,Git,It & Tech,FRONTEND DEVELOPER,Casablanca
+OFF-0254,React,It & Tech,FRONTEND DEVELOPER,Casablanca
+OFF-0254,MongoDB,It & Tech,FRONTEND DEVELOPER,Casablanca
+OFF-0255,AutoCAD - Revit - MS Project - Gestion de chantier,Btp,CONDUCTEUR TRAVAUX,Casablanca
+OFF-0256,Diagnostic,Santé,Docteur,Tanger
+OFF-0256,Éthique médicale,Santé,Docteur,Tanger
+OFF-0256,Soins infirmiers,Santé,Docteur,Tanger
+OFF-0257,TensorFlow - SQL,It & Tech,BACKEND DEVELOPER,Tanger
+OFF-0258,Soins infirmiers,Santé,INFIRMIER,Fès
+OFF-0258,Diagnostic,Santé,INFIRMIER,Fès
+OFF-0258,Pharmacologie,Santé,INFIRMIER,Fès
+OFF-0258,Éthique médicale,Santé,INFIRMIER,Fès
+OFF-0259,"Docker, REST API, TensorFlow, Azure, Agile/Scrum",It & Tech,Developpeur FullStack,Casablanca
+OFF-0260,AutoCAD,Btp,Génie Civil,Casablanca
+OFF-0260,Revit,Btp,Génie Civil,Casablanca
+OFF-0260,MS Project,Btp,Génie Civil,Casablanca
+OFF-0261,"TensorFlow, Kubernetes, AWS, MongoDB",It & Tech,Administrateur sys,Fès
+OFF-0262,Docker,It & Tech,Power BI Developer,Casablanca
+OFF-0262,React,It & Tech,Power BI Developer,Casablanca
+OFF-0262,Azure,It & Tech,Power BI Developer,Casablanca
+OFF-0262,JavaScript,It & Tech,Power BI Developer,Casablanca
+OFF-0262,Java,It & Tech,Power BI Developer,Casablanca
+OFF-0263,Pack Office,Tourisme,Guide,Casablanca
+OFF-0263,Gestion réservations,Tourisme,Guide,Casablanca
+OFF-0263,Accueil client,Tourisme,Guide,Casablanca
+OFF-0263,Langues étrangères,Tourisme,Guide,Casablanca
+OFF-0264,Négociation,Commerce,Community manager,Rabat-Salé
+OFF-0264,SEO,Commerce,Community manager,Rabat-Salé
+OFF-0264,Google Ads,Commerce,Community manager,Rabat-Salé
+OFF-0264,CRM,Commerce,Community manager,Rabat-Salé
+OFF-0265,Audit,Finance & Rh,comptable,Casablanca
+OFF-0265,SAP,Finance & Rh,comptable,Casablanca
+OFF-0266,Paie / Consolidation / Excel avancé / IFRS,Finance & Rh,Responsable RH,Marrakech
+OFF-0267,SAP,Finance & Rh,Auditeur,Agadir
+OFF-0267,IFRS,Finance & Rh,Auditeur,Agadir
+OFF-0267,Consolidation,Finance & Rh,Auditeur,Agadir
+OFF-0268,Lean Manufacturing,Industrie,tech maintenance,Marrakech
+OFF-0268,AutoCAD,Industrie,tech maintenance,Marrakech
+OFF-0268,ISO 9001,Industrie,tech maintenance,Marrakech
+OFF-0269,"SAGE, Audit",Finance & Rh,Paie Manager,Casablanca
+OFF-0269,"SAGE, Audit",Finance & Rh,Paie Manager,Casablanca
+OFF-0271,MongoDB,It & Tech,data scientist,Rabat-Salé
+OFF-0271,Power BI,It & Tech,data scientist,Rabat-Salé
+OFF-0272,MongoDB,It & Tech,Ingénieur réseau,Casablanca
+OFF-0272,SQL,It & Tech,Ingénieur réseau,Casablanca
+OFF-0272,Node.js,It & Tech,Ingénieur réseau,Casablanca
+OFF-0272,AWS,It & Tech,Ingénieur réseau,Casablanca
+OFF-0272,Java,It & Tech,Ingénieur réseau,Casablanca
+OFF-0273,Excel avancé,,Paie Manager,Tanger
+OFF-0273,SAGE,,Paie Manager,Tanger
+OFF-0273,Audit,,Paie Manager,Tanger
+OFF-0274,SAGE,Finance & Rh,comptable,Casablanca
+OFF-0274,Consolidation,Finance & Rh,comptable,Casablanca
+OFF-0274,IFRS,Finance & Rh,comptable,Casablanca
+OFF-0274,Paie,Finance & Rh,comptable,Casablanca
+OFF-0274,Excel avancé,Finance & Rh,comptable,Casablanca
+OFF-0275,Linux,It & Tech,développeur full-stack,Casablanca
+OFF-0275,React,It & Tech,développeur full-stack,Casablanca
+OFF-0275,Git,It & Tech,développeur full-stack,Casablanca
+OFF-0275,Kubernetes,It & Tech,développeur full-stack,Casablanca
+OFF-0276,Diagnostic,Santé,Médecin,Casablanca
+OFF-0276,Pharmacologie,Santé,Médecin,Casablanca
+OFF-0276,Éthique médicale,Santé,Médecin,Casablanca
+OFF-0276,Soins infirmiers,Santé,Médecin,Casablanca
+OFF-0277,PLC/SCADA,Industrie,TECHNICIEN MAINTENANCE,Meknès
+OFF-0277,ISO 9001,Industrie,TECHNICIEN MAINTENANCE,Meknès
+OFF-0277,AutoCAD,Industrie,TECHNICIEN MAINTENANCE,Meknès
+OFF-0278,"MS Project, Gestion de chantier, Revit, Béton armé",Btp,ing génie civil,Fès
+OFF-0279,AMDEC,Industrie,ing production,Agadir
+OFF-0279,SolidWorks,Industrie,ing production,Agadir
+OFF-0279,PLC/SCADA,Industrie,ing production,Agadir
+OFF-0280,Paie,Finance & Rh,Contrôleur gestion,Rabat
+OFF-0280,SAGE,Finance & Rh,Contrôleur gestion,Rabat
+OFF-0280,Audit,Finance & Rh,Contrôleur gestion,Rabat
+OFF-0280,Droit du travail,Finance & Rh,Contrôleur gestion,Rabat
+OFF-0280,IFRS,Finance & Rh,Contrôleur gestion,Rabat
+OFF-0281,Béton armé,Btp,INGÉNIEUR GÉNIE CIVIL,Tanger
+OFF-0281,MS Project,Btp,INGÉNIEUR GÉNIE CIVIL,Tanger
+OFF-0281,AutoCAD,Btp,INGÉNIEUR GÉNIE CIVIL,Tanger
+OFF-0281,Gestion de chantier,Btp,INGÉNIEUR GÉNIE CIVIL,Tanger
+OFF-0281,Revit,Btp,INGÉNIEUR GÉNIE CIVIL,Tanger
+OFF-0282,"Soins infirmiers, Éthique médicale, Pharmacologie, Diagnostic",Santé,pharmacien,Tanger
+OFF-0283,SAGE - Droit du travail - Audit,Finance & Rh,Comptable Général,Fès
+OFF-0284,Excel,Commerce,Chargé Commercial,Casablanca
+OFF-0284,Google Ads,Commerce,Chargé Commercial,Casablanca
+OFF-0284,Salesforce,Commerce,Chargé Commercial,Casablanca
+OFF-0285,Java,It & Tech,DATA ENGINEER,Tanger
+OFF-0285,Git,It & Tech,DATA ENGINEER,Tanger
+OFF-0286,Accueil client,Tourisme,Réceptionniste hôtel,Tanger
+OFF-0286,Gestion réservations,Tourisme,Réceptionniste hôtel,Tanger
+OFF-0286,Langues étrangères,Tourisme,Réceptionniste hôtel,Tanger
+OFF-0286,Pack Office,Tourisme,Réceptionniste hôtel,Tanger
+OFF-0287,Git,It & Tech,Chef Projet IT,Casablanca
+OFF-0287,Agile/Scrum,It & Tech,Chef Projet IT,Casablanca
+OFF-0288,Revit,Btp,Conducteur travaux,Casablanca
+OFF-0288,AutoCAD,Btp,Conducteur travaux,Casablanca
+OFF-0289,Java,It & Tech,ml engineer,Meknès
+OFF-0289,Node.js,It & Tech,ml engineer,Meknès
+OFF-0290,Linux,It & Tech,UX UI Designer,Casablanca
+OFF-0290,Git,It & Tech,UX UI Designer,Casablanca
+OFF-0290,React,It & Tech,UX UI Designer,Casablanca
+OFF-0290,REST API,It & Tech,UX UI Designer,Casablanca
+OFF-0290,Python,It & Tech,UX UI Designer,Casablanca
+OFF-0291,SolidWorks,Industrie,Responsable qualité,Oujda
+OFF-0291,ISO 9001,Industrie,Responsable qualité,Oujda
+OFF-0291,PLC/SCADA,Industrie,Responsable qualité,Oujda
+OFF-0291,AutoCAD,Industrie,Responsable qualité,Oujda
+OFF-0291,Lean Manufacturing,Industrie,Responsable qualité,Oujda
+OFF-0292,TypeScript,It & Tech,BACKEND DEVELOPER,Tanger
+OFF-0292,Azure,It & Tech,BACKEND DEVELOPER,Tanger
+OFF-0292,JavaScript,It & Tech,BACKEND DEVELOPER,Tanger
+OFF-0292,Java,It & Tech,BACKEND DEVELOPER,Tanger
+OFF-0292,SQL,It & Tech,BACKEND DEVELOPER,Tanger
+OFF-0293,Négociation,Commerce,Marketer Digital,Tanger
+OFF-0293,SEO,Commerce,Marketer Digital,Tanger
+OFF-0293,Email Marketing,Commerce,Marketer Digital,Tanger
+OFF-0294,REST API - JavaScript - Docker,It & Tech,chef de projet,Tanger
+OFF-0295,AutoCAD,Industrie,Resp. Qualité,Tanger
+OFF-0295,SolidWorks,Industrie,Resp. Qualité,Tanger
+OFF-0295,AMDEC,Industrie,Resp. Qualité,Tanger
+OFF-0295,Lean Manufacturing,Industrie,Resp. Qualité,Tanger
+OFF-0295,PLC/SCADA,Industrie,Resp. Qualité,Tanger
+OFF-0296,Paie,Finance & Rh,Comptable Général,Fès
+OFF-0296,Consolidation,Finance & Rh,Comptable Général,Fès
+OFF-0296,SAGE,Finance & Rh,Comptable Général,Fès
+OFF-0297,"Java, REST API, Git, Node.js, MongoDB",It & Tech,DATA SCIENTIST,Tanger
+OFF-0298,AWS / MongoDB / Azure / Java,It & Tech,Cybersécurité,Rabat-Salé
+OFF-0299,"Excel, Analyse de marché, Google Ads",Commerce,Marketing Digital,Casablanca
+OFF-0300,Béton armé,Btp,chef de chantier,Marrakech
+OFF-0300,AutoCAD,Btp,chef de chantier,Marrakech
+OFF-0300,MS Project,Btp,chef de chantier,Marrakech
+OFF-0301,SolidWorks,Industrie,ing production,Tanger
+OFF-0301,PLC/SCADA,Industrie,ing production,Tanger
+OFF-0301,SolidWorks,Industrie,ing production,Tanger
+OFF-0301,PLC/SCADA,Industrie,ing production,Tanger
+OFF-0303,Node.js - Power BI - AWS - Azure,It & Tech,Ingénieur réseau,Tanger
+OFF-0304,Langues étrangères,Tourisme,Réceptionniste hôtel,Rabat
+OFF-0304,Gestion réservations,Tourisme,Réceptionniste hôtel,Rabat
+OFF-0304,Accueil client,Tourisme,Réceptionniste hôtel,Rabat
+OFF-0304,Pack Office,Tourisme,Réceptionniste hôtel,Rabat
+OFF-0305,Paie,Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0305,Consolidation,Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0305,IFRS,Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0305,Excel avancé,Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0305,Droit du travail,Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0306,Soins infirmiers,Santé,Pharmacien d'officine,Casablanca
+OFF-0306,Pharmacologie,Santé,Pharmacien d'officine,Casablanca
+OFF-0306,Éthique médicale,Santé,Pharmacien d'officine,Casablanca
+OFF-0307,"REST API, Agile/Scrum, AWS, MongoDB, Git",It & Tech,backend developer,Casablanca
+OFF-0308,Langues étrangères,Tourisme,Guide,Rabat
+OFF-0308,Gestion réservations,Tourisme,Guide,Rabat
+OFF-0309,LANGUES ÉTRANGÈRES,Tourisme,GUIDE TOURISTIQUE,Casablanca
+OFF-0309,GESTION RÉSERVATIONS,Tourisme,GUIDE TOURISTIQUE,Casablanca
+OFF-0309,PACK OFFICE,Tourisme,GUIDE TOURISTIQUE,Casablanca
+OFF-0309,ACCUEIL CLIENT,Tourisme,GUIDE TOURISTIQUE,Casablanca
+OFF-0310,Gestion de chantier,Btp,Ingénieur civil,Meknès
+OFF-0310,Revit,Btp,Ingénieur civil,Meknès
+OFF-0310,Béton armé,Btp,Ingénieur civil,Meknès
+OFF-0310,MS Project,Btp,Ingénieur civil,Meknès
+OFF-0310,AutoCAD,Btp,Ingénieur civil,Meknès
+OFF-0311,Python,It & Tech,DATA SCIENTIST,Casablanca
+OFF-0311,Azure,It & Tech,DATA SCIENTIST,Casablanca
+OFF-0311,TypeScript,It & Tech,DATA SCIENTIST,Casablanca
+OFF-0311,Kubernetes,It & Tech,DATA SCIENTIST,Casablanca
+OFF-0313,Gestion réservations / Pack Office,Tourisme,Réceptionniste hôtel,Casablanca
+OFF-0314,"Agile/Scrum, React, SQL, Docker",It & Tech,CYBERSECURITE,Marrakech
+OFF-0315,SEO,Commerce,CM,Casablanca
+OFF-0315,Salesforce,Commerce,CM,Casablanca
+OFF-0315,Excel,Commerce,CM,Casablanca
+OFF-0315,Négociation,Commerce,CM,Casablanca
+OFF-0315,Google Ads,Commerce,CM,Casablanca
+OFF-0316,SEO,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0316,Salesforce,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0316,Excel,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0316,Négociation,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0316,Analyse de marché,Commerce,RESPONSABLE COMMERCIAL,Casablanca
+OFF-0317,JavaScript,It & Tech,frontend developer,Rabat
+OFF-0317,TypeScript,It & Tech,frontend developer,Rabat
+OFF-0318,Google Ads,Commerce,MARKETING DIGITAL,Agadir
+OFF-0318,SEO,Commerce,MARKETING DIGITAL,Agadir
+OFF-0318,Excel,Commerce,MARKETING DIGITAL,Agadir
+OFF-0318,Négociation,Commerce,MARKETING DIGITAL,Agadir
+OFF-0318,CRM,Commerce,MARKETING DIGITAL,Agadir
+OFF-0319,"SQL, Azure, Node.js, Linux",It & Tech,UXUI Designer,Tanger
+OFF-0320,"Email Marketing, SEO",Commerce,Directeur Commercial,Casablanca
+OFF-0321,Azure,It & Tech,UXUI Designer,Oujda
+OFF-0321,SQL,It & Tech,UXUI Designer,Oujda
+OFF-0322,SQL - Docker - TypeScript - Node.js,It & Tech,Machine Learning Engineer,Tanger
+OFF-0323,Linux,It & Tech,Chef Projet IT,Tanger
+OFF-0323,Git,It & Tech,Chef Projet IT,Tanger
+OFF-0323,REST API,It & Tech,Chef Projet IT,Tanger
+OFF-0324,Consolidation,Finance & Rh,Analyste Finance,Fès
+OFF-0324,IFRS,Finance & Rh,Analyste Finance,Fès
+OFF-0324,SAP,Finance & Rh,Analyste Finance,Fès
+OFF-0325,Node.js,It & Tech,CYBERSECURITE,Casablanca
+OFF-0325,AWS,It & Tech,CYBERSECURITE,Casablanca
+OFF-0325,Linux,It & Tech,CYBERSECURITE,Casablanca
+OFF-0326,Excel avancé / SAP / Paie / Audit,Finance & Rh,Analyste Finance,Casablanca
+OFF-0327,ISO 9001 - Lean Manufacturing - AMDEC - AutoCAD,Industrie,Technicien maintenance,Oujda
+OFF-0328,MONGODB,It & Tech,Cyber Sécurité Analyst,Casablanca
+OFF-0328,DOCKER,It & Tech,Cyber Sécurité Analyst,Casablanca
+OFF-0329,TensorFlow,It & Tech,Project Manager IT,Meknès
+OFF-0329,Kubernetes,It & Tech,Project Manager IT,Meknès
+OFF-0329,SQL,It & Tech,Project Manager IT,Meknès
+OFF-0329,JavaScript,It & Tech,Project Manager IT,Meknès
+OFF-0329,React,It & Tech,Project Manager IT,Meknès
+OFF-0330,Java,It & Tech,devops engineer,Rabat
+OFF-0330,AWS,It & Tech,devops engineer,Rabat
+OFF-0330,TypeScript,It & Tech,devops engineer,Rabat
+OFF-0332,AutoCAD,Industrie,Resp. Qualité,Agadir-Ida
+OFF-0332,Lean Manufacturing,Industrie,Resp. Qualité,Agadir-Ida
+OFF-0332,SolidWorks,Industrie,Resp. Qualité,Agadir-Ida
+OFF-0332,AMDEC,Industrie,Resp. Qualité,Agadir-Ida
+OFF-0333,IFRS,Finance & Rh,ANALYSTE FINANCIER,Tanger
+OFF-0333,Excel avancé,Finance & Rh,ANALYSTE FINANCIER,Tanger
+OFF-0333,Paie,Finance & Rh,ANALYSTE FINANCIER,Tanger
+OFF-0333,Consolidation,Finance & Rh,ANALYSTE FINANCIER,Tanger
+OFF-0333,Audit,Finance & Rh,ANALYSTE FINANCIER,Tanger
+OFF-0334,PYTHON,It & Tech,backend developer,Oujda-Angad
+OFF-0334,JAVASCRIPT,It & Tech,backend developer,Oujda-Angad
+OFF-0334,DOCKER,It & Tech,backend developer,Oujda-Angad
+OFF-0334,GIT,It & Tech,backend developer,Oujda-Angad
+OFF-0334,JAVA,It & Tech,backend developer,Oujda-Angad
+OFF-0335,"Docker, Power BI, Node.js, Git",It & Tech,Développeur FrontEnd,Casablanca
+OFF-0336,CRM,Commerce,Commercial,Marrakech
+OFF-0336,Analyse de marché,Commerce,Commercial,Marrakech
+OFF-0337,Paie,Finance & Rh,DRH,Kénitra
+OFF-0337,SAP,Finance & Rh,DRH,Kénitra
+OFF-0337,Audit,Finance & Rh,DRH,Kénitra
+OFF-0338,SQL,It & Tech,chef de projet,Agadir
+OFF-0338,Java,It & Tech,chef de projet,Agadir
+OFF-0338,MongoDB,It & Tech,chef de projet,Agadir
+OFF-0339,React,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,Kubernetes,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,Docker,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,AWS,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,Agile/Scrum,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,React,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,Kubernetes,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,Docker,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,AWS,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0339,Agile/Scrum,It & Tech,Ingenieur Réseaux,Agadir
+OFF-0341,SAP,Finance & Rh,analyste financier,Rabat
+OFF-0341,Paie,Finance & Rh,analyste financier,Rabat
+OFF-0341,IFRS,Finance & Rh,analyste financier,Rabat
+OFF-0342,Consolidation,Finance & Rh,Contrôleur gestion,Casablanca
+OFF-0342,IFRS,Finance & Rh,Contrôleur gestion,Casablanca
+OFF-0342,Paie,Finance & Rh,Contrôleur gestion,Casablanca
+OFF-0342,Droit du travail,Finance & Rh,Contrôleur gestion,Casablanca
+OFF-0345,Consolidation,Finance & Rh,auditeur financier,Fès
+OFF-0345,SAGE,Finance & Rh,auditeur financier,Fès
+OFF-0345,SAP,Finance & Rh,auditeur financier,Fès
+OFF-0346,SAP,Finance & Rh,Controller,Marrakech
+OFF-0346,Excel avancé,Finance & Rh,Controller,Marrakech
+OFF-0346,IFRS,Finance & Rh,Controller,Marrakech
+OFF-0347,AWS,It & Tech,ml engineer,Rabat
+OFF-0347,Azure,It & Tech,ml engineer,Rabat
+OFF-0347,TensorFlow,It & Tech,ml engineer,Rabat
+OFF-0347,Git,It & Tech,ml engineer,Rabat
+OFF-0348,Salesforce,Commerce,Directeur Commercial,Rabat-Salé
+OFF-0348,SEO,Commerce,Directeur Commercial,Rabat-Salé
+OFF-0348,Négociation,Commerce,Directeur Commercial,Rabat-Salé
+OFF-0349,"SEO, Négociation, Email Marketing, Analyse de marché, CRM",Commerce,RESPONSABLE COMMERCIAL,Fès
+OFF-0350,IFRS - SAGE,Finance & Rh,RESPONSABLE RH,Oujda
+OFF-0351,Consolidation,Finance & Rh,Paie Manager,Meknès
+OFF-0351,SAP,Finance & Rh,Paie Manager,Meknès
+OFF-0351,Audit,Finance & Rh,Paie Manager,Meknès
+OFF-0351,Excel avancé,Finance & Rh,Paie Manager,Meknès
+OFF-0352,Kubernetes,It & Tech,ux-ui designer,Casablanca
+OFF-0352,Power BI,It & Tech,ux-ui designer,Casablanca
+OFF-0352,Python,It & Tech,ux-ui designer,Casablanca
+OFF-0353,Agile/Scrum - JavaScript - React - Power BI,It & Tech,Chef Projet IT,Rabat
+OFF-0354,JavaScript / REST API,It & Tech,Développeur BackEnd,Casablanca
+OFF-0355,"Diagnostic, Soins infirmiers, Pharmacologie, Éthique médicale",Santé,medecin generaliste,Tanger
+OFF-0356,"Docker, React, Power BI, Python",It & Tech,FRONTEND DEVELOPER,Marrakech
+OFF-0357,SQL,It & Tech,Developpeur FullStack,Tanger
+OFF-0357,REST API,It & Tech,Developpeur FullStack,Tanger
+OFF-0357,React,It & Tech,Developpeur FullStack,Tanger
+OFF-0357,Kubernetes,It & Tech,Developpeur FullStack,Tanger
+OFF-0357,Python,It & Tech,Developpeur FullStack,Tanger
+OFF-0358,PLC/SCADA / AMDEC,Industrie,INGÉNIEUR PRODUCTION,Marrakech
+OFF-0359,AutoCAD,Btp,Conducteur travaux,Tanger
+OFF-0359,Revit,Btp,Conducteur travaux,Tanger
+OFF-0359,MS Project,Btp,Conducteur travaux,Tanger
 OFF-0360,Diagnostic,Santé,Infirmier,Casablanca
-OFF-0360,Éthique Médicale,Santé,Infirmier,Casablanca
+OFF-0360,Éthique médicale,Santé,Infirmier,Casablanca
 OFF-0360,Pharmacologie,Santé,Infirmier,Casablanca
-OFF-0360,Soins Infirmiers,Santé,Infirmier,Casablanca
-OFF-0361,Éthique Médicale,Santé,Infirmier,Marrakech
-OFF-0361,Soins Infirmiers,Santé,Infirmier,Marrakech
-OFF-0361,Pharmacologie,Santé,Infirmier,Marrakech
-OFF-0362,Éthique Médicale,Santé,Médecin Généraliste,Casablanca
-OFF-0362,Soins Infirmiers,Santé,Médecin Généraliste,Casablanca
-OFF-0363,Excel Avancé,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0363,Consolidation,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0363,Sage,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0363,Ifrs,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0363,Paie,Finance & Rh,Gestionnaire de Paie,Marrakech
-OFF-0364,Diagnostic,Santé,Médecin Généraliste,Meknès
-OFF-0364,Éthique Médicale,Santé,Médecin Généraliste,Meknès
-OFF-0364,Soins Infirmiers,Santé,Médecin Généraliste,Meknès
-OFF-0365,Sap,Finance & Rh,Contrôleur de Gestion,Agadir
-OFF-0365,Sage,Finance & Rh,Contrôleur de Gestion,Agadir
-OFF-0366,Sql,It & Tech,Développeur Frontend,Casablanca
-OFF-0366,Docker,It & Tech,Développeur Frontend,Casablanca
-OFF-0366,Linux,It & Tech,Développeur Frontend,Casablanca
-OFF-0367,Salesforce,Commerce,Community Manager,Rabat
-OFF-0367,Analyse De Marché,Commerce,Community Manager,Rabat
-OFF-0367,Excel,Commerce,Community Manager,Rabat
-OFF-0367,Seo,Commerce,Community Manager,Rabat
-OFF-0368,Seo,Commerce,Responsable Commercial,Meknès
-OFF-0368,Excel,Commerce,Responsable Commercial,Meknès
-OFF-0369,Salesforce,Commerce,Chargé Marketing Digital,Marrakech
-OFF-0369,Google Ads,Commerce,Chargé Marketing Digital,Marrakech
-OFF-0370,Mongodb,It & Tech,Data Engineer,Rabat
-OFF-0370,Aws,It & Tech,Data Engineer,Rabat
-OFF-0370,Power Bi,It & Tech,Data Engineer,Rabat
-OFF-0371,Mongodb,It & Tech,DevOps Engineer,Agadir
-OFF-0371,Tensorflow,It & Tech,DevOps Engineer,Agadir
-OFF-0371,Agile,It & Tech,DevOps Engineer,Agadir
-OFF-0371,Scrum,It & Tech,DevOps Engineer,Agadir
-OFF-0371,Rest Api,It & Tech,DevOps Engineer,Agadir
-OFF-0372,Diagnostic,Santé,Médecin Généraliste,Agadir
-OFF-0372,Éthique Médicale,Santé,Médecin Généraliste,Agadir
-OFF-0372,Soins Infirmiers,Santé,Médecin Généraliste,Agadir
-OFF-0372,Pharmacologie,Santé,Médecin Généraliste,Agadir
-OFF-0373,Power Bi,It & Tech,Data Engineer,Casablanca
-OFF-0373,Mongodb,It & Tech,Data Engineer,Casablanca
-OFF-0373,Javascript,It & Tech,Data Engineer,Casablanca
-OFF-0373,Java,It & Tech,Data Engineer,Casablanca
-OFF-0374,Droit Du Travail,Finance & Rh,Responsable Rh,Casablanca
-OFF-0374,Audit,Finance & Rh,Responsable Rh,Casablanca
-OFF-0374,Consolidation,Finance & Rh,Responsable Rh,Casablanca
-OFF-0375,Diagnostic,Santé,Pharmacien,Casablanca
-OFF-0375,Pharmacologie,Santé,Pharmacien,Casablanca
-OFF-0375,Soins Infirmiers,Santé,Pharmacien,Casablanca
-OFF-0375,Éthique Médicale,Santé,Pharmacien,Casablanca
-OFF-0376,Gestion Réservations,,Réceptionniste Hôtel,Casablanca
-OFF-0376,Accueil Client,,Réceptionniste Hôtel,Casablanca
-OFF-0376,Langues Étrangères,,Réceptionniste Hôtel,Casablanca
-OFF-0376,Pack Office,,Réceptionniste Hôtel,Casablanca
-OFF-0377,Soins Infirmiers,Santé,Médecin Généraliste,Casablanca
-OFF-0377,Éthique Médicale,Santé,Médecin Généraliste,Casablanca
-OFF-0377,Diagnostic,Santé,Médecin Généraliste,Casablanca
-OFF-0377,Pharmacologie,Santé,Médecin Généraliste,Casablanca
-OFF-0378,Java,It & Tech,Ml Ingénieur,Casablanca
-OFF-0378,Linux,It & Tech,Ml Ingénieur,Casablanca
-OFF-0378,Node.Js,It & Tech,Ml Ingénieur,Casablanca
-OFF-0378,Power Bi,It & Tech,Ml Ingénieur,Casablanca
-OFF-0379,Agile,It & Tech,Administrateur Système,Tanger
-OFF-0379,Scrum,It & Tech,Administrateur Système,Tanger
-OFF-0379,Mongodb,It & Tech,Administrateur Système,Tanger
-OFF-0379,Kubernetes,It & Tech,Administrateur Système,Tanger
-OFF-0379,Linux,It & Tech,Administrateur Système,Tanger
-OFF-0379,Azure,It & Tech,Administrateur Système,Tanger
-OFF-0380,Azure,It & Tech,Ml Ingénieur,Tanger
-OFF-0380,Python,It & Tech,Ml Ingénieur,Tanger
-OFF-0380,Linux,It & Tech,Ml Ingénieur,Tanger
-OFF-0380,React,It & Tech,Ml Ingénieur,Tanger
-OFF-0380,Java,It & Tech,Ml Ingénieur,Tanger
-OFF-0381,Python,It & Tech,Ml Ingénieur,Casablanca
-OFF-0381,React,It & Tech,Ml Ingénieur,Casablanca
-OFF-0381,Linux,It & Tech,Ml Ingénieur,Casablanca
-OFF-0381,Power Bi,It & Tech,Ml Ingénieur,Casablanca
-OFF-0381,Aws,It & Tech,Ml Ingénieur,Casablanca
-OFF-0382,Java,It & Tech,Cybersécurité Analyst,Fès
-OFF-0382,Docker,It & Tech,Cybersécurité Analyst,Fès
-OFF-0382,Tensorflow,It & Tech,Cybersécurité Analyst,Fès
-OFF-0383,Docker,It & Tech,ML Engineer,Rabat
-OFF-0383,Agile,It & Tech,ML Engineer,Rabat
-OFF-0383,Scrum,It & Tech,ML Engineer,Rabat
-OFF-0383,Typescript,It & Tech,ML Engineer,Rabat
-OFF-0383,Aws,It & Tech,ML Engineer,Rabat
-OFF-0384,Gestion Réservations,Tourisme,Guide Touristique,Marrakech
-OFF-0384,Langues Étrangères,Tourisme,Guide Touristique,Marrakech
-OFF-0385,Plc,Industrie,Responsable Qualité,Casablanca
-OFF-0385,Scada,Industrie,Responsable Qualité,Casablanca
-OFF-0385,Amdec,Industrie,Responsable Qualité,Casablanca
-OFF-0385,Autocad,Industrie,Responsable Qualité,Casablanca
-OFF-0385,Lean Manufacturing,Industrie,Responsable Qualité,Casablanca
-OFF-0387,Javascript,It & Tech,Data Scientist,Rabat
-OFF-0387,Agile,It & Tech,Data Scientist,Rabat
-OFF-0387,Scrum,It & Tech,Data Scientist,Rabat
-OFF-0388,Kubernetes,It & Tech,ML Engineer,Tanger
-OFF-0388,Tensorflow,It & Tech,ML Engineer,Tanger
-OFF-0388,Java,It & Tech,ML Engineer,Tanger
-OFF-0389,Amdec,,Technicien Maintenance,Casablanca
-OFF-0389,Autocad,,Technicien Maintenance,Casablanca
-OFF-0389,Iso 9001,,Technicien Maintenance,Casablanca
-OFF-0390,Power Bi,It & Tech,Développeur Full Stack,Tanger
-OFF-0390,Tensorflow,It & Tech,Développeur Full Stack,Tanger
-OFF-0390,Docker,It & Tech,Développeur Full Stack,Tanger
-OFF-0390,Aws,It & Tech,Développeur Full Stack,Tanger
-OFF-0391,Docker,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0391,Typescript,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0391,Mongodb,It & Tech,Ingénieur Réseau,Casablanca
-OFF-0392,Pharmacologie,Santé,Infirmier,Casablanca
-OFF-0392,Éthique Médicale,Santé,Infirmier,Casablanca
-OFF-0392,Diagnostic,Santé,Infirmier,Casablanca
-OFF-0392,Soins Infirmiers,Santé,Infirmier,Casablanca
-OFF-0393,Tensorflow,It & Tech,Product Manager,Rabat
-OFF-0393,Docker,It & Tech,Product Manager,Rabat
-OFF-0393,Typescript,It & Tech,Product Manager,Rabat
+OFF-0360,Soins infirmiers,Santé,Infirmier,Casablanca
+OFF-0361,Éthique médicale,Santé,INFIRMIER,Marrakech
+OFF-0361,Soins infirmiers,Santé,INFIRMIER,Marrakech
+OFF-0361,Pharmacologie,Santé,INFIRMIER,Marrakech
+OFF-0362,Éthique médicale - Soins infirmiers,Santé,Médecin,Casablanca
+OFF-0363,"Excel avancé, Consolidation, SAGE, IFRS, Paie",Finance & Rh,Paie Manager,Marrakech
+OFF-0364,Diagnostic,Santé,Médecin,Meknès
+OFF-0364,Éthique médicale,Santé,Médecin,Meknès
+OFF-0364,Soins infirmiers,Santé,Médecin,Meknès
+OFF-0365,SAP,Finance & Rh,Controller,Agadir
+OFF-0365,SAGE,Finance & Rh,Controller,Agadir
+OFF-0366,SQL - Docker - Linux,It & Tech,Développeur FrontEnd,Casablanca
+OFF-0367,Salesforce,Commerce,COMMUNITY MANAGER,Rabat
+OFF-0367,Analyse de marché,Commerce,COMMUNITY MANAGER,Rabat
+OFF-0367,Excel,Commerce,COMMUNITY MANAGER,Rabat
+OFF-0367,SEO,Commerce,COMMUNITY MANAGER,Rabat
+OFF-0368,SEO,Commerce,RESPONSABLE COMMERCIAL,Meknès
+OFF-0368,Excel,Commerce,RESPONSABLE COMMERCIAL,Meknès
+OFF-0369,Salesforce,Commerce,Marketer Digital,Marrakech
+OFF-0369,Google Ads,Commerce,Marketer Digital,Marrakech
+OFF-0370,MongoDB,It & Tech,DATA ENGINEER,Rabat
+OFF-0370,AWS,It & Tech,DATA ENGINEER,Rabat
+OFF-0370,Power BI,It & Tech,DATA ENGINEER,Rabat
+OFF-0371,MongoDB,It & Tech,DevOps,Agadir
+OFF-0371,TensorFlow,It & Tech,DevOps,Agadir
+OFF-0371,Agile/Scrum,It & Tech,DevOps,Agadir
+OFF-0371,REST API,It & Tech,DevOps,Agadir
+OFF-0372,"Diagnostic, Éthique médicale, Soins infirmiers, Pharmacologie",Santé,Médecin,Agadir
+OFF-0373,"Power BI, MongoDB, JavaScript, Java",It & Tech,Dat Engineer,Casablanca
+OFF-0374,Droit du travail / Audit / Consolidation,Finance & Rh,RESPONSABLE RH,Casablanca
+OFF-0375,Diagnostic,Santé,pharmacien,Casablanca
+OFF-0375,Pharmacologie,Santé,pharmacien,Casablanca
+OFF-0375,Soins infirmiers,Santé,pharmacien,Casablanca
+OFF-0375,Éthique médicale,Santé,pharmacien,Casablanca
+OFF-0376,"Gestion réservations, Accueil client, Langues étrangères, Pack Office",,receptionniste hotel,Casablanca
+OFF-0377,Soins infirmiers - Éthique médicale - Diagnostic - Pharmacologie,Santé,MÉDECIN GÉNÉRALISTE,Casablanca
+OFF-0378,Java,It & Tech,ML Ingénieur,Casablanca
+OFF-0378,Linux,It & Tech,ML Ingénieur,Casablanca
+OFF-0378,Node.js,It & Tech,ML Ingénieur,Casablanca
+OFF-0378,Power BI,It & Tech,ML Ingénieur,Casablanca
+OFF-0379,Agile/Scrum,It & Tech,Admin Système,Tanger
+OFF-0379,MongoDB,It & Tech,Admin Système,Tanger
+OFF-0379,Kubernetes,It & Tech,Admin Système,Tanger
+OFF-0379,Linux,It & Tech,Admin Système,Tanger
+OFF-0379,Azure,It & Tech,Admin Système,Tanger
+OFF-0380,Azure,It & Tech,ML Ingénieur,Tanger
+OFF-0380,Python,It & Tech,ML Ingénieur,Tanger
+OFF-0380,Linux,It & Tech,ML Ingénieur,Tanger
+OFF-0380,React,It & Tech,ML Ingénieur,Tanger
+OFF-0380,Java,It & Tech,ML Ingénieur,Tanger
+OFF-0381,Python,It & Tech,ML Ingénieur,Casablanca
+OFF-0381,React,It & Tech,ML Ingénieur,Casablanca
+OFF-0381,Linux,It & Tech,ML Ingénieur,Casablanca
+OFF-0381,Power BI,It & Tech,ML Ingénieur,Casablanca
+OFF-0381,AWS,It & Tech,ML Ingénieur,Casablanca
+OFF-0382,Java,It & Tech,CYBERSECURITE,Fès
+OFF-0382,Docker,It & Tech,CYBERSECURITE,Fès
+OFF-0382,TensorFlow,It & Tech,CYBERSECURITE,Fès
+OFF-0383,Docker,It & Tech,Machine Learning Engineer,Rabat
+OFF-0383,Agile/Scrum,It & Tech,Machine Learning Engineer,Rabat
+OFF-0383,TypeScript,It & Tech,Machine Learning Engineer,Rabat
+OFF-0383,AWS,It & Tech,Machine Learning Engineer,Rabat
+OFF-0384,Gestion réservations,Tourisme,GUIDE TOURISTIQUE,Marrakech
+OFF-0384,Langues étrangères,Tourisme,GUIDE TOURISTIQUE,Marrakech
+OFF-0385,PLC/SCADA,Industrie,Quality Manager,Casablanca
+OFF-0385,AMDEC,Industrie,Quality Manager,Casablanca
+OFF-0385,AutoCAD,Industrie,Quality Manager,Casablanca
+OFF-0385,Lean Manufacturing,Industrie,Quality Manager,Casablanca
+OFF-0387,JavaScript,It & Tech,Dta Scientist,Rabat
+OFF-0387,Agile/Scrum,It & Tech,Dta Scientist,Rabat
+OFF-0388,"Kubernetes, TensorFlow, Java",It & Tech,Machine Learning Engineer,Tanger
+OFF-0389,AMDEC / AutoCAD / ISO 9001,,Technicien maintenance,Casablanca
+OFF-0390,Power BI,It & Tech,développeur full stack,Tanger
+OFF-0390,TensorFlow,It & Tech,développeur full stack,Tanger
+OFF-0390,Docker,It & Tech,développeur full stack,Tanger
+OFF-0390,AWS,It & Tech,développeur full stack,Tanger
+OFF-0391,Docker,It & Tech,Ingenieur Réseaux,Casablanca
+OFF-0391,TypeScript,It & Tech,Ingenieur Réseaux,Casablanca
+OFF-0391,MongoDB,It & Tech,Ingenieur Réseaux,Casablanca
+OFF-0392,Pharmacologie,Santé,INFIRMIER,Casablanca
+OFF-0392,Éthique médicale,Santé,INFIRMIER,Casablanca
+OFF-0392,Diagnostic,Santé,INFIRMIER,Casablanca
+OFF-0392,Soins infirmiers,Santé,INFIRMIER,Casablanca
+OFF-0393,TensorFlow,It & Tech,PRODUCT MANAGER,Rabat
+OFF-0393,Docker,It & Tech,PRODUCT MANAGER,Rabat
+OFF-0393,TypeScript,It & Tech,PRODUCT MANAGER,Rabat
 OFF-0394,Google Ads,,Resp. Commercial,Meknès
 OFF-0394,Email Marketing,,Resp. Commercial,Meknès
 OFF-0394,Excel,,Resp. Commercial,Meknès
-OFF-0394,Seo,,Resp. Commercial,Meknès
+OFF-0394,SEO,,Resp. Commercial,Meknès
 OFF-0394,Salesforce,,Resp. Commercial,Meknès
-OFF-0395,Ms Project,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0395,Gestion De Chantier,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0395,Béton Armé,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0395,Autocad,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0397,Sql,It & Tech,Data Scientist,Tanger
-OFF-0397,Git,It & Tech,Data Scientist,Tanger
-OFF-0397,Java,It & Tech,Data Scientist,Tanger
-OFF-0398,Analyse De Marché,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0398,Négociation,Commerce,Chargé Marketing Digital,Casablanca
-OFF-0399,Node.Js,It & Tech,Ux Designer,Tanger
-OFF-0399,Docker,It & Tech,Ux Designer,Tanger
-OFF-0399,Mongodb,It & Tech,Ux Designer,Tanger
-OFF-0399,Aws,It & Tech,Ux Designer,Tanger
-OFF-0399,React,It & Tech,Ux Designer,Tanger
-OFF-0400,Node.Js,It & Tech,Chef de Projet IT,Oujda
-OFF-0400,Javascript,It & Tech,Chef de Projet IT,Oujda
-OFF-0400,Typescript,It & Tech,Chef de Projet IT,Oujda
-OFF-0401,Revit,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0401,Autocad,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0401,Béton Armé,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0401,Gestion De Chantier,Btp,Ingénieur Génie Civil,Casablanca
-OFF-0402,Tensorflow,It & Tech,Développeur Frontend,Marrakech
-OFF-0402,Python,It & Tech,Développeur Frontend,Marrakech
-OFF-0404,Agile,It & Tech,Administrateur Système,Casablanca
-OFF-0404,Scrum,It & Tech,Administrateur Système,Casablanca
-OFF-0404,Kubernetes,It & Tech,Administrateur Système,Casablanca
-OFF-0404,Git,It & Tech,Administrateur Système,Casablanca
-OFF-0404,Rest Api,It & Tech,Administrateur Système,Casablanca
-OFF-0405,Node.Js,It & Tech,Chef de Projet IT,Rabat
-OFF-0405,Kubernetes,It & Tech,Chef de Projet IT,Rabat
-OFF-0405,Rest Api,It & Tech,Chef de Projet IT,Rabat
-OFF-0405,Agile,It & Tech,Chef de Projet IT,Rabat
-OFF-0405,Scrum,It & Tech,Chef de Projet IT,Rabat
-OFF-0406,Power Bi,,Développeur Backend,Rabat
-OFF-0406,Typescript,,Développeur Backend,Rabat
-OFF-0406,Kubernetes,,Développeur Backend,Rabat
-OFF-0406,Javascript,,Développeur Backend,Rabat
-OFF-0407,Google Ads,,Community Manager,Marrakech
-OFF-0407,Analyse De Marché,,Community Manager,Marrakech
-OFF-0408,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Meknès
-OFF-0408,Accueil Client,Tourisme,Réceptionniste Hôtel,Meknès
-OFF-0408,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Meknès
-OFF-0409,Droit Du Travail,Finance & Rh,Gestionnaire de Paie,Casablanca
-OFF-0409,Sap,Finance & Rh,Gestionnaire de Paie,Casablanca
-OFF-0409,Sage,Finance & Rh,Gestionnaire de Paie,Casablanca
-OFF-0409,Excel Avancé,Finance & Rh,Gestionnaire de Paie,Casablanca
-OFF-0410,Docker,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0410,Git,It & Tech,Cybersécurité Analyst,Casablanca
-OFF-0411,Ifrs,Finance & Rh,Responsable RH,Rabat
-OFF-0411,Audit,Finance & Rh,Responsable RH,Rabat
-OFF-0411,Droit Du Travail,Finance & Rh,Responsable RH,Rabat
-OFF-0412,Audit,Finance & Rh,Analyste Financier,Rabat
-OFF-0412,Ifrs,Finance & Rh,Analyste Financier,Rabat
-OFF-0412,Sap,Finance & Rh,Analyste Financier,Rabat
-OFF-0412,Paie,Finance & Rh,Analyste Financier,Rabat
-OFF-0412,Sage,Finance & Rh,Analyste Financier,Rabat
-OFF-0413,Tensorflow,It & Tech,Product Manager,Marrakech
-OFF-0413,React,It & Tech,Product Manager,Marrakech
-OFF-0414,Git,It & Tech,Administrateur Système,Casablanca
-OFF-0414,Agile,It & Tech,Administrateur Système,Casablanca
-OFF-0414,Scrum,It & Tech,Administrateur Système,Casablanca
-OFF-0415,Crm,Commerce,Resp. Commercial,Tanger
+OFF-0395,MS Project,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,Gestion de chantier,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,Béton armé,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,AutoCAD,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,MS Project,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,Gestion de chantier,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,Béton armé,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0395,AutoCAD,Btp,INGÉNIEUR GÉNIE CIVIL,Casablanca
+OFF-0397,SQL,It & Tech,Dta Scientist,Tanger
+OFF-0397,Git,It & Tech,Dta Scientist,Tanger
+OFF-0397,Java,It & Tech,Dta Scientist,Tanger
+OFF-0398,Analyse de marché,Commerce,Marketing Digital,Casablanca
+OFF-0398,Négociation,Commerce,Marketing Digital,Casablanca
+OFF-0399,"Node.js, Docker, MongoDB, AWS, React",It & Tech,UX Designer,Tanger
+OFF-0400,Node.js,It & Tech,CHEF DE PROJET IT,Oujda
+OFF-0400,JavaScript,It & Tech,CHEF DE PROJET IT,Oujda
+OFF-0400,TypeScript,It & Tech,CHEF DE PROJET IT,Oujda
+OFF-0401,Revit,Btp,Ingénieur civil,Casablanca
+OFF-0401,AutoCAD,Btp,Ingénieur civil,Casablanca
+OFF-0401,Béton armé,Btp,Ingénieur civil,Casablanca
+OFF-0401,Gestion de chantier,Btp,Ingénieur civil,Casablanca
+OFF-0402,TensorFlow,It & Tech,dev frontend,Marrakech
+OFF-0402,Python,It & Tech,dev frontend,Marrakech
+OFF-0404,Agile/Scrum / Kubernetes / Git / REST API,It & Tech,Admin Système,Casablanca
+OFF-0405,Node.js,It & Tech,CHEF DE PROJET IT,Rabat
+OFF-0405,Kubernetes,It & Tech,CHEF DE PROJET IT,Rabat
+OFF-0405,REST API,It & Tech,CHEF DE PROJET IT,Rabat
+OFF-0405,Agile/Scrum,It & Tech,CHEF DE PROJET IT,Rabat
+OFF-0406,POWER BI,,backend developer,Rabat
+OFF-0406,TYPESCRIPT,,backend developer,Rabat
+OFF-0406,KUBERNETES,,backend developer,Rabat
+OFF-0406,JAVASCRIPT,,backend developer,Rabat
+OFF-0407,Google Ads,,CM,Marrakech
+OFF-0407,Analyse de marché,,CM,Marrakech
+OFF-0408,"Langues étrangères, Accueil client, Gestion réservations",Tourisme,Réceptionniste hôtel,Meknès
+OFF-0409,Droit du travail,Finance & Rh,gestionnaire de paie,Casablanca
+OFF-0409,SAP,Finance & Rh,gestionnaire de paie,Casablanca
+OFF-0409,SAGE,Finance & Rh,gestionnaire de paie,Casablanca
+OFF-0409,Excel avancé,Finance & Rh,gestionnaire de paie,Casablanca
+OFF-0410,"Docker, Git",It & Tech,Cybersecurity,Casablanca
+OFF-0411,IFRS / Audit / Droit du travail,Finance & Rh,DRH,Rabat
+OFF-0412,Audit,Finance & Rh,Analyste Finance,Rabat
+OFF-0412,IFRS,Finance & Rh,Analyste Finance,Rabat
+OFF-0412,SAP,Finance & Rh,Analyste Finance,Rabat
+OFF-0412,Paie,Finance & Rh,Analyste Finance,Rabat
+OFF-0412,SAGE,Finance & Rh,Analyste Finance,Rabat
+OFF-0413,TensorFlow / React,It & Tech,PM,Marrakech
+OFF-0414,Git,It & Tech,Sysadmin,Casablanca
+OFF-0414,Agile/Scrum,It & Tech,Sysadmin,Casablanca
+OFF-0415,CRM,Commerce,Resp. Commercial,Tanger
 OFF-0415,Négociation,Commerce,Resp. Commercial,Tanger
 OFF-0415,Google Ads,Commerce,Resp. Commercial,Tanger
 OFF-0415,Email Marketing,Commerce,Resp. Commercial,Tanger
-OFF-0416,Plc,Industrie,Responsable Qualité,Casablanca
-OFF-0416,Scada,Industrie,Responsable Qualité,Casablanca
-OFF-0416,Lean Manufacturing,Industrie,Responsable Qualité,Casablanca
-OFF-0416,Solidworks,Industrie,Responsable Qualité,Casablanca
-OFF-0416,Iso 9001,Industrie,Responsable Qualité,Casablanca
-OFF-0417,Python,It & Tech,DevOps Engineer,Marrakech
-OFF-0417,Kubernetes,It & Tech,DevOps Engineer,Marrakech
-OFF-0417,Aws,It & Tech,DevOps Engineer,Marrakech
-OFF-0417,Mongodb,It & Tech,DevOps Engineer,Marrakech
-OFF-0417,Java,It & Tech,DevOps Engineer,Marrakech
-OFF-0418,Sql,It & Tech,Développeur Backend,Tanger
-OFF-0418,Docker,It & Tech,Développeur Backend,Tanger
-OFF-0419,Amdec,Industrie,Responsable Qualité,Tanger
-OFF-0419,Iso 9001,Industrie,Responsable Qualité,Tanger
-OFF-0419,Plc,Industrie,Responsable Qualité,Tanger
-OFF-0419,Scada,Industrie,Responsable Qualité,Tanger
-OFF-0420,Azure,It & Tech,Administrateur Système,Casablanca
-OFF-0420,Tensorflow,It & Tech,Administrateur Système,Casablanca
-OFF-0420,Aws,It & Tech,Administrateur Système,Casablanca
-OFF-0420,Rest Api,It & Tech,Administrateur Système,Casablanca
-OFF-0421,Kubernetes,,Chef de Projet IT,Tanger
-OFF-0421,Node.Js,,Chef de Projet IT,Tanger
-OFF-0421,Git,,Chef de Projet IT,Tanger
-OFF-0421,React,,Chef de Projet IT,Tanger
-OFF-0422,Excel Avancé,Finance & Rh,Analyste Financier,Marrakech
-OFF-0422,Consolidation,Finance & Rh,Analyste Financier,Marrakech
-OFF-0422,Sap,Finance & Rh,Analyste Financier,Marrakech
-OFF-0423,Salesforce,Commerce,Chargé Marketing,Marrakech
-OFF-0423,Email Marketing,Commerce,Chargé Marketing,Marrakech
-OFF-0423,Crm,Commerce,Chargé Marketing,Marrakech
-OFF-0423,Google Ads,Commerce,Chargé Marketing,Marrakech
-OFF-0423,Excel,Commerce,Chargé Marketing,Marrakech
-OFF-0424,Soins Infirmiers,Santé,Infirmier,Tanger
-OFF-0424,Pharmacologie,Santé,Infirmier,Tanger
-OFF-0424,Éthique Médicale,Santé,Infirmier,Tanger
-OFF-0425,Excel Avancé,Finance & Rh,Comptable,Rabat
-OFF-0425,Sap,Finance & Rh,Comptable,Rabat
-OFF-0425,Consolidation,Finance & Rh,Comptable,Rabat
-OFF-0425,Paie,Finance & Rh,Comptable,Rabat
-OFF-0425,Audit,Finance & Rh,Comptable,Rabat
-OFF-0426,Git,It & Tech,Développeur Full Stack,Casablanca
-OFF-0426,Azure,It & Tech,Développeur Full Stack,Casablanca
-OFF-0427,Éthique Médicale,Santé,Médecin Généraliste,Tanger
-OFF-0427,Soins Infirmiers,Santé,Médecin Généraliste,Tanger
-OFF-0427,Diagnostic,Santé,Médecin Généraliste,Tanger
-OFF-0428,Linux,It & Tech,UX/UI Designer,Tanger
-OFF-0428,Javascript,It & Tech,UX/UI Designer,Tanger
-OFF-0428,Power Bi,It & Tech,UX/UI Designer,Tanger
-OFF-0429,Crm,Commerce,Community Manager,Fès
-OFF-0429,Google Ads,Commerce,Community Manager,Fès
-OFF-0429,Salesforce,Commerce,Community Manager,Fès
-OFF-0429,Email Marketing,Commerce,Community Manager,Fès
-OFF-0429,Analyse De Marché,Commerce,Community Manager,Fès
-OFF-0430,Typescript,It & Tech,Data-Scientist,Rabat
-OFF-0430,Python,It & Tech,Data-Scientist,Rabat
-OFF-0430,Mongodb,It & Tech,Data-Scientist,Rabat
-OFF-0431,Typescript,It & Tech,Administrateur Système,Tanger
-OFF-0431,Git,It & Tech,Administrateur Système,Tanger
-OFF-0432,Typescript,It & Tech,UX/UI Designer,Agadir
-OFF-0432,React,It & Tech,UX/UI Designer,Agadir
-OFF-0433,Diagnostic,Santé,Médecin Généraliste,Rabat
-OFF-0433,Pharmacologie,Santé,Médecin Généraliste,Rabat
-OFF-0433,Soins Infirmiers,Santé,Médecin Généraliste,Rabat
-OFF-0433,Éthique Médicale,Santé,Médecin Généraliste,Rabat
-OFF-0434,Soins Infirmiers,Santé,Infirmière,Rabat
-OFF-0434,Éthique Médicale,Santé,Infirmière,Rabat
-OFF-0434,Pharmacologie,Santé,Infirmière,Rabat
-OFF-0434,Diagnostic,Santé,Infirmière,Rabat
-OFF-0436,Soins Infirmiers,Santé,Infirmière,Meknès
-OFF-0436,Pharmacologie,Santé,Infirmière,Meknès
-OFF-0436,Éthique Médicale,Santé,Infirmière,Meknès
-OFF-0436,Diagnostic,Santé,Infirmière,Meknès
-OFF-0437,Excel Avancé,Finance & Rh,Auditeur Financier,Marrakech
-OFF-0437,Droit Du Travail,Finance & Rh,Auditeur Financier,Marrakech
-OFF-0437,Audit,Finance & Rh,Auditeur Financier,Marrakech
-OFF-0437,Paie,Finance & Rh,Auditeur Financier,Marrakech
-OFF-0438,Sql,It & Tech,Product Manager,Casablanca
-OFF-0438,Rest Api,It & Tech,Product Manager,Casablanca
-OFF-0438,Java,It & Tech,Product Manager,Casablanca
-OFF-0438,Agile,It & Tech,Product Manager,Casablanca
-OFF-0438,Scrum,It & Tech,Product Manager,Casablanca
-OFF-0438,Azure,It & Tech,Product Manager,Casablanca
-OFF-0439,Kubernetes,It & Tech,Ml Ingénieur,Agadir
-OFF-0439,Power Bi,It & Tech,Ml Ingénieur,Agadir
-OFF-0440,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0440,Accueil Client,Tourisme,Réceptionniste Hôtel,Casablanca
-OFF-0441,Amdec,Industrie,Responsable Qualité,Marrakech
-OFF-0441,Iso 9001,Industrie,Responsable Qualité,Marrakech
-OFF-0442,Soins Infirmiers,Santé,Pharmacien,Casablanca
-OFF-0442,Pharmacologie,Santé,Pharmacien,Casablanca
-OFF-0442,Diagnostic,Santé,Pharmacien,Casablanca
-OFF-0442,Éthique Médicale,Santé,Pharmacien,Casablanca
-OFF-0443,Consolidation,Finance & Rh,Responsable RH,Rabat
-OFF-0443,Paie,Finance & Rh,Responsable RH,Rabat
-OFF-0444,Consolidation,Finance & Rh,Analyste Financier,Rabat
-OFF-0444,Sap,Finance & Rh,Analyste Financier,Rabat
-OFF-0445,Soins Infirmiers,Santé,Infirmier(ère),Tétouan
-OFF-0445,Éthique Médicale,Santé,Infirmier(ère),Tétouan
-OFF-0445,Diagnostic,Santé,Infirmier(ère),Tétouan
-OFF-0445,Pharmacologie,Santé,Infirmier(ère),Tétouan
-OFF-0446,Accueil Client,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0446,Pack Office,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0446,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0446,Gestion Réservations,Tourisme,Réceptionniste Hôtel,Rabat
-OFF-0447,Sap,Finance & Rh,Responsable RH,Agadir
-OFF-0447,Ifrs,Finance & Rh,Responsable RH,Agadir
-OFF-0447,Sage,Finance & Rh,Responsable RH,Agadir
-OFF-0447,Consolidation,Finance & Rh,Responsable RH,Agadir
-OFF-0447,Audit,Finance & Rh,Responsable RH,Agadir
-OFF-0448,Éthique Médicale,Santé,Infirmier(ère),Rabat
-OFF-0448,Soins Infirmiers,Santé,Infirmier(ère),Rabat
-OFF-0448,Diagnostic,Santé,Infirmier(ère),Rabat
-OFF-0449,Mongodb,It & Tech,Cyber Analyst,Marrakech
-OFF-0449,Java,It & Tech,Cyber Analyst,Marrakech
-OFF-0449,Typescript,It & Tech,Cyber Analyst,Marrakech
-OFF-0450,Soins Infirmiers,Santé,Infirmière,Casablanca
-OFF-0450,Éthique Médicale,Santé,Infirmière,Casablanca
-OFF-0450,Pharmacologie,Santé,Infirmière,Casablanca
-OFF-0450,Diagnostic,Santé,Infirmière,Casablanca
-OFF-0451,React,It & Tech,Administrateur Système,Tanger
-OFF-0451,Git,It & Tech,Administrateur Système,Tanger
-OFF-0451,Linux,It & Tech,Administrateur Système,Tanger
-OFF-0452,Azure,It & Tech,Data Engineer,Tanger
-OFF-0452,Agile,It & Tech,Data Engineer,Tanger
-OFF-0452,Scrum,It & Tech,Data Engineer,Tanger
-OFF-0452,Linux,It & Tech,Data Engineer,Tanger
-OFF-0452,React,It & Tech,Data Engineer,Tanger
-OFF-0453,Audit,Finance & Rh,Auditeur Financier,Tanger
-OFF-0453,Ifrs,Finance & Rh,Auditeur Financier,Tanger
-OFF-0453,Excel Avancé,Finance & Rh,Auditeur Financier,Tanger
-OFF-0453,Paie,Finance & Rh,Auditeur Financier,Tanger
-OFF-0454,Tensorflow,It & Tech,Ing. Réseau,Agadir
-OFF-0454,Javascript,It & Tech,Ing. Réseau,Agadir
-OFF-0454,Azure,It & Tech,Ing. Réseau,Agadir
-OFF-0455,Audit,Finance & Rh,Analyste Financier,Casablanca
-OFF-0455,Droit Du Travail,Finance & Rh,Analyste Financier,Casablanca
-OFF-0455,Ifrs,Finance & Rh,Analyste Financier,Casablanca
-OFF-0455,Sage,Finance & Rh,Analyste Financier,Casablanca
-OFF-0455,Consolidation,Finance & Rh,Analyste Financier,Casablanca
-OFF-0456,Audit,Finance & Rh,Auditeur Financier,Rabat
-OFF-0456,Paie,Finance & Rh,Auditeur Financier,Rabat
-OFF-0456,Excel Avancé,Finance & Rh,Auditeur Financier,Rabat
-OFF-0456,Ifrs,Finance & Rh,Auditeur Financier,Rabat
-OFF-0456,Sage,Finance & Rh,Auditeur Financier,Rabat
-OFF-0457,Plc,Industrie,Ing Production,Casablanca
-OFF-0457,Scada,Industrie,Ing Production,Casablanca
-OFF-0457,Lean Manufacturing,Industrie,Ing Production,Casablanca
-OFF-0457,Iso 9001,Industrie,Ing Production,Casablanca
-OFF-0458,Iso 9001,Industrie,Technicien Maintenance,Agadir
-OFF-0458,Plc,Industrie,Technicien Maintenance,Agadir
-OFF-0458,Scada,Industrie,Technicien Maintenance,Agadir
-OFF-0458,Amdec,Industrie,Technicien Maintenance,Agadir
-OFF-0459,Ifrs,,Analyste Financier,Tanger
-OFF-0459,Sap,,Analyste Financier,Tanger
-OFF-0460,Langues Étrangères,Tourisme,Guide Touristique,Oujda
-OFF-0460,Accueil Client,Tourisme,Guide Touristique,Oujda
-OFF-0461,Autocad,Btp,Ingénieur Génie Civil,Fès
-OFF-0461,Béton Armé,Btp,Ingénieur Génie Civil,Fès
-OFF-0462,Node.Js,It & Tech,Administrateur Système,Marrakech
-OFF-0462,Kubernetes,It & Tech,Administrateur Système,Marrakech
-OFF-0462,Linux,It & Tech,Administrateur Système,Marrakech
-OFF-0462,Azure,It & Tech,Administrateur Système,Marrakech
-OFF-0463,Sage,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0463,Ifrs,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0463,Droit Du Travail,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0463,Paie,Finance & Rh,Contrôleur de Gestion,Casablanca
-OFF-0464,Typescript,It & Tech,Data Scientist,Oujda
-OFF-0464,Kubernetes,It & Tech,Data Scientist,Oujda
-OFF-0464,Javascript,It & Tech,Data Scientist,Oujda
-OFF-0464,Aws,It & Tech,Data Scientist,Oujda
-OFF-0464,Agile,It & Tech,Data Scientist,Oujda
-OFF-0464,Scrum,It & Tech,Data Scientist,Oujda
-OFF-0465,Négociation,Commerce,Community Manager,Casablanca
-OFF-0465,Crm,Commerce,Community Manager,Casablanca
-OFF-0466,Aws,It & Tech,UX/UI Designer,Casablanca
-OFF-0466,Tensorflow,It & Tech,UX/UI Designer,Casablanca
-OFF-0466,Node.Js,It & Tech,UX/UI Designer,Casablanca
-OFF-0466,Azure,It & Tech,UX/UI Designer,Casablanca
-OFF-0466,Git,It & Tech,UX/UI Designer,Casablanca
-OFF-0467,Diagnostic,Santé,Pharmacien,Rabat
-OFF-0467,Pharmacologie,Santé,Pharmacien,Rabat
-OFF-0467,Soins Infirmiers,Santé,Pharmacien,Rabat
-OFF-0467,Éthique Médicale,Santé,Pharmacien,Rabat
-OFF-0468,Sql,It & Tech,Développeur Backend,Tanger
-OFF-0468,Power Bi,It & Tech,Développeur Backend,Tanger
-OFF-0468,Docker,It & Tech,Développeur Backend,Tanger
-OFF-0469,Audit,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0469,Droit Du Travail,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0469,Excel Avancé,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0469,Sage,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0469,Sap,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0470,Sage,Finance & Rh,Responsable RH,Casablanca
-OFF-0470,Consolidation,Finance & Rh,Responsable RH,Casablanca
-OFF-0470,Audit,Finance & Rh,Responsable RH,Casablanca
-OFF-0470,Paie,Finance & Rh,Responsable RH,Casablanca
-OFF-0471,Git,It & Tech,ML Engineer,Casablanca
-OFF-0471,Aws,It & Tech,ML Engineer,Casablanca
-OFF-0471,Java,It & Tech,ML Engineer,Casablanca
-OFF-0472,Audit,Finance & Rh,Comptable,Casablanca
-OFF-0472,Droit Du Travail,Finance & Rh,Comptable,Casablanca
-OFF-0472,Sage,Finance & Rh,Comptable,Casablanca
-OFF-0472,Sap,Finance & Rh,Comptable,Casablanca
-OFF-0472,Paie,Finance & Rh,Comptable,Casablanca
-OFF-0474,Paie,Finance & Rh,Gestionnaire de Paie,Rabat
-OFF-0474,Sage,Finance & Rh,Gestionnaire de Paie,Rabat
-OFF-0475,Accueil Client,Tourisme,Guide Touristique,Casablanca
-OFF-0475,Langues Étrangères,Tourisme,Guide Touristique,Casablanca
-OFF-0476,Aws,It & Tech,ML Engineer,Meknès
-OFF-0476,Mongodb,It & Tech,ML Engineer,Meknès
-OFF-0476,Typescript,It & Tech,ML Engineer,Meknès
+OFF-0416,PLC/SCADA - Lean Manufacturing - SolidWorks - ISO 9001,Industrie,Responsable qualité,Casablanca
+OFF-0417,Python,It & Tech,DEVOPS ENGINEER,Marrakech
+OFF-0417,Kubernetes,It & Tech,DEVOPS ENGINEER,Marrakech
+OFF-0417,AWS,It & Tech,DEVOPS ENGINEER,Marrakech
+OFF-0417,MongoDB,It & Tech,DEVOPS ENGINEER,Marrakech
+OFF-0417,Java,It & Tech,DEVOPS ENGINEER,Marrakech
+OFF-0418,SQL,It & Tech,backend dev,Tanger
+OFF-0418,Docker,It & Tech,backend dev,Tanger
+OFF-0419,AMDEC,Industrie,Quality Manager,Tanger
+OFF-0419,ISO 9001,Industrie,Quality Manager,Tanger
+OFF-0419,PLC/SCADA,Industrie,Quality Manager,Tanger
+OFF-0420,Azure,It & Tech,Administrateur sys,Casablanca
+OFF-0420,TensorFlow,It & Tech,Administrateur sys,Casablanca
+OFF-0420,AWS,It & Tech,Administrateur sys,Casablanca
+OFF-0420,REST API,It & Tech,Administrateur sys,Casablanca
+OFF-0421,Kubernetes,,chef de projet,Tanger
+OFF-0421,Node.js,,chef de projet,Tanger
+OFF-0421,Git,,chef de projet,Tanger
+OFF-0421,React,,chef de projet,Tanger
+OFF-0422,"Excel avancé, Consolidation, SAP",Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0423,"Salesforce, Email Marketing, CRM, Google Ads, Excel",Commerce,chargé marketing,Marrakech
+OFF-0424,Soins infirmiers,Santé,INFIRMIER,Tanger
+OFF-0424,Pharmacologie,Santé,INFIRMIER,Tanger
+OFF-0424,Éthique médicale,Santé,INFIRMIER,Tanger
+OFF-0425,Excel avancé,Finance & Rh,comptable junior,Rabat
+OFF-0425,SAP,Finance & Rh,comptable junior,Rabat
+OFF-0425,Consolidation,Finance & Rh,comptable junior,Rabat
+OFF-0425,Paie,Finance & Rh,comptable junior,Rabat
+OFF-0425,Audit,Finance & Rh,comptable junior,Rabat
+OFF-0426,"Git, Azure",It & Tech,Dev Full Stack,Casablanca
+OFF-0427,Éthique médicale / Soins infirmiers / Diagnostic,Santé,Médecin,Tanger
+OFF-0428,Linux,It & Tech,UX UI Designer,Tanger
+OFF-0428,JavaScript,It & Tech,UX UI Designer,Tanger
+OFF-0428,Power BI,It & Tech,UX UI Designer,Tanger
+OFF-0429,CRM,Commerce,Community manager,Fès
+OFF-0429,Google Ads,Commerce,Community manager,Fès
+OFF-0429,Salesforce,Commerce,Community manager,Fès
+OFF-0429,Email Marketing,Commerce,Community manager,Fès
+OFF-0429,Analyse de marché,Commerce,Community manager,Fès
+OFF-0430,TypeScript - Python - MongoDB,It & Tech,data-scientist,Rabat
+OFF-0431,TypeScript,It & Tech,SysAdmin,Tanger
+OFF-0431,Git,It & Tech,SysAdmin,Tanger
+OFF-0432,TypeScript,It & Tech,UXUI Designer,Agadir
+OFF-0432,React,It & Tech,UXUI Designer,Agadir
+OFF-0433,"Diagnostic, Pharmacologie, Soins infirmiers, Éthique médicale",Santé,Docteur,Rabat
+OFF-0434,Soins infirmiers,Santé,infirmière,Rabat
+OFF-0434,Éthique médicale,Santé,infirmière,Rabat
+OFF-0434,Pharmacologie,Santé,infirmière,Rabat
+OFF-0434,Diagnostic,Santé,infirmière,Rabat
+OFF-0436,"Soins infirmiers, Pharmacologie, Éthique médicale, Diagnostic",Santé,infirmière,Meknès
+OFF-0437,Excel avancé,Finance & Rh,Audit Financier,Marrakech
+OFF-0437,Droit du travail,Finance & Rh,Audit Financier,Marrakech
+OFF-0437,Audit,Finance & Rh,Audit Financier,Marrakech
+OFF-0437,Paie,Finance & Rh,Audit Financier,Marrakech
+OFF-0438,SQL,It & Tech,PRODUCT MANAGER,Casablanca
+OFF-0438,REST API,It & Tech,PRODUCT MANAGER,Casablanca
+OFF-0438,Java,It & Tech,PRODUCT MANAGER,Casablanca
+OFF-0438,Agile/Scrum,It & Tech,PRODUCT MANAGER,Casablanca
+OFF-0438,Azure,It & Tech,PRODUCT MANAGER,Casablanca
+OFF-0439,Kubernetes,It & Tech,ML Ingénieur,Agadir
+OFF-0439,Power BI,It & Tech,ML Ingénieur,Agadir
+OFF-0440,Gestion réservations,Tourisme,receptionniste hotel,Casablanca
+OFF-0440,Accueil client,Tourisme,receptionniste hotel,Casablanca
+OFF-0441,AMDEC / ISO 9001,Industrie,RESPONSABLE QUALITE,Marrakech
+OFF-0442,Soins infirmiers,Santé,pharmacien,Casablanca
+OFF-0442,Pharmacologie,Santé,pharmacien,Casablanca
+OFF-0442,Diagnostic,Santé,pharmacien,Casablanca
+OFF-0442,Éthique médicale,Santé,pharmacien,Casablanca
+OFF-0443,Consolidation,Finance & Rh,HR Manager,Rabat-Salé
+OFF-0443,Paie,Finance & Rh,HR Manager,Rabat-Salé
+OFF-0444,Consolidation,Finance & Rh,Analyste Finance,Rabat
+OFF-0444,SAP,Finance & Rh,Analyste Finance,Rabat
+OFF-0445,Soins infirmiers,Santé,Infirmier/ère,Tétouan
+OFF-0445,Éthique médicale,Santé,Infirmier/ère,Tétouan
+OFF-0445,Diagnostic,Santé,Infirmier/ère,Tétouan
+OFF-0445,Pharmacologie,Santé,Infirmier/ère,Tétouan
+OFF-0446,Accueil client,Tourisme,RÉCEPTIONNISTE,Rabat
+OFF-0446,Pack Office,Tourisme,RÉCEPTIONNISTE,Rabat
+OFF-0446,Langues étrangères,Tourisme,RÉCEPTIONNISTE,Rabat
+OFF-0446,Gestion réservations,Tourisme,RÉCEPTIONNISTE,Rabat
+OFF-0447,SAP,Finance & Rh,HR Manager,Agadir
+OFF-0447,IFRS,Finance & Rh,HR Manager,Agadir
+OFF-0447,SAGE,Finance & Rh,HR Manager,Agadir
+OFF-0447,Consolidation,Finance & Rh,HR Manager,Agadir
+OFF-0447,Audit,Finance & Rh,HR Manager,Agadir
+OFF-0448,Éthique médicale / Soins infirmiers / Diagnostic,Santé,Infirmier/ère,Rabat
+OFF-0449,MongoDB - Java - TypeScript,It & Tech,cyber analyst,Marrakech
+OFF-0450,"Soins infirmiers, Éthique médicale, Pharmacologie, Diagnostic",Santé,infirmière,Casablanca
+OFF-0451,React,It & Tech,Admin Système,Tanger
+OFF-0451,Git,It & Tech,Admin Système,Tanger
+OFF-0451,Linux,It & Tech,Admin Système,Tanger
+OFF-0452,Azure - Agile/Scrum - Linux - React,It & Tech,DATA ENGINEER,Tanger
+OFF-0453,Audit,Finance & Rh,Audit Financier,Tanger
+OFF-0453,IFRS,Finance & Rh,Audit Financier,Tanger
+OFF-0453,Excel avancé,Finance & Rh,Audit Financier,Tanger
+OFF-0453,Paie,Finance & Rh,Audit Financier,Tanger
+OFF-0454,TensorFlow,It & Tech,ING. RÉSEAU,Agadir
+OFF-0454,JavaScript,It & Tech,ING. RÉSEAU,Agadir
+OFF-0454,Azure,It & Tech,ING. RÉSEAU,Agadir
+OFF-0455,Audit,Finance & Rh,analyste financier,Casablanca
+OFF-0455,Droit du travail,Finance & Rh,analyste financier,Casablanca
+OFF-0455,IFRS,Finance & Rh,analyste financier,Casablanca
+OFF-0455,SAGE,Finance & Rh,analyste financier,Casablanca
+OFF-0455,Consolidation,Finance & Rh,analyste financier,Casablanca
+OFF-0456,"Audit, Paie, Excel avancé, IFRS, SAGE",Finance & Rh,AUDITEUR,Rabat
+OFF-0457,PLC/SCADA,Industrie,ing production,Casablanca
+OFF-0457,Lean Manufacturing,Industrie,ing production,Casablanca
+OFF-0457,ISO 9001,Industrie,ing production,Casablanca
+OFF-0458,ISO 9001,Industrie,tech maintenance,Agadir-Ida
+OFF-0458,PLC/SCADA,Industrie,tech maintenance,Agadir-Ida
+OFF-0458,AMDEC,Industrie,tech maintenance,Agadir-Ida
+OFF-0459,IFRS,,analyste financier,Tanger
+OFF-0459,SAP,,analyste financier,Tanger
+OFF-0460,Langues étrangères,Tourisme,guide,Oujda
+OFF-0460,Accueil client,Tourisme,guide,Oujda
+OFF-0461,AutoCAD,Btp,INGÉNIEUR GÉNIE CIVIL,Fès
+OFF-0461,Béton armé,Btp,INGÉNIEUR GÉNIE CIVIL,Fès
+OFF-0462,Node.js,It & Tech,SysAdmin,Marrakech
+OFF-0462,Kubernetes,It & Tech,SysAdmin,Marrakech
+OFF-0462,Linux,It & Tech,SysAdmin,Marrakech
+OFF-0462,Azure,It & Tech,SysAdmin,Marrakech
+OFF-0463,SAGE,Finance & Rh,CONTROLEUR DE GESTION,Casablanca
+OFF-0463,IFRS,Finance & Rh,CONTROLEUR DE GESTION,Casablanca
+OFF-0463,Droit du travail,Finance & Rh,CONTROLEUR DE GESTION,Casablanca
+OFF-0463,Paie,Finance & Rh,CONTROLEUR DE GESTION,Casablanca
+OFF-0464,TypeScript,It & Tech,data scientist,Oujda
+OFF-0464,Kubernetes,It & Tech,data scientist,Oujda
+OFF-0464,JavaScript,It & Tech,data scientist,Oujda
+OFF-0464,AWS,It & Tech,data scientist,Oujda
+OFF-0464,Agile/Scrum,It & Tech,data scientist,Oujda
+OFF-0465,Négociation,Commerce,Community manager,Casablanca
+OFF-0465,CRM,Commerce,Community manager,Casablanca
+OFF-0466,AWS,It & Tech,UXUI Designer,Casablanca
+OFF-0466,TensorFlow,It & Tech,UXUI Designer,Casablanca
+OFF-0466,Node.js,It & Tech,UXUI Designer,Casablanca
+OFF-0466,Azure,It & Tech,UXUI Designer,Casablanca
+OFF-0466,Git,It & Tech,UXUI Designer,Casablanca
+OFF-0467,Diagnostic,Santé,pharmacien,Rabat
+OFF-0467,Pharmacologie,Santé,pharmacien,Rabat
+OFF-0467,Soins infirmiers,Santé,pharmacien,Rabat
+OFF-0467,Éthique médicale,Santé,pharmacien,Rabat
+OFF-0468,"SQL, Power BI, Docker",It & Tech,backend developer,Tanger
+OFF-0469,Audit,Finance & Rh,auditeur financier,Casablanca
+OFF-0469,Droit du travail,Finance & Rh,auditeur financier,Casablanca
+OFF-0469,Excel avancé,Finance & Rh,auditeur financier,Casablanca
+OFF-0469,SAGE,Finance & Rh,auditeur financier,Casablanca
+OFF-0469,SAP,Finance & Rh,auditeur financier,Casablanca
+OFF-0470,SAGE,Finance & Rh,HR Manager,Casablanca
+OFF-0470,Consolidation,Finance & Rh,HR Manager,Casablanca
+OFF-0470,Audit,Finance & Rh,HR Manager,Casablanca
+OFF-0470,Paie,Finance & Rh,HR Manager,Casablanca
+OFF-0471,Git,It & Tech,Ingénieur ML,Casablanca
+OFF-0471,AWS,It & Tech,Ingénieur ML,Casablanca
+OFF-0471,Java,It & Tech,Ingénieur ML,Casablanca
+OFF-0472,Audit,Finance & Rh,comptable junior,Casablanca
+OFF-0472,Droit du travail,Finance & Rh,comptable junior,Casablanca
+OFF-0472,SAGE,Finance & Rh,comptable junior,Casablanca
+OFF-0472,SAP,Finance & Rh,comptable junior,Casablanca
+OFF-0472,Paie,Finance & Rh,comptable junior,Casablanca
+OFF-0472,Audit,Finance & Rh,comptable junior,Casablanca
+OFF-0472,Droit du travail,Finance & Rh,comptable junior,Casablanca
+OFF-0472,SAGE,Finance & Rh,comptable junior,Casablanca
+OFF-0472,SAP,Finance & Rh,comptable junior,Casablanca
+OFF-0472,Paie,Finance & Rh,comptable junior,Casablanca
+OFF-0474,"Paie, SAGE",Finance & Rh,Paie Manager,Rabat
+OFF-0475,"Accueil client, Langues étrangères",Tourisme,guide touristique,Casablanca
+OFF-0476,AWS,It & Tech,Machine Learning Engineer,Meknès
+OFF-0476,MongoDB,It & Tech,Machine Learning Engineer,Meknès
+OFF-0476,TypeScript,It & Tech,Machine Learning Engineer,Meknès
 OFF-0478,Azure,It & Tech,Dév. Full Stack,Casablanca
 OFF-0478,Docker,It & Tech,Dév. Full Stack,Casablanca
-OFF-0478,Power Bi,It & Tech,Dév. Full Stack,Casablanca
-OFF-0478,Node.Js,It & Tech,Dév. Full Stack,Casablanca
+OFF-0478,Power BI,It & Tech,Dév. Full Stack,Casablanca
+OFF-0478,Node.js,It & Tech,Dév. Full Stack,Casablanca
 OFF-0478,Java,It & Tech,Dév. Full Stack,Casablanca
-OFF-0479,Éthique Médicale,Santé,Pharmacien,Agadir
-OFF-0479,Diagnostic,Santé,Pharmacien,Agadir
-OFF-0481,Droit Du Travail,Finance & Rh,Analyste Financier,Marrakech
-OFF-0481,Paie,Finance & Rh,Analyste Financier,Marrakech
-OFF-0481,Sage,Finance & Rh,Analyste Financier,Marrakech
-OFF-0481,Consolidation,Finance & Rh,Analyste Financier,Marrakech
-OFF-0481,Excel Avancé,Finance & Rh,Analyste Financier,Marrakech
-OFF-0482,Pharmacologie,Santé,Médecin Généraliste,Casablanca
-OFF-0482,Soins Infirmiers,Santé,Médecin Généraliste,Casablanca
-OFF-0482,Diagnostic,Santé,Médecin Généraliste,Casablanca
-OFF-0482,Éthique Médicale,Santé,Médecin Généraliste,Casablanca
-OFF-0483,Audit,Finance & Rh,Analyste Financier,Rabat
-OFF-0483,Sap,Finance & Rh,Analyste Financier,Rabat
-OFF-0483,Sage,Finance & Rh,Analyste Financier,Rabat
-OFF-0484,Accueil Client,Tourisme,Guide Touristique,Casablanca
-OFF-0484,Pack Office,Tourisme,Guide Touristique,Casablanca
-OFF-0484,Langues Étrangères,Tourisme,Guide Touristique,Casablanca
-OFF-0484,Gestion Réservations,Tourisme,Guide Touristique,Casablanca
-OFF-0485,Email Marketing,Commerce,Chargé Marketing Digital,Rabat
-OFF-0485,Google Ads,Commerce,Chargé Marketing Digital,Rabat
-OFF-0486,Azure,It & Tech,Ing. Réseau,Tanger
-OFF-0486,React,It & Tech,Ing. Réseau,Tanger
-OFF-0486,Tensorflow,It & Tech,Ing. Réseau,Tanger
-OFF-0486,Python,It & Tech,Ing. Réseau,Tanger
-OFF-0488,Ifrs,Finance & Rh,Responsable RH,Meknès
-OFF-0488,Sage,Finance & Rh,Responsable RH,Meknès
-OFF-0488,Droit Du Travail,Finance & Rh,Responsable RH,Meknès
-OFF-0488,Consolidation,Finance & Rh,Responsable RH,Meknès
-OFF-0488,Audit,Finance & Rh,Responsable RH,Meknès
-OFF-0489,Pharmacologie,Santé,Infirmière,Agadir
-OFF-0489,Diagnostic,Santé,Infirmière,Agadir
-OFF-0489,Éthique Médicale,Santé,Infirmière,Agadir
-OFF-0490,Javascript,,Product Manager,Casablanca
-OFF-0490,React,,Product Manager,Casablanca
-OFF-0491,Autocad,Industrie,Technicien Maintenance,Kénitra
-OFF-0491,Lean Manufacturing,Industrie,Technicien Maintenance,Kénitra
-OFF-0491,Plc,Industrie,Technicien Maintenance,Kénitra
-OFF-0491,Scada,Industrie,Technicien Maintenance,Kénitra
-OFF-0492,Amdec,Industrie,Ing Production,Oujda
-OFF-0492,Iso 9001,Industrie,Ing Production,Oujda
-OFF-0493,Langues Étrangères,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0493,Pack Office,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0493,Accueil Client,Tourisme,Réceptionniste Hôtel,Tanger
-OFF-0494,Java,It & Tech,DevOps Engineer,Tétouan
-OFF-0494,Mongodb,It & Tech,DevOps Engineer,Tétouan
-OFF-0494,Rest Api,It & Tech,DevOps Engineer,Tétouan
-OFF-0495,Aws,It & Tech,Data Engneer,Casablanca
+OFF-0479,Éthique médicale,Santé,pharmacien,Agadir-Ida
+OFF-0479,Diagnostic,Santé,pharmacien,Agadir-Ida
+OFF-0481,"Droit du travail, Paie, SAGE, Consolidation, Excel avancé",Finance & Rh,ANALYSTE FINANCIER,Marrakech
+OFF-0482,Pharmacologie,Santé,Médecin,Casablanca
+OFF-0482,Soins infirmiers,Santé,Médecin,Casablanca
+OFF-0482,Diagnostic,Santé,Médecin,Casablanca
+OFF-0482,Éthique médicale,Santé,Médecin,Casablanca
+OFF-0483,Audit,Finance & Rh,analyste financier,Rabat
+OFF-0483,SAP,Finance & Rh,analyste financier,Rabat
+OFF-0483,SAGE,Finance & Rh,analyste financier,Rabat
+OFF-0484,Accueil client,Tourisme,Guide,Casablanca
+OFF-0484,Pack Office,Tourisme,Guide,Casablanca
+OFF-0484,Langues étrangères,Tourisme,Guide,Casablanca
+OFF-0484,Gestion réservations,Tourisme,Guide,Casablanca
+OFF-0485,Email Marketing,Commerce,MARKETING DIGITAL,Rabat-Salé
+OFF-0485,Google Ads,Commerce,MARKETING DIGITAL,Rabat-Salé
+OFF-0486,Azure,It & Tech,ING. RÉSEAU,Tanger
+OFF-0486,React,It & Tech,ING. RÉSEAU,Tanger
+OFF-0486,TensorFlow,It & Tech,ING. RÉSEAU,Tanger
+OFF-0486,Python,It & Tech,ING. RÉSEAU,Tanger
+OFF-0488,IFRS,Finance & Rh,RH Manager,Meknès
+OFF-0488,SAGE,Finance & Rh,RH Manager,Meknès
+OFF-0488,Droit du travail,Finance & Rh,RH Manager,Meknès
+OFF-0488,Consolidation,Finance & Rh,RH Manager,Meknès
+OFF-0488,Audit,Finance & Rh,RH Manager,Meknès
+OFF-0489,Pharmacologie,Santé,infirmière,Agadir
+OFF-0489,Diagnostic,Santé,infirmière,Agadir
+OFF-0489,Éthique médicale,Santé,infirmière,Agadir
+OFF-0490,JavaScript,,product manager,Casablanca
+OFF-0490,React,,product manager,Casablanca
+OFF-0491,AutoCAD / Lean Manufacturing / PLC/SCADA,Industrie,Technicien maintenance,Kénitra
+OFF-0492,"AMDEC, ISO 9001",Industrie,ing production,Oujda
+OFF-0493,Langues étrangères / Pack Office / Accueil client,Tourisme,RÉCEPTIONNISTE,Tanger
+OFF-0494,Java,It & Tech,DevOps Ingénieur,Tétouan
+OFF-0494,MongoDB,It & Tech,DevOps Ingénieur,Tétouan
+OFF-0494,REST API,It & Tech,DevOps Ingénieur,Tétouan
+OFF-0495,AWS,It & Tech,Data Engneer,Casablanca
 OFF-0495,Kubernetes,It & Tech,Data Engneer,Casablanca
 OFF-0495,Linux,It & Tech,Data Engneer,Casablanca
-OFF-0496,Aws,It & Tech,Cybersécurité Analyst,Tanger
-OFF-0496,Python,It & Tech,Cybersécurité Analyst,Tanger
-OFF-0498,Excel Avancé,Finance & Rh,Comptable,Casablanca
-OFF-0498,Consolidation,Finance & Rh,Comptable,Casablanca
-OFF-0498,Audit,Finance & Rh,Comptable,Casablanca
-OFF-0498,Sap,Finance & Rh,Comptable,Casablanca
-OFF-0498,Ifrs,Finance & Rh,Comptable,Casablanca
-OFF-0499,Plc,Industrie,Technicien Maintenance,Marrakech
-OFF-0499,Scada,Industrie,Technicien Maintenance,Marrakech
-OFF-0499,Autocad,Industrie,Technicien Maintenance,Marrakech
-OFF-0499,Amdec,Industrie,Technicien Maintenance,Marrakech
-OFF-0500,Droit Du Travail,Finance & Rh,Auditeur Financier,Casablanca
-OFF-0500,Sap,Finance & Rh,Auditeur Financier,Casablanca
+OFF-0496,AWS,It & Tech,Cybersécurité,Tanger
+OFF-0496,Python,It & Tech,Cybersécurité,Tanger
+OFF-0498,EXCEL AVANCÉ,Finance & Rh,comptable,Casablanca
+OFF-0498,CONSOLIDATION,Finance & Rh,comptable,Casablanca
+OFF-0498,AUDIT,Finance & Rh,comptable,Casablanca
+OFF-0498,SAP,Finance & Rh,comptable,Casablanca
+OFF-0498,IFRS,Finance & Rh,comptable,Casablanca
+OFF-0499,PLC/SCADA,Industrie,TECHNICIEN MAINTENANCE,Marrakech
+OFF-0499,AutoCAD,Industrie,TECHNICIEN MAINTENANCE,Marrakech
+OFF-0499,AMDEC,Industrie,TECHNICIEN MAINTENANCE,Marrakech
+OFF-0500,Droit du travail,Finance & Rh,AUDITEUR,Casablanca
+OFF-0500,SAP,Finance & Rh,AUDITEUR,Casablanca
+E042591,Construction - Rénovation,Autres,Superviseur Projets Stations - Mohammedia Avec Déplacements Fréquents,Casablanca
+E09822B,Gestion - Management,It & Tech,Chef de Projet IT,International
+E3B926A,Assistanat - Dossiers - Secrétariat - Suivi Administratif - Suivi des Dossiers,It & Tech,Gestionnaire de Paie,Casablanca
+EC1ACFD,Comptabilité - Finance - Gestion,Autres,Magasiner Dépôt H/F - Casablanca,Casablanca
+E1BE1A5,Chargement - Déchargement - Transport,Autres,Chauffeur Permis C - Nouaceur,Casablanca
+E3E5530,Négociation - Transport - Transport International - Vente,Commerce,Commercial B2B,Casablanca
+E898EA6,Maintenance - Production - Qualité,It & Tech,Peintre Automobile (Carrossier Peintre) - Kénitra,Rabat
+E0BD9D2,Administration du Personnel - Formation - Gestion RH,Autres,Chargé Marketing Digital,Casablanca
+E0946E9,Hygiène - Maintenance - Production - Qualité - Sécurité Alimentaire,Autres,Commis Cuisine Et Pâtisserie - Nouaceur,Casablanca
+ED2BF3C,Comptabilité - Finance - Gestion - Gestion des Encaissements - Gestion des Impayés - Recouvrement - Trésorerie,Finance & Rh,Chef de Projet IT,Casablanca
+E241A3E,Comptabilité Générale - Gestion des Factures - Recouvrement,It & Tech,Comptable,Casablanca
+ED47873,Assistanat - NET - Secrétariat,Autres,Archiviste - Casablanca,Casablanca
+E53FBF7,Électromécanique - Fluide - Maintenance - Maintenance Préventive - Production - Qualité,Industrie,Chef de Projet IT,Casablanca
+E1B3E96,Négociation - Stratégie Commerciale - Vente,It & Tech,Data Scientist,Casablanca
+EA10B28,Comptabilité - Écritures Comptables - Facturation - Finance - Gestion - Rapprochement Bancaire - Trésorerie,Finance & Rh,Comptable,Casablanca
+E858BA8,Maintenance - Production - Qualité,Autres,Peintre Bâtiment - Mohammedia,Casablanca
+E193641,Comptabilité - Finance - Gestion - Trésorerie,Finance & Rh,Comptable,Casablanca
+E8C64BB,Chargement - Colisage - Comptabilité - Déchargement - Export - Exportation - Finance - Gestion - Opérations Logistiques - Stockage - Transport,It & Tech,Agent Logistique - Chtouka Ait Baha,Agadir
+E069C87,Assistanat - Conservation - Documentation - Dossiers - Secrétariat,It & Tech,Responsable Qualité,Casablanca
+EA28792,AGILE - API - C# - CSS - FULL STACK - GIT - HTML - JAVA - JAVASCRIPT - LARAVEL - MYSQL - NET - REST - SPRING - SQL,Autres,Développeur Full Stack,Rabat
+E2BB93A,Commercialisation - Vente,Commerce,Commercial B2B,Casablanca
+E1DEFFC,Déchargement - Flux Logistiques - Gestion des Stocks - Rangement - Stockage - Stocks - Transport,Tourisme,Chef de Projet IT,Casablanca
+EC2072D,Chargement - Étiquetage - Expédition - Groupage - Transport,It & Tech,Chef de Projet IT,Casablanca
+EE0DB16,Livraison,It & Tech,Livreur - Quartier Des Hôpitaux,Casablanca
+E7F0C4D,Contrat d'Intérim - Nettoyage - Vente,Commerce,Responsable Commercial,Agadir
+EA0FA59,Accueil - Gestion Hôtelière - Hôtellerie - Restauration - Tourisme,Tourisme,Réceptionniste - Fès,Fès
+EEC7812,Communication RH - Formation - Gestion Administrative - Gestion des Ressources Humaines - Gestion RH - Recrutement,Finance & Rh,Chef de Projet IT,Rabat
+E575FCB,Conseil - Formation - Hôtellerie - Housekeeping - Nettoyage - Restauration - Secteur Hôtelier - Sécurité - Tourisme,Autres,Agent Lingerie - Marrakech,Marrakech
+E9C185E,Assemblage - Câblage - Maintenance - Montage - Production - Qualité,Autres,Opérateur Câblage - Berrechid,Casablanca
+E89A74B,Accueil - Assistanat - Assistance - Communication - Conseil - Facturation - Formation - Hôtellerie - Réception - Réception des Clients - Restauration - Secrétariat - Secteur Hôtelier - Service de Réception - Tourisme,Tourisme,Réceptionniste - Marrakech,Marrakech
+E81C455,Fabrication - Hôtellerie - Industrie - Maintenance - Production - Qualité - Restauration - Secteur Hôtelier - Tourisme,Autres,Peintre - Marrakech,Marrakech
+E82AA9A,Art Culinaire - Audit - Comptabilité - Comptabilité Analytique - Conciergerie - Cuisine - Finance - Gestion - Housekeeping - Rapports Financiers - Restauration - Secteur Hôtelier - Suivi Budgétaire - Techniques de Gestion - Tourisme,Finance & Rh,Contrôleur - Marrakech,Marrakech
+EBC356E,Appels Entrants - Assistanat - Secrétariat,It & Tech,Chargé(E) D´Accueil - Accueil Des Visiteurs (H/F) - Casablanca,Casablanca
+E6105E6,AUTOCAD - BTP - Instrumentation - PDMS,Autres,Projeteur Piping Confirmé - Casablanca,Casablanca
+E002776,AUTOCAD - BTP - Charpente - Charpente Métallique - Eurocodes - Mécanique - Montage - Sécurité - TEKLA,Autres,Projeteur En Charpente Métallique - Casablanca,Casablanca
+E2ABA8A,Vente,Autres,Adjoint Shift Magasin - Rabat,Rabat
+EC66A0C,Hydraulique - Maintenance - Maintenance Préventive - Production - Qualité,Industrie,Chef de Projet IT,Rabat
+E048522,Art Culinaire - Cuisine - Tourisme,Autres,Cuisinier - Oualidia,Casablanca
+E3E62A5,Tourisme,Autres,Caissier(E) - Oualidia,Casablanca
+E49B7D4,Accueil - Restauration - Tourisme,Autres,Polyvalent Restauration - Oualidia,Casablanca
+E683BA0,Automatisme - Électromécanique - Exploitation - Gestion de la Maintenance - Informatique Industrielle - Instrumentation - Maintenance - Maintenance Curative - Maintenance Préventive - Procédés - QSE - Qualité - Système QSE,Autres,Chef de Projet IT,Agadir
+E4B4CFA,Électrotechnique - Gestion de la Maintenance - Informatique Industrielle - Instrumentation - Maintenance - Maintenance Curative - Maintenance Préventive - Processus - Production - QSE - Qualité - Sécurité Industrielle - Système QSE,Industrie,Chef de Projet IT,Agadir
+E8D44A2,Contentieux - Droit - Risques Juridiques,Autres,Juriste Senior (Anglophone) - Casablanca,Casablanca
+E6B4B16,Vente,Commerce,Commercial B2B,Agadir
+EA19ABE,Comptabilité - Comptabilité Générale - Écritures Comptables - États Financiers - Finance - Gestion,Finance & Rh,Comptable,Béni Mellal
+E3AA533,Assurance Qualité - Homologation - Maintenance - Pharmacovigilance - Production - Qualité - Santé,Autres,Chargé(E) Des Affaires Réglementaires  - Aïn El Aouda,Rabat
+E5790A1,Formation - Gestion de la Paie - Processus de Recrutement - Recrutement - Suivi Administratif,Finance & Rh,Assistant Ressources Humaines (H/F) - Meknès,Béni Mellal
+ED7501E,Communication - Marketing - Stratégie Marketing - Techniques Marketing - Vente,It & Tech,Chef de Projet IT,Rabat
+EBB4469,Cuisine - Hôtellerie - Tourisme,Autres,Chef De Rang  - Marrakech,Marrakech
+E39D886,Transport,It & Tech,Responsable Qualité,Casablanca
+E388A01,Froid Industriel - Maintenance - Maintenance Préventive - Production - Qualité,Autres,Technicien Maintenance,Marrakech
+EBCCE0D,Chiffrage - Construction - Promotion Immobilière,Autres,Ingénieur Réseau,Agadir
+E0BEE53,Maintenance - Qualité,Autres,Product Manager,Agadir
+EB0A384,Communication RH - Formation - Gestion des Ressources Humaines - Processus RH - Recrutement,Finance & Rh,Stagiaire Ressources Humaines - Dar Bouazza,Casablanca
+E37FDCE,Dimensionnement,Autres,Technicien D’Études - Rabat,Rabat
+ECC7BF8,Développement Commercial - Vente,Autres,Chargé(E) Relation Client Whatsapp - Casablanca,Casablanca
+ED4A022,Achats - Dossiers Import - Gestion des Achats - Import - Magasinage - SAGE - Transport - Vente,Autres,Assistante Achat - Casablanca- Elbernoussi,Casablanca
+E186A9B,Hydraulique - Maintenance - Maintenance Corrective - Maintenance Industrielle - Maintenance Préventive - Pneumatique - Qualité,Industrie,Mécanicien D´Entretien En Intérim - Casablanca,Casablanca
+E0616E5,Analyse Physico-Chimique,Autres,Ingénieur Réseau,Casablanca
+EE2D332,Gestion - Management,It & Tech,Un(E) Acheteur(Se) - Kénitra,Rabat
+ECC8836,Achats - Approvisionnements - Gestion des Contrats - Négociation,Autres,Économe - Rabat,Rabat
+EB578B0,Analyse des Coûts - Audit - Comptabilité - Comptabilité Analytique - Comptabilité Générale - Finance - Gestion,Finance & Rh,Contrôleur de Gestion,Rabat
+E142950,BTP,Industrie,Technicien Maintenance,Casablanca
+E67A749,Facturation - SAGE - Vente,Autres,Chef de Projet IT,Casablanca
+E34800F,Vente,Commerce,Commercial B2B,Casablanca
+E8A3C8D,Hôtellerie - Pâtisserie - Tourisme,Autres,Chef Pâtissier  - Tanger,Tanger
+E976299,Achats - Comptabilité - Gestion - Gestion des Fournisseurs,Autres,Chef de Projet IT,Casablanca
+EF96F79,Électrotechnique - Équipement - Machines - Maintenance - Maintenance Industrielle - Maintenance Préventive - Mécanique Électrotechnique - Pneumatique - Production - Qualité - Réparation - Réparation Mécanique,Industrie,Ingénieur Réseau,Casablanca
+ED59646,Audit - Comptabilité - Controlling - Finance - Gestion - IFRS - Rapprochement Bancaire,Finance & Rh,Comptable,Rabat
+EFC608D,Fabrication - Maintenance - Maîtrise Technique - Production - Qualité,Autres,Conducteur de Travaux,Rabat
+E9D70A3,Brochures - Charte Graphique - Contenu Web - Digital Marketing - Infographie - Marketing - Marketing Digital - META - Multimédia - PHOTOSHOP - SEO - Stratégie Marketing - WEBDEV - WORDPRESS,Autres,Marketeur Full-Stack - Casablanca,Casablanca
+E2CBFE9,Maintenance - Montage - Production - Qualité,Autres,Responsable RH,Casablanca
+EAF8405,Comptabilité - Finance - Gestion,Finance & Rh,Comptable,Casablanca
+EDCDCCE,Maintenance - Maintenance Préventive - Production - Qualité,It & Tech,Ingénieur Réseau,Casablanca
+EDE5285,AUTOCAD - DIALUX - Dimensionnement - Éclairage - Génie Électrique,Autres,Technicien Maintenance,Rabat
+E23D7C9,Dimensionnement - Eurocodes,Btp,Ingénieur Réseau,Rabat
+EF7CD5D,Dimensionnement - Eurocodes,Autres,Ingénieur Réseau,Rabat
+E891438,Assistanat - Documentation - Maintenance - Production - Qualité - Secrétariat,Industrie,Technicien Maintenance,Casablanca
+E9ADB75,Hygiène - Maintenance - Non-Conformité - Normes de Qualité - Procédés - Procédés Industriels - Processus - Production - Qualité,Industrie,Chef de Projet IT,Agadir
+ECCDC9B,Assistanat - Assistance - Dossiers - Gestion des Dossiers - Suivi Administratif,Finance & Rh,Gestionnaire de Paie,Rabat
+EBC661A,Vente,Commerce,Commercial B2B,Casablanca
+EA5CE34,Catering - Cuisine - Hygiène - Maintenance - Normes de Qualité - Production - Production Culinaire - Qualité - Restauration - Sécurité Alimentaire - Tourisme,Industrie,Ingénieur Production,Marrakech
+E4DC9F0,Comptabilité - Comptabilité Fournisseurs - Finance - Gestion - Trésorerie,Finance & Rh,Comptable,Rabat
+ED8C8E3,Maintenance - Normes de Qualité - Qualité,Autres,Analyste BI / Power BI,Agadir
+E771BEE,Négociation - Vente,Santé,Délégué Médical  - Marrakech,Agadir & Marrakech
+E6B9A91,Banque - Comptabilité - Comptabilité Générale - Finance - Gestion - Gestion des Encaissements - Gestion des Risques,Autres,Caissier - Casablanca,Casablanca
+E4BBF55,Achats - Dispatching - Relation Fournisseurs - Supply - Supply Chain - Transport,Autres,Acheteur Transactionnel - Casablanca,Casablanca
+E30E232,Amélioration Continue - BI - BIG DATA - Formation - Informatique Bureautique - MDM - Monitoring - PYTHON,It & Tech,Data Scientist,Casablanca
+E2CCC27,Administration RH - Formation - Gestion Administrative - Gestion des Ressources Humaines - Processus de Recrutement - Recrutement,Finance & Rh,Assistante Département Ressources Humaines - Casablanca,Casablanca
+EF7C512,Comptabilité - Comptabilité Générale - États Financiers - Finance - Fiscalité - Gestion - Reporting Comptable,Finance & Rh,Comptable,Casablanca
+EC51BBF,Commercialisation - Négociation - Techniques de Vente - Vente,Commerce,Commercial B2B,Agadir
+E34850B,Comptabilité - Finance - Gestion - Gestion des Encaissements - Trésorerie,Finance & Rh,Comptable,Casablanca
+E0AF417,Actions Commerciales - Animation Commerciale - Animation des Ventes - Commercialisation - Vente,Commerce,Commercial B2B,Agadir
+EFF68E8,Contentieux - Droit - Droit Privé - Gestion des Contrats,Autres,Assistant Juridique (H/F)  - Casablanca,Casablanca
+E18C01D,Négociation - Suivi des Ventes - Vente,Commerce,Commercial B2B,Marrakech
+EA63C72,Business Management - Commercialisation - Leadership - Prospection - Techniques de Vente - Vente,Autres,Product Manager,Casablanca
+EF325F8,Archivage - Assistanat - Assistance - Assistance Administrative - Assistance Juridique - Classement des Documents - Gestion Administrative - Secrétariat,Autres,Chef de Projet IT,Casablanca
+E05D209,Comptabilité - Finance - Gestion - Gestion des Recouvrements - Recouvrement,Autres,Chef de Projet IT,Casablanca
+EE7D37C,Gastronomie - Gestion Hôtelière - Restauration - Tourisme - Vente,Commerce,Product Manager,Casablanca
+E0D6E49,Accueil Physique - Assistanat - Comptabilité - Secrétariat,Autres,Hôtesse D’Accueil - Casablanca,Casablanca
+E0A95C8,Gestion Administrative - Suivi Administratif - Vente,Autres,Expert Back-Office Véhicules D’Occasion - Casablanca,Casablanca
+E2CF291,Accueil - Secteur Hôtelier - Tourisme,Finance & Rh,Assistante Administrative Ressources Humaines - Marrakech,Marrakech
+EE1E3D4,AUTOCAD - DIALUX - Éclairage - Génie Électrique,Autres,Ingénieur Réseau,Rabat
+E950B36,Accueil - Cuisine - Hôtellerie - Restauration,Autres,Chef de Projet IT,Agadir
+EA15C24,Maintenance - Qualité,Autres,Analyste BI / Power BI,Agadir
+EC06E3E,Comptabilité - Finance - Gestion - Gestion d'Entreprise - Gestion Hôtelière - Hôtellerie - Restauration - Secteur Hôtelier - Tourisme,Autres,Aide Économe - Marrakech,Marrakech
+EEF8723,3D 2D - Comptabilité - Facturation - Finance - Gestion,Autres,Agent De Facturation,Casablanca
+E17CF3D,Comptabilité - Comptabilité Analytique - Facturation - Finance - Gestion,Autres,Chargé De Facturation,Casablanca
+EB2FAE5,Comptabilité - Facturation - Finance - Gestion,Autres,Chef de Projet IT,Casablanca
+E930436,Amélioration Continue - Maintenance - Processus - Production - Qualité,Autres,Responsable RH,Casablanca
+E5C8444,Customer Service - Management - Vente,Autres,Gérant Du Magasin - Casablanca,Agadir
+E67364A,Branding - Communication - Design - Marketing - Positionnement - Projets Marketing - Stratégie Marketing - Supports Marketing,Commerce,Analyste BI / Power BI,Marrakech
+E81CFC4,Assurance Qualité - BPF - Électronique - Gestion - Maintenance - Management - Management de la Qualité - Non-Conformité - Production - Qualité - Santé,It & Tech,Analyste BI / Power BI,Rabat
+E46AE30,Comptabilité - Financement - Gestion - Recouvrement - Vente,Finance & Rh,Chef de Projet IT,Agadir
+E28E8FC,CRM - Devis - Négociation - Vente,Commerce,Technico-Commercial - Mohammedia,Casablanca
+E136AAD,Comptabilité - Finance - Gestion - Recouvrement,Autres,Chef de Projet IT,Casablanca
+ECFE9FC,Administration - Assistanat - Comptabilité - Documents Administratifs - Finance - Gestion - Secrétariat - Support,Finance & Rh,Chef de Projet IT,Casablanca
+E2EB06C,CRM - Développement Commercial - Négociation - Stratégie Commerciale - Vente,Commerce,Responsable RH,Casablanca
+E8ADF49,Animation - Formation,Autres,Enseignant(E) Fle  - Tout Le Maroc,Casablanca
+E6D47F6,Expédition - Rangement - Transport,Autres,Magasinier - Casablanca,Casablanca
+EF4B0E4,Communication - Communication Marketing - Marketing,Autres,Responsable RH,Casablanca
+E9043FA,Vente,Autres,Conseiller(Ère) Éducation Et Ressources Pédagogiques - Béni Mellal,Béni Mellal
+ED5A0CD,Vente,Autres,Conseiller(E) Pédagogique - Marrakech,Marrakech
+EC897AC,Comptabilité - États Financiers - Finance - Flux Financiers - Gestion - Gestion Financière - Trésorerie,Finance & Rh,Analyste Financier,Casablanca
+EA93891,Assurance Qualité - Homologation - Maintenance - Pharmacovigilance - Production - Qualité - Santé,Autres,Chargé(E) Des Enregistrements - Aïn El Aouda,Rabat
+E412CC6,Électrotechnique - Génie Électrique,Autres,Chef de Projet IT,Oujda
+EC86B97,Cuisine,Autres,Chef Cuisinier - Fès,Meknès
+E40F78A,Comptabilité - Finance - Gestion,Finance & Rh,Comptable,Casablanca
+E16A82B,Merchandising - Techniques de Vente - Vente,Commerce,Chef de Projet IT,Casablanca
+ED4F123,Vente,Commerce,Chef de Projet IT,Casablanca
+EEDC815,Gestion - Management - Stratégie,Autres,Manager - Meknès,Meknès
+EEE752D,Management,Santé,Pharmacien,Meknès
+EA4E693,Finance - Gestion,Finance & Rh,Contrôleur de Gestion,Casablanca
+E0ACE0D,Assistanat - Facturation - Secrétariat,Autres,Chef de Projet IT,Casablanca
+EF7C3AE,Chargement - Déchargement - Sécurité Routière - Transport,It & Tech,Chauffeur Poids Lourds - Tanger - Kénitra,Rabat
+E991533,Commercialisation - E-Commerce - Prospection - Vente,Commerce,Commercial B2B,Casablanca
+EE29A6D,Agroalimentaire - Amélioration Continue - Fabrication - Génie Industriel - Hygiène - Maintenance - Process - Process Industriels - Processus - Production - Qualité - Service Technique,Industrie,Chef de Projet IT,Oujda
+E01A25C,AUTOCAD - Électrotechnique - SEE ELECTRICAL - Transport,Autres,Projeteur Dessinateur Postes Électriques Tht/Ht/Mt - Oujda,Oujda
+EF9B9C4,Accueil - Cuisine - Restauration - Tourisme,Autres,Chef de Projet IT,Rabat
+E1ABDCB,Assistanat - Comptabilité - Comptabilité Générale - Finance - Gestion - Secrétariat - Suivi de la Trésorerie - Trésorerie,Finance & Rh,Comptable,Rabat
+EE779BC,Accueil - Formation - Gestion Hôtelière - Hôtellerie - Housekeeping - Maintenance - Restauration - Tourisme,Tourisme,Réceptionniste Hôtel,Rabat
+E5C4797,Accueil Physique - Appel d'Offres - Assistanat - Assistance - Assistance Administrative - Bureautique - Facturation - Fichiers - Gestion Administrative - Gestion des Appels - Secrétariat - Secrétariat Bureautique,Autres,Assistante Administrative - Casablanca,Casablanca
+ED8B6F3,Accueil Physique - Assistanat - Dossiers - Dossiers Administratifs - Facturation - Gestion Administrative - Support - WORD,Autres,Assistant(E) Administratif(Ve) – Facturation Et Achats - Rabat,Rabat
+E5DD66E,3D 2D,Autres,Analyste BI / Power BI,Agadir
+E660C18,Cuisine - Tourisme,Autres,Chef de Projet IT,Casablanca
+ECF07D6,BOOTSTRAP - CSS3 - CVS - GIT - JAVASCRIPT - JQUERY - LESS - MVC - MYSQL - REST,It & Tech,Angular Developer (M/F),Agadir
+EC19EA2,AGILE - APACHE - ARTIFACTORY - AZURE - CVS - DOCKER - DYNATRACE - ECLIPSE - GIT - GITLAB - GROOVY - JAVA - JAVASCRIPT - JBOSS - JENKINS - JIRA - LESS - LINUX - ORACLE - POSTGIS - POSTGRESQL - PYTHON - SCRUM - SHELL - SONARQUBE - WEBLOGIC,It & Tech,DevOps Engineer,Agadir
+E945651,API - ASP - C# - CSS - CVS - DOTNET - FRONT END - HTML - HTTP - LINUX - MVC - MYSQL - NET - QUERY - REST - SOAP - SQL,It & Tech,Dotnet Developer (M/F),Agadir
+E343DEC,AGILE - APP - COCOA - CVS - FOUNDATION - GIT - SWIFT - TMS,It & Tech,Ios Developer (M/F),Agadir
+E19C490,AGILE - API - BOOTSTRAP - CONFLUENCE - CVS - GIT - GRAILS - GROOVY - GWT - HIBERNATE - HTML - JAVA - JAVASCRIPT - JENKINS - JIRA - JQUERY - JSF - MYSQL - ORACLE - REDIS - SPRING - STRUTS,It & Tech,Java Developer (M/F),Agadir
+E1454A5,AGILE - ANGULAR JS - AZURE - BIG DATA - CASSANDRA - COUCHBASE - CSS - CVS - DOCKER - GIT - HADOOP - HIBERNATE - HTML - J2EE - JAVA - JAVA JEE - JAVASCRIPT - JBOSS - JENKINS - MAVEN - MVC - MYSQL - NOSQL - ORACLE - REDIS - REST - SOAP - SPARK - SPRING - SQL - STRUTS - WEBLOGIC,It & Tech,Java Jee Developer (M/F),Agadir
+E284242,ANGULAR JS - API - BACKBONE JS - CSS - CVS - DOJO - HTML - JAVASCRIPT - JENKINS - JQUERY - MONGODB - ORACLE,It & Tech,Javascript Developer (M/F),Agadir
+E3DE940,AGILE - ANDROID - API - APP - AZURE - CVS - DNS - DOCKER - GIT - JAVA - JENKINS - LOAD BALANCING - MAC - MAVEN - MVVM - OPENSTACK - PAAS - SDK - TCP IP - TDD - UDP - XML,It & Tech,Kotlin Developer (M/F),Agadir
+E8A4975,AJAX - CODEIGNITER - CSS - CVS - GIT - HTML - JAVASCRIPT - JQUERY - LARAVEL - MARIADB - MVC - MYSQL - NOSQL - QUERY - SOAP - SQL - TFS,It & Tech,Laravel Developer (M/F),Agadir
+EE4E132,BOOTSTRAP - CSS3 - CVS - DOCKER - GIT - JAVASCRIPT - JIRA - JQUERY - JSON - LESS - MONGODB - MVC - MYSQL - NODE JS - NOSQL - POSTGRESQL - REACT - REDIS - REST - SQL - XML,It & Tech,Node.Js Developer (M/F),Agadir
+E079E9E,ANDROID - APP - COCOA - CSS - CVS - EDGE - GIT - HTML - JAVASCRIPT - JQUERY - JSON - LINUX - MAC - MERCURIAL - OSX - REST - SWIFT - XML,It & Tech,Objective-C Developer (M/F),Agadir
+EEB0380,AJAX - API - CODEIGNITER - CSS3 - CVS - GIT - JAVASCRIPT - LARAVEL - MAGENTO - MERCURIAL - MONGODB - MVC - MYSQL - NOSQL - ORACLE - SQL - SYMFONY - XML - ZEND,It & Tech,Php Developer (M/F),Agadir
+E71F563,AGILE - API - CSS - CVS - DJANGO - HTML - PYTHON - SCRUM - SQL - TORNADO,It & Tech,Python Developer (M/F),Agadir
+EFE8D83,AGILE - API - APP - CVS - JAVA - MAVEN - MYSQL - SCRUM - SELENIUM - SQL,Autres,Qa Tester (M/F),Agadir
+EEE2041,BOOTSTRAP - CSS - CVS - GIT - JAVA - JAVASCRIPT - JQUERY - LESS - REACT,It & Tech,React Developer (M/F),Agadir
+EFC78F2,AGILE - CSS - CVS - DOCKER - GIT - HTML - JAVASCRIPT - JIRA - JQUERY - MONGODB - MYSQL - POSTGRESQL - RUBY ON RAILS,It & Tech,Ruby On Rails Developer (M/F),Agadir
+EBD93CA,AGILE - CVS - GIT - MERCURIAL - REST - SCRUM - SWIFT,It & Tech,Swift Developer (M/F),Agadir
+ED62777,CVS - RHEL - SUSE,Autres,Data Engineer,Agadir
+EB3E70F,API - CVS - GIT - GITLAB - JAVASCRIPT - JENKINS - LINUX - MATRIX - MYSQL - ORACLE - PYTHON - SHELL - SQL,Autres,Data Engineer,Agadir
+EF87708,AJAX - BOOTSTRAP - CSS - CVS - GIT - HTML - ILLUSTRATOR - JAVASCRIPT - PHOTOSHOP,Autres,UX/UI Designer,Agadir
+E8F01BC,AGILE - ALM - BASH - CVS - DNS - DOCKER - HTTP - IOT - JENKINS - LOAD BALANCING - PUPPET - PYTHON - REACT - SCRUM - SSL,It & Tech,Aws Cloud Architect (M/F),Agadir
+E4610AD,API - BIG DATA - CENTOS - CVS - DMS - DNS - DOCKER - HADOOP - HTTP - LINUX - RDS - SPARK - TALEND,It & Tech,Aws Solutions Architect (M/F),Agadir
+EC70847,ACCESS - AGILE - ARM - AZURE - COSMOS - CVS - PAAS - REDIS - SHELL - SQL,It & Tech,Azure Solutions Architect (M/F),Agadir
+EDBB241,AGILE - API - ARM - AZURE - C# - COSMOS - CVS - LESS - NOSQL - PAAS - SQL - VM,It & Tech,Cloud Architect (M/F),Agadir
+E0152C9,AZURE - CVS - DOCKER - LINUX,It & Tech,Data Engineer,Agadir
+E4E6C1C,API - ARM - BGP - CVS - IAM - PUPPET - PYTHON - RDS - REST,It & Tech,Data Engineer,Agadir
+EF0B2EE,ACCESS - AGILE - AZURE - CVS - DOCKER,It & Tech,Cloud Microservices Architect (M/F),Agadir
+E2802F7,AZURE - CENTOS - CVS - DOCKER - LINUX - PERL - PREMISE - PYTHON - REDHAT - VPN - WAN,It & Tech,Cloud System Administrator (M/F),Agadir
+EBA46D0,AGILE - CVS,It & Tech,Cloud System Integrator (M/F),Agadir
+E90C690,CVS - ENDPOINT - IDEAL - JAVASCRIPT - PYTHON - VM,It & Tech,Data Engineer,Agadir
+E255E78,AZURE - CVS - DATASTAGE - INFORMATICA - J2EE - JAVA - MONGODB - ORACLE - SQL - TALEND,It & Tech,Datastage Architect (M/F),Agadir
+EAA7816,BASH - CVS - GENESYS - JAVA - JAVASCRIPT - PAAS - POWERSHELL - PYTHON - VMWARE,It & Tech,Genesys Architect (M/F),Agadir
+E1E4773,BGP - CISCO - CVS - DHCP - DNS - ETHERNET - JUNIPER - MPLS - PYTHON - SNMP - TCP IP - WAN,It & Tech,Network Architect (M/F),Agadir
+E9B583A,ASSEMBLEUR - COBOL - DB2 - FORTRAN - ISPF - JCL - SAS - SDSF - TCP IP - TSO - TWS - VSAM,Autres,Dba Ims/Db2 Z/Os(H/F),Agadir
+E4219B5,CICS - DB2 - IBM - JCL - MVS - TSO - VSAM - ZOS,Autres,Data Engineer,Agadir
+EC55DAC,ASSEMBLEUR - COBOL - JAVA - LDAP - NETVIEW - TCP IP - TWS - VTAM,Autres,Ingénieur Réseau,Agadir
+E8CFDF3,ABAP - SAP,Autres,Consultant Sap Abap (H/F),Agadir
+EC02268,SAP,Autres,Consultant Sap Fi-Co/Ps (H/F),Agadir
+ECE0D83,REACH - SAP,Autres,Consultant Sap Ehs (H/F),Agadir
+E74F0F4,ABAP - SAP,Autres,Consultant Sap Senior (H/F),Agadir
+E5B2365,SAP,Autres,Consultant Sap Mm/Sd/Ewm/Pp/Qm/Car (H/F),Agadir
+E01B1CE,AGILE - CSS - ECLIPSE - HIBERNATE - HTML - JAVA - JAVA JEE - JAVASCRIPT - JENKINS - JUNIT - MAVEN - SPRING - UML,Autres,Développeur Frontend,Agadir
+E7FF9BC,Facturation - Vente,Autres,Assistante Adv - Casablanca,Casablanca
+E1191A1,Chargement - Déchargement - Transport,Autres,Chef de Projet IT,Casablanca
+EE64559,AZURE - GLPI - ITIL - ITSM - JIRA - REMEDY - SERVICENOW - SHAREPOINT - TCP IP - VPN,It & Tech,Analyste BI / Power BI,Casablanca
+EE4A28C,Pâtisserie - Tourisme,Autres,Pâtissier  - Marrakech,Marrakech
+ECCBF8D,Accueil - Cuisine - Restauration,Tourisme,Maître D´Hôtel - Fès,Fès
+E16AF0A,Architecture - Construction,Autres,Prescripteur Carrelage - Casablanca,Casablanca
+E02E1A8,Achats - Entreposage - Entrepôt - Étiquetage - Expédition - Gestion des Stocks - Livraison - Rangement - Stockage - Stocks - Transport,Autres,Magasinier (H/F) - Agadir,Agadir
+E7B5730,Communication Interne - Formation - Processus de Recrutement - Recrutement,Finance & Rh,Assistante Ressources Humaines - Casablanca,Casablanca
+E8768CE,Amélioration Continue - Électromécanique - Électrotechnique - Génie Industriel - Maintenance - Maintenance Industrielle - Maintenance Préventive - Plomberie - Processus - Processus de Maintenance - Production - QHSE - Qualité,Industrie,Chargé Marketing Digital,Rabat
+E85779B,BTP - Développement Commercial - Négociation - Prospection - Stratégie Commerciale - Vente,Commerce,Responsable RH,Casablanca
+E641E30,Comptabilité - Fiscalité - Gestion,Finance & Rh,Comptable,Casablanca
+EEEE032,Maintenance - Qualité,Finance & Rh,Responsable RH,Casablanca
+EE76A02,Assemblage - Maintenance - Montage - Production - Qualité,It & Tech,Chef de Projet IT,Rabat
+E463076,Vente,Autres,Coiffeur(Se) – Esthéticien(Ne) Polyvalent(E) -  Souissi – Route Zaër,Rabat
+EAE3A2F,Dressage - Hôtellerie - Restauration,Autres,Commis De Rang - Tanger,Tanger
+E0EB3AB,Comptabilité - Comptabilité Générale - États Financiers - Finance - Gestion - Suivi Budgétaire,Finance & Rh,Comptable,Rabat
+E081E95,AUTOCAD - Construction - Efficacité Énergétique - REVIT,Btp,Ingénieur Génie Civil,Rabat
+EE62560,Charpente - Charpente Métallique - Dimensionnement - Eurocodes,It & Tech,Ingénieur Génie Civil,Rabat
+E0683AE,AUTOCAD - COVADIS,It & Tech,Ingénieur Génie Civil,Rabat
+E3CB78E,Négociation - Stratégie Commerciale - Vente,It & Tech,Data Scientist,Casablanca
+E7EB2C7,Achats - Comptabilité - Finance - Gestion - Livraison - Stockage,Tourisme,Réceptionniste Hôtel,Casablanca
+E0BFB0C,Comptabilité - Finance - Gestion - Prospection - Recouvrement - Stocks,Autres,Chef de Projet IT,Béni Mellal
+E6CDC4E,Cuisine - Tourisme,Autres,Cuisinière - Bouznika,Rabat
+EDC081A,Comptabilité - Finance - Gestion - Gestion des Factures - Gestion des Fournisseurs,Finance & Rh,Comptable,Casablanca
+EDB244B,Actions Commerciales - Développement Commercial - Gestion Commerciale - Négociation - Prospection - Stratégie Commerciale - Vente,Commerce,Responsable Commercial,Casablanca
+E9C5C00,AUTOCAD - DIALUX - Dimensionnement - Éclairage,It & Tech,Technicien Maintenance,Rabat
+E2CC8A2,Laboratoire - Santé,It & Tech,Ingénieur Réseau,Rabat
+E10CB43,Architecture - AUTOCAD - Désenfumage - Génie Climatique - Plomberie - REVIT,Autres,Ingénieur Réseau,Rabat
+E735AF2,Communication - Marketing - Vente,Autres,Développeur Full Stack,Agadir
+E616157,Formation - Gestion Administrative,Finance & Rh,Assistant(E) Ressources Humaines - Casablanca Sidi Maarouf,Casablanca
+EFC6094,Achats - Négociation - Suivi des Fournisseurs,Industrie,Acheteur Industriel - Casablanca,Casablanca
+E15A9CE,Administration du Personnel - Fonction RH - Formation - Processus de Recrutement - Recrutement,Finance & Rh,Responsable RH,Casablanca
+EA622E7,Hydraulique - Hydraulique Pneumatique - Industrie - Maintenance - Mécanique Hydraulique - Pneumatique - Production - Qualité,Industrie,Chef de Projet IT,Agadir
+E308EB0,Assurance - Comptabilité - CRM - Gestion - Règlement - Vente,It & Tech,Gestionnaire de Paie,Rabat
+E6042C2,Communication - E-Réputation - Marketing - Marketing Opérationnel - Médias - Mix Marketing - Positionnement,It & Tech,Product Manager,Casablanca
+ECBC7AE,Contentieux - Droit - Droit des Contrats - Droit des Sociétés - Droit Social - Recouvrement de Créances,Autres,Analyste BI / Power BI,Casablanca
+E27775D,AUTOCAD - BIM - CANECO BT - DIALUX - Électrotechnique - Génie Électrique - REVIT,Autres,Responsable RH,Casablanca
+E132F1E,CRM - Négociation - Techniques de Vente - Vente,Autres,Chargé(E) Export - Casablanca,Casablanca

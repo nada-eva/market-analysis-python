@@ -1,11 +1,19 @@
 ﻿Ville,Region,Nb_Offres,Salaire_Moyen,Salaire_Median,Delai_Moyen,Nb_Entreprises,Pct_CDI,Pct_Teletravail,Pct_Hybride,Pct_Offres
-Casablanca,Casablanca-Settat,177,11320,10950,25.2,36,55.4,17.5,26.6,36.7
-Tanger,Tanger-Tétouan-Al Hoceïma,90,11745,11000,25.5,32,60.0,17.8,35.6,18.7
-Rabat,Rabat-Salé-Kénitra,70,11392,11300,24.2,32,52.9,18.6,32.9,14.5
-Marrakech,Marrakech-Safi,54,11746,11200,26.5,29,68.5,18.5,14.8,11.2
-Agadir,Souss-Massa,28,10468,10600,26.5,21,64.3,21.4,21.4,5.8
-Fès,Fès-Meknès,23,11335,11500,27.7,16,43.5,8.7,52.2,4.8
-Meknès,Fès-Meknès,17,10437,11110,28.2,14,47.1,11.8,41.2,3.5
-Oujda,Oriental,14,8630,8350,30.5,12,64.3,21.4,35.7,2.9
-Kénitra,Rabat-Salé-Kénitra,5,9897,10100,29.4,5,80.0,0.0,20.0,1.0
-Tétouan,Tanger-Tétouan-Al Hoceïma,4,11268,8200,22.8,4,75.0,25.0,0.0,0.8
+Casablanca,Casablanca-Settat,284,10768,10340,25.7,67,68.3,14.1,14.4,36.3
+Rabat,Rabat-Salé-Kénitra,102,10916,10500,24.7,43,70.6,15.7,15.7,13.0
+Tanger,Tanger-Tétouan-Al Hoceïma,93,11779,11000,26.0,34,61.3,19.4,32.3,11.9
+Agadir,Souss-Massa,87,10392,10400,25.3,35,82.8,5.7,5.7,11.1
+Marrakech,Marrakech-Safi,69,11234,10350,29.2,33,73.9,17.4,10.1,8.8
+Maroc,Autres,50,0,0,0.0,1,100.0,0.0,0.0,6.4
+Fès,Fès-Meknès,26,10912,11085,29.4,17,53.8,15.4,38.5,3.3
+Meknès,Fès-Meknès,20,10548,10150,28.2,16,55.0,20.0,25.0,2.6
+Oujda,Oriental,16,8438,8500,31.6,12,75.0,12.5,25.0,2.0
+Rabat-Salé,Autres,10,10045,10350,31.2,9,50.0,30.0,10.0,1.3
+Kénitra,Rabat-Salé-Kénitra,5,10097,10100,29.4,5,80.0,0.0,20.0,0.6
+Tétouan,Tanger-Tétouan-Al Hoceïma,4,11268,8200,31.2,4,75.0,25.0,0.0,0.5
+Béni Mellal,Autres,4,9750,9750,25.0,4,100.0,0.0,0.0,0.5
+Agadir-Ida,Autres,4,11975,11950,20.2,4,75.0,25.0,50.0,0.5
+Oujda-Angad,Autres,2,7700,7700,21.5,2,50.0,50.0,50.0,0.3
+Agadir & Marrakech,Autres,1,11000,11000,20.0,1,100.0,0.0,0.0,0.1
+Laâyoune,Autres,1,9000,9000,25.0,1,0.0,0.0,0.0,0.1
+International,Autres,1,12000,12000,22.0,1,100.0,0.0,0.0,0.1

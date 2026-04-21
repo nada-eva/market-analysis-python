@@ -1,52 +1,294 @@
 ﻿Titre_Poste,Secteur,Nb_Offres,Salaire_Moyen,Salaire_Median,Salaire_Min,Salaire_Max,Delai_Moyen,Nb_Entreprises,Score_Attractivite
-Analyste Financier,Finance & Rh,20,12188,11955,3000.0,22100.0,24.8,15,48.4
-Administrateur Système,It & Tech,17,12329,11700,6900.0,17600.0,28.6,15,41.8
-Chef de Projet IT,It & Tech,17,14523,14630,3888.0,23300.0,29.4,13,50.3
-Pharmacien,Santé,16,13719,13700,9500.0,18000.0,27.4,12,50.4
-Technicien Maintenance,Industrie,16,7278,6600,3918.0,12900.0,26.9,14,21.9
-Réceptionniste Hôtel,Tourisme,16,5875,5350,3500.0,9400.0,22.5,15,23.9
-Ingénieur Génie Civil,Btp,16,10878,10800,3075.0,19600.0,22.9,12,46.0
-Comptable,Finance & Rh,15,7737,7700,5086.0,10670.0,25.9,12,25.9
-Guide Touristique,Tourisme,15,5031,4600,2518.0,8700.0,28.7,14,8.2
-Chargé Marketing Digital,Commerce,14,10940,10500,3305.0,21700.0,25.1,11,42.1
-Auditeur Financier,Finance & Rh,13,13003,13100,3783.0,21100.0,21.3,11,58.8
-Développeur Backend,It & Tech,13,10510,9100,2772.0,20800.0,19.0,9,51.7
-Développeur Frontend,It & Tech,13,9492,10100,4093.0,14800.0,24.2,10,37.2
-ML Engineer,It & Tech,13,17484,16500,11990.0,26700.0,21.4,10,79.1
-Responsable Qualité,Industrie,13,9246,9500,6700.0,11500.0,25.9,13,32.8
-Médecin Généraliste,Santé,13,18145,18500,3794.0,34100.0,27.5,12,70.5
-DevOps Engineer,It & Tech,12,14139,12250,3202.0,26500.0,21.0,12,64.5
-Contrôleur de Gestion,Finance & Rh,11,11713,10900,5928.0,18300.0,29.8,10,36.7
-Data Scientist,It & Tech,11,12100,10300,3904.0,19000.0,24.4,10,48.7
-Cybersécurité Analyst,It & Tech,10,13228,13150,9100.0,18600.0,24.5,7,53.7
-Développeur Full Stack,It & Tech,10,12217,11750,3145.0,20500.0,25.6,8,47.0
-Responsable Commercial,Commerce,9,12796,12500,4278.0,19600.0,29.4,9,42.4
-Data Engineer,It & Tech,9,12591,11700,2000.0,24800.0,29.7,8,40.9
-Ingénieur Réseau,It & Tech,9,11900,12600,8500.0,15100.0,29.8,9,37.5
-Product Manager,It & Tech,9,14977,13200,9800.0,26800.0,28.3,9,54.5
-Gestionnaire de Paie,Finance & Rh,9,9512,9600,4730.0,14100.0,25.0,8,35.7
-Responsable Rh,Finance & Rh,9,11056,10500,6000.0,17100.0,30.0,9,33.3
-Community Manager,Commerce,9,9611,11500,5600.0,12500.0,27.0,8,32.4
-UX/UI Designer,It & Tech,8,8643,8380,3192.0,13900.0,32.0,8,18.4
-Ingénieur Production,Industrie,8,8171,6630,3737.0,14000.0,23.9,8,31.7
-Ml Ingénieur,It & Tech,8,16362,17200,9800.0,22300.0,28.2,8,61.0
-Responsable RH,Finance & Rh,8,8964,8950,4525.0,13700.0,24.5,7,34.2
-Ing Production,Industrie,7,9454,9000,3916.0,15500.0,23.9,6,37.6
-Conducteur de Travaux,Btp,7,9849,9700,6100.0,14000.0,27.0,7,33.5
-Analyste BI / Power BI,It & Tech,6,12132,11895,9900.0,14600.0,26.2,5,45.4
-Infirmier,Santé,5,9380,8800,5600.0,13500.0,28.8,4,27.9
-Data Engneer,It & Tech,5,14200,11600,9900.0,20300.0,24.2,5,58.7
-Infirmière,Santé,5,8256,7100,4621.0,12200.0,23.4,5,33.0
-Ux Designer,It & Tech,4,7882,9200,2630.0,10500.0,27.2,4,24.1
-Chargé Marketing,Commerce,4,9722,9400,7000.0,13090.0,20.5,3,45.3
-Infirmier(ère),Santé,4,7550,7550,7300.0,7800.0,15.2,4,45.4
-Commercial B2B,Commerce,3,10267,12300,6000.0,12500.0,25.0,3,39.2
-Commercial,Commerce,3,13300,12800,11500.0,15600.0,24.0,3,55.0
-Resp. Commercial,Commerce,3,13767,11700,8000.0,21600.0,29.0,3,47.6
-Cyber Analyst,It & Tech,3,11338,11000,5813.0,17200.0,33.0,3,28.9
-Développeur Full-Stack,It & Tech,3,10004,11800,5912.0,12300.0,27.3,3,33.6
-Ing. Réseau,It & Tech,3,10827,10780,10700.0,11000.0,15.7,3,59.5
-Data Engineeer,It & Tech,2,9862,9862,4425.0,15300.0,12.0,2,62.1
-Data-Scientist,It & Tech,2,17700,17700,15300.0,20100.0,25.0,2,73.2
-Dév. Full Stack,It & Tech,2,12750,12750,8500.0,17000.0,30.5,2,40.1
-Data Sientist,It & Tech,1,16000,16000,16000.0,16000.0,29.0,1,57.8
+Chef de Projet IT,Autres,15,9000,9000,9000.0,9000.0,25.0,12,33.3
+Comptable,Finance & Rh,13,10500,10500,10500.0,10500.0,25.0,10,37.2
+Commercial B2B,Commerce,9,9000,9000,9000.0,9000.0,28.0,7,30.7
+pharmacien,Santé,9,14689,15000,12000.0,18000.0,25.6,8,47.3
+Analyste Finance,Finance & Rh,8,12983,12305,4751.0,22100.0,13.4,6,53.7
+Guide,Tourisme,8,4925,5100,4000.0,5600.0,23.2,7,24.6
+ML Ingénieur,It & Tech,8,16362,17200,9800.0,22300.0,31.5,8,46.4
+ing production,Industrie,8,10098,9950,3916.0,15500.0,22.5,6,38.3
+comptable,Finance & Rh,7,7500,6600,5200.0,10500.0,27.3,6,27.5
+chef de projet,It & Tech,7,17529,17300,11900.0,23300.0,30.1,5,50.6
+Technicien maintenance,Industrie,7,7300,5700,5200.0,10500.0,30.9,6,23.8
+Marketing Digital,Commerce,7,11012,10100,4184.0,17800.0,24.6,5,38.8
+Médecin,Santé,7,19400,13800,12000.0,30700.0,26.0,6,58.9
+Réceptionniste hôtel,Tourisme,7,5429,5100,3500.0,9300.0,22.5,7,26.5
+RESPONSABLE COMMERCIAL,Commerce,6,13852,12450,11110.0,19600.0,29.2,6,42.0
+analyste financier,Finance & Rh,6,11317,11100,8100.0,14100.0,29.8,6,35.0
+tech maintenance,Industrie,6,8222,7300,4933.0,12900.0,24.7,5,31.6
+RESPONSABLE RH,Finance & Rh,6,12433,11600,10500.0,17100.0,34.2,6,34.0
+Responsable RH,Autres,6,9000,9000,9000.0,9000.0,25.0,5,33.3
+Paie Manager,Finance & Rh,6,11100,10900,7000.0,14100.0,18.0,5,44.8
+Developpeur FullStack,It & Tech,6,12808,13550,3145.0,19600.0,26.5,4,41.7
+Ingénieur réseau,It & Tech,6,12617,12700,10100.0,14100.0,33.5,5,35.1
+MARKETING DIGITAL,Commerce,6,12878,10900,4471.0,21700.0,29.2,4,39.5
+Machine Learning Engineer,It & Tech,6,18300,17300,12000.0,26700.0,30.7,4,52.0
+Ingénieur Réseau,Autres,6,9000,9000,9000.0,9000.0,25.0,4,33.3
+Chef de Projet IT,Industrie,6,8500,8500,8500.0,8500.0,30.0,6,27.7
+DevOps,It & Tech,6,15617,14400,10300.0,26500.0,18.8,5,55.6
+Responsable qualité,Industrie,5,8320,8200,6700.0,11200.0,31.8,5,25.6
+Data Engneer,It & Tech,5,14200,11600,9900.0,20300.0,23.8,5,47.6
+Responsable RH,Finance & Rh,5,9180,10300,6000.0,10500.0,26.4,4,32.6
+Admin Système,It & Tech,5,11700,11700,8700.0,15000.0,34.0,5,32.3
+RÉCEPTIONNISTE,Tourisme,5,7331,6800,5843.0,9400.0,23.0,5,30.9
+FRONTEND DEVELOPER,It & Tech,5,9180,10200,6500.0,11000.0,33.6,5,26.2
+infirmière,Santé,5,8216,7100,4621.0,12000.0,23.0,5,33.1
+HR Manager,Finance & Rh,5,9858,9790,6000.0,13700.0,26.0,5,34.7
+Pharmacien d'officine,Santé,5,10960,11200,9500.0,12000.0,36.0,5,28.7
+Community manager,Commerce,5,9200,9000,6800.0,12500.0,26.6,5,32.4
+INGÉNIEUR GÉNIE CIVIL,Btp,5,9708,10340,8000.0,10800.0,25.6,3,34.6
+INGÉNIEUR PRODUCTION,Industrie,5,7402,5800,3737.0,14000.0,28.6,5,26.1
+comptable junior,Finance & Rh,5,6774,7700,5086.0,8000.0,27.2,4,25.7
+Ingénieur civil,Btp,5,12060,10800,7900.0,19600.0,33.0,4,34.1
+ANALYSTE FINANCIER,Finance & Rh,5,12260,11200,10000.0,17000.0,39.2,5,29.2
+Audit Financier,Finance & Rh,5,14012,12200,10500.0,18400.0,25.6,4,45.6
+CDG,Finance & Rh,4,11202,10805,7500.0,15700.0,37.2,3,28.2
+Ingénieur ML,It & Tech,4,14850,15200,12000.0,17000.0,9.0,3,62.3
+INFIRMIER,Santé,4,9525,9500,5600.0,13500.0,31.8,4,28.7
+ml engineer,It & Tech,4,17775,18200,12900.0,21800.0,16.0,4,63.6
+UX Designer,It & Tech,4,7882,9200,2630.0,10500.0,35.8,4,21.0
+UXUI Designer,It & Tech,4,7120,5695,3192.0,13900.0,36.8,4,18.2
+Comptable Général,Finance & Rh,4,8692,8800,6500.0,10670.0,25.8,4,31.9
+Chef Projet IT,It & Tech,4,14795,13800,12000.0,19580.0,31.0,3,42.8
+Administrateur sys,It & Tech,4,11925,10950,10700.0,15100.0,27.0,4,39.0
+Resp. Qualité,Industrie,4,9675,9700,7800.0,11500.0,21.5,4,38.1
+Infirmier/ère,Santé,4,7550,7550,7300.0,7800.0,15.2,4,38.3
+Chef de Projet IT,It & Tech,4,12000,12000,12000.0,12000.0,22.0,4,43.6
+Chef de Projet IT,Finance & Rh,4,10500,10500,10500.0,10500.0,25.0,4,37.2
+backend developer,It & Tech,4,10375,9400,7800.0,14900.0,17.2,3,43.7
+chargé marketing,Commerce,4,10222,9400,9000.0,13090.0,20.5,3,40.4
+DATA ENGINEER,It & Tech,4,14550,11450,10500.0,24800.0,32.2,4,41.1
+Project Manager IT,It & Tech,4,11255,12815,3888.5,15500.0,24.8,4,39.3
+BACKEND DEVELOPER,It & Tech,4,7109,6432,2772.0,12800.0,27.5,3,26.3
+Analyste BI / Power BI,Autres,4,9000,9000,9000.0,9000.0,25.0,3,33.3
+Auditeur,Finance & Rh,4,14021,15600,3783.0,21100.0,18.2,3,52.1
+ing génie civil,Btp,4,12250,12450,8400.0,15700.0,14.8,4,50.6
+SysAdmin,It & Tech,4,13950,13500,11700.0,17100.0,32.2,4,39.6
+PM,It & Tech,3,16200,12000,9800.0,26800.0,25.7,3,51.1
+Data scientist,It & Tech,3,14733,15300,9900.0,19000.0,30.3,3,43.3
+Data Scientist,It & Tech,3,12000,12000,12000.0,12000.0,22.0,2,43.6
+PRODUCT MANAGER,It & Tech,3,14633,15600,11500.0,16800.0,36.7,3,37.4
+Conducteur travaux,Btp,3,7833,7700,6100.0,9700.0,22.7,3,32.4
+Data Engineer,It & Tech,3,12000,12000,12000.0,12000.0,22.0,1,43.6
+Data Engineer,Autres,3,9000,9000,9000.0,9000.0,25.0,1,33.3
+Ingénieur Réseau,It & Tech,3,12000,12000,12000.0,12000.0,22.0,3,43.6
+guide touristique,Tourisme,3,3539,4000,2518.0,4100.0,38.3,3,7.8
+Power BI Developer,It & Tech,3,11233,11800,9900.0,12000.0,30.7,2,34.0
+Marketer Digital,Commerce,3,8135,9600,3305.0,11500.0,16.7,3,38.4
+Commercial,Commerce,3,12467,12800,9000.0,15600.0,35.3,3,33.1
+Dat Engineer,It & Tech,3,11506,11700,3017.0,19800.0,18.7,3,45.3
+CHEF DE PROJET IT,It & Tech,3,15100,15300,13600.0,16400.0,30.7,3,43.9
+développeur full-stack,It & Tech,3,10004,11800,5912.0,12300.0,27.3,3,33.9
+Ingenieur Réseaux,It & Tech,3,11967,10400,10400.0,15100.0,33.7,2,33.2
+CYBERSECURITE,It & Tech,3,12463,11990,11700.0,13700.0,16.7,3,49.5
+Génie Civil,Btp,3,8925,11400,3075.0,12300.0,27.7,3,30.8
+devops engineer,It & Tech,3,9790,10700,3470.0,15200.0,23.3,3,36.9
+DATA SCIENTIST,It & Tech,3,11600,10300,10000.0,14500.0,16.3,3,47.6
+Cybersécurité,It & Tech,3,14700,13500,12000.0,18600.0,24.3,3,48.5
+Cyber Sécurité Analyst,It & Tech,3,13900,13400,12900.0,15400.0,34.3,2,37.6
+Développeur FrontEnd,It & Tech,3,11233,10100,8800.0,14800.0,25.7,3,38.4
+Sysadmin,It & Tech,3,10700,7600,6900.0,17600.0,26.3,3,36.5
+Contrôleur gestion,Finance & Rh,3,8043,7800,5928.0,10400.0,40.7,3,17.1
+Ingénieur de production,Industrie,3,10287,11500,7260.0,12100.0,17.3,3,43.4
+cyber analyst,It & Tech,3,11338,11000,5813.0,17200.0,27.3,3,37.3
+COMMUNITY MANAGER,Commerce,3,6733,5600,5600.0,9000.0,32.7,1,20.8
+data scientist,It & Tech,3,14567,15400,12000.0,16300.0,34.7,3,39.0
+receptionniste hotel,Tourisme,3,4800,4700,4100.0,5600.0,25.0,3,22.7
+Product Owner,It & Tech,3,14433,13200,12000.0,18100.0,22.7,3,49.2
+ING. RÉSEAU,It & Tech,3,10827,10780,10700.0,11000.0,15.7,3,46.2
+AUDITEUR,Finance & Rh,3,11600,13100,7400.0,14300.0,27.0,3,38.2
+Quality Manager,Industrie,3,8700,7600,7500.0,11000.0,36.3,3,22.7
+Resp. Commercial,Commerce,3,14100,11700,9000.0,21600.0,29.0,3,42.8
+TECHNICIEN MAINTENANCE,Industrie,3,6839,8100,3918.0,8500.0,21.7,3,30.7
+Contrôleur de Gestion,Finance & Rh,2,10500,10500,10500.0,10500.0,25.0,2,37.2
+Controller,Finance & Rh,2,16500,16500,14700.0,18300.0,38.0,2,41.0
+Data engineer,It & Tech,2,13650,13650,12000.0,15300.0,31.0,2,39.9
+DRH,Finance & Rh,2,6662,6662,4525.0,8800.0,30.0,2,23.0
+DEVOPS ENGINEER,It & Tech,2,12501,12501,3202.0,21800.0,25.5,2,41.8
+Dév. Full Stack,It & Tech,2,10250,10250,8500.0,12000.0,30.5,2,31.7
+Dta Scientist,It & Tech,2,6202,6202,3904.0,8500.0,27.0,2,24.5
+Docteur,Santé,2,26900,26900,19700.0,34100.0,33.5,2,71.4
+Directeur Commercial,Commerce,2,8439,8439,4278.0,12600.0,38.0,2,20.5
+guide,Tourisme,2,8350,8350,8000.0,8700.0,23.5,2,33.0
+gestionnaire de paie,Finance & Rh,2,10190,10190,8500.0,11880.0,35.0,2,27.6
+frontend developer,It & Tech,2,7146,7146,4093.0,10200.0,16.5,2,36.1
+Dev Backend,It & Tech,2,12400,12400,8300.0,16500.0,11.5,2,53.9
+Développeur Full Stack,Autres,2,9000,9000,9000.0,9000.0,25.0,2,33.3
+CONTROLEUR DE GESTION,Finance & Rh,2,10700,10700,10500.0,10900.0,24.5,2,38.1
+CONDUCTEUR TRAVAUX,Btp,2,10550,10550,9300.0,11800.0,42.5,2,21.9
+Analyste BI / Power BI,It & Tech,2,12000,12000,12000.0,12000.0,22.0,2,43.6
+CM,Commerce,2,7950,7950,6900.0,9000.0,45.5,2,12.7
+backend dev,It & Tech,2,14950,14950,9100.0,20800.0,32.5,2,41.9
+Chef de Projet IT,Commerce,2,9000,9000,9000.0,9000.0,28.0,2,30.7
+BI Analyst,It & Tech,2,12250,12250,10500.0,14000.0,17.0,2,48.7
+Gestionnaire de Paie,It & Tech,2,12000,12000,12000.0,12000.0,22.0,2,43.6
+GUIDE TOURISTIQUE,Tourisme,2,5550,5550,5500.0,5600.0,35.8,2,15.1
+Ingénieur Génie Civil,It & Tech,2,12000,12000,12000.0,12000.0,22.0,1,43.6
+MÉDECIN GÉNÉRALISTE,Santé,2,11198,11198,3895.0,18500.0,23.0,2,40.7
+PHARMACIEN,Santé,2,15150,15150,13400.0,16900.0,31.5,2,43.3
+Product Manager,Autres,2,9000,9000,9000.0,9000.0,25.0,2,33.3
+Réceptionniste Hôtel,Tourisme,2,6000,6000,6000.0,6000.0,35.0,2,16.9
+Responsable RH,Commerce,2,9000,9000,9000.0,9000.0,28.0,2,30.7
+Responsable Qualité,It & Tech,2,12000,12000,12000.0,12000.0,22.0,2,43.6
+medecin generaliste,Santé,2,11847,11847,3794.0,19900.0,29.0,2,37.1
+ingenieur reseau,It & Tech,2,9000,9000,8500.0,9500.0,28.0,2,30.7
+Responsable Commercial,Commerce,2,9000,9000,9000.0,9000.0,28.0,2,30.7
+UX UI Designer,It & Tech,2,9950,9950,7300.0,12600.0,41.5,2,21.3
+Technicien Maintenance,Industrie,2,8500,8500,8500.0,8500.0,30.0,2,27.7
+Technicien Maintenance,Autres,2,9000,9000,9000.0,9000.0,25.0,2,33.3
+auditeur financier,Finance & Rh,2,13250,13250,13000.0,13500.0,13.5,2,54.3
+ux-ui designer,It & Tech,2,10380,10380,9460.0,11300.0,30.0,2,32.5
+dev frontend,It & Tech,2,10900,10900,8900.0,12900.0,18.5,2,43.9
+data-scientist,It & Tech,2,17700,17700,15300.0,20100.0,25.0,2,55.5
+data engineeer,It & Tech,2,9862,9862,4425.0,15300.0,12.0,2,47.0
+chef de chantier,Btp,2,12170,12170,10340.0,14000.0,35.0,2,32.6
+Acheteur Industriel - Casablanca,Industrie,1,8500,8500,8500.0,8500.0,30.0,1,27.7
+Acheteur Transactionnel - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Adjoint Shift Magasin - Rabat,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Agent De Facturation,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Agent Lingerie - Marrakech,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Agent Logistique - Chtouka Ait Baha,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Aide Économe - Marrakech,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Archiviste - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Économe - Rabat,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+développeur full stack,It & Tech,1,12600,12600,12600.0,12600.0,22.0,1,45.1
+devops,It & Tech,1,12100,12100,12100.0,12100.0,26.0,1,40.4
+dev fullstack,It & Tech,1,20500,20500,20500.0,20500.0,36.0,1,52.9
+Analyste Financier,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Analyste BI / Power BI,Commerce,1,9000,9000,9000.0,9000.0,28.0,1,30.7
+Chef Pâtissier  - Tanger,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chef De Rang  - Marrakech,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chef Cuisinier - Fès,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chauffeur Poids Lourds - Tanger - Kénitra,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Chauffeur Permis C - Nouaceur,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chargé(E) Export - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chargé(E) D´Accueil - Accueil Des Visiteurs (H/F) - Casablanca,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Chargé(E) Des Enregistrements - Aïn El Aouda,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chargé(E) Des Affaires Réglementaires  - Aïn El Aouda,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chargé Marketing Digital,Industrie,1,8500,8500,8500.0,8500.0,30.0,1,27.7
+Conducteur de Travaux,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Comptable,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Commis De Rang - Tanger,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Commis Cuisine Et Pâtisserie - Nouaceur,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Coiffeur(Se) – Esthéticien(Ne) Polyvalent(E) -  Souissi – Route Zaër,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Cloud System Integrator (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Cloud System Administrator (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Cloud Microservices Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Cloud Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Chef de Projet IT,Tourisme,1,6000,6000,6000.0,6000.0,35.0,1,16.9
+Caissier(E) - Oualidia,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Infirmier,Santé,1,8800,8800,8800.0,8800.0,15.0,0,41.6
+Chargé Commercial,Commerce,1,12300,12300,12300.0,12300.0,19.0,1,47.0
+Chargé De Facturation,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Mécanicien D´Entretien En Intérim - Casablanca,Industrie,1,8500,8500,8500.0,8500.0,30.0,1,27.7
+Frontend Dev,It & Tech,1,7700,7700,7700.0,7700.0,34.0,1,22.1
+Maître D´Hôtel - Fès,Tourisme,1,6000,6000,6000.0,6000.0,35.0,1,16.9
+Marketeur Full-Stack - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chargé Marketing Digital,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Manager - Meknès,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Magasinier - Laâyoune,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Magasinier - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Magasinier (H/F) - Agadir,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Magasiner Dépôt H/F - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Livreur - Quartier Des Hôpitaux,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Laravel Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Kotlin Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Juriste Senior (Anglophone) - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Javascript Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Java Jee Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Prescripteur Carrelage - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Développeur Frontend,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Polyvalent Restauration - Oualidia,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Php Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Enseignant(E) Fle  - Tout Le Maroc,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Pharmacien,Santé,1,11000,11000,11000.0,11000.0,20.0,1,42.8
+Peintre Bâtiment - Mohammedia,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Peintre Automobile (Carrossier Peintre) - Kénitra,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Peintre - Marrakech,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Demi Chef De Partie - Fès,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Dev Full Stack,It & Tech,1,10900,10900,10900.0,10900.0,31.0,1,32.9
+Financial Analyst,Finance & Rh,1,18200,18200,18200.0,18200.0,45.0,1,39.2
+Opérateur Câblage - Berrechid,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Objective-C Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Node.Js Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Network Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+DevOps Engineer,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+React Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+RH Manager,Finance & Rh,1,9100,9100,9100.0,9100.0,39.0,1,21.3
+RESPONSABLE QUALITE,Industrie,1,11300,11300,11300.0,11300.0,15.0,1,48.0
+DevOps Ingénieur,It & Tech,1,25900,25900,25900.0,25900.0,12.0,1,87.8
+Qa Tester (M/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Pâtissier  - Marrakech,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Python Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Projeteur Piping Confirmé - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Projeteur En Charpente Métallique - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Projeteur Dessinateur Postes Électriques Tht/Ht/Mt - Oujda,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Dotnet Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Délégué Médical  - Marrakech,Santé,1,11000,11000,11000.0,11000.0,20.0,1,42.8
+Développeur BackEnd,It & Tech,1,12000,12000,12000.0,12000.0,9.0,1,55.0
+Product Manager,Commerce,1,9000,9000,9000.0,9000.0,28.0,1,30.7
+Genesys Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Swift Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Superviseur Projets Stations - Mohammedia Avec Déplacements Fréquents,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Stagiaire Ressources Humaines - Dar Bouazza,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Expert Back-Office Véhicules D’Occasion - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Réceptionniste - Marrakech,Tourisme,1,6000,6000,6000.0,6000.0,35.0,1,16.9
+Réceptionniste - Fès,Tourisme,1,6000,6000,6000.0,6000.0,35.0,1,16.9
+Réceptionniste,Tourisme,1,4950,4950,4950.0,4950.0,15.0,1,31.8
+Aws Solutions Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Ruby On Rails Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Azure Solutions Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Responsable commercial,Commerce,1,15180,15180,15180.0,15180.0,28.0,1,46.4
+DEVELOPPEUR FULL STACK,It & Tech,1,3323,3323,3323.0,3323.0,1.0,1,40.0
+Java Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Ios Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Gestionnaire de Paie,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Data Sientist,It & Tech,1,16000,16000,16000.0,16000.0,29.0,1,47.6
+Angular Developer (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+admin sys,It & Tech,1,15500,15500,15500.0,15500.0,40.0,1,36.7
+Un(E) Acheteur(Se) - Kénitra,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Datastage Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+UX/UI Designer,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Gestionnaire paie,Finance & Rh,1,4730,4730,4730.0,4730.0,42.0,1,7.5
+Dba Ims/Db2 Z/Os(H/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Tôlier / Carrossier - Agadir,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Technico-Commercial - Mohammedia,Commerce,1,9000,9000,9000.0,9000.0,28.0,1,30.7
+Technicien Maintenance,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Gérant Du Magasin - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Ingénieur Réseau,Industrie,1,8500,8500,8500.0,8500.0,30.0,1,27.7
+Technicien D’Études - Rabat,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Conseiller(E) Pédagogique - Marrakech,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Chargé(E) Relation Client Whatsapp - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Conseiller(E) Pédagogique - Salé,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Conseiller(Ère) Éducation Et Ressources Pédagogiques - Béni Mellal,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Aws Cloud Architect (M/F),It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6
+Consultant Sap Abap (H/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Consultant Sap Ehs (H/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Assistante Ressources Humaines - Casablanca,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Assistante Département Ressources Humaines - Casablanca,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Assistante Adv - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Assistante Administrative Ressources Humaines - Marrakech,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Assistante Administrative - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Assistante Achat Anglophone - Mohammedia,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Assistante Achat - Casablanca- Elbernoussi,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Assistant(E) Ressources Humaines - Casablanca Sidi Maarouf,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Assistant(E) Administratif(Ve) – Facturation Et Achats - Rabat,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Assistant Ressources Humaines (H/F) - Meknès,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Assistant Juridique (H/F)  - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Analyst BI,It & Tech,1,14600,14600,14600.0,14600.0,27.0,1,45.8
+Ingénieur Réseau,Btp,1,8000,8000,8000.0,8000.0,32.0,1,24.6
+Ingénieur Production,Industrie,1,8500,8500,8500.0,8500.0,30.0,1,27.7
+Consultant Sap Fi-Co/Ps (H/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Consultant Sap Mm/Sd/Ewm/Pp/Qm/Car (H/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Hôtesse D’Accueil - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+GESTIONNAIRE PAIE,Finance & Rh,1,8000,8000,8000.0,8000.0,15.0,1,39.6
+Consultant Sap Senior (H/F),Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Ingénieur Génie Civil,Btp,1,8000,8000,8000.0,8000.0,32.0,1,24.6
+Contrôleur - Marrakech,Finance & Rh,1,10500,10500,10500.0,10500.0,25.0,1,37.2
+Cuisinier - Oualidia,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+commercial b2b,Commerce,1,9000,9000,9000.0,9000.0,37.0,1,22.8
+commercial b 2 b,Commerce,1,12500,12500,12500.0,12500.0,19.0,1,47.5
+Caissier - Casablanca,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Cuisinière - Bouznika,Autres,1,9000,9000,9000.0,9000.0,25.0,1,33.3
+Cybersecurity,It & Tech,1,9100,9100,9100.0,9100.0,15.0,1,42.4
+Product Manager,It & Tech,1,12000,12000,12000.0,12000.0,22.0,1,43.6

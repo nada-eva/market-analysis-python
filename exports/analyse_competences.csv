@@ -1,51 +1,51 @@
 ﻿Competence,Frequence,Pct_Offres
-Agile,45,9.3
-Scrum,45,9.3
-Sage,44,9.1
-Autocad,44,9.1
-Éthique Médicale,43,8.9
-Aws,43,8.9
-Azure,42,8.7
-Mongodb,42,8.7
-React,42,8.7
-Audit,40,8.3
-Java,40,8.3
-Soins Infirmiers,40,8.3
-Rest Api,40,8.3
-Git,39,8.1
-Typescript,39,8.1
-Ifrs,39,8.1
-Paie,38,7.9
-Node.Js,38,7.9
-Docker,38,7.9
-Kubernetes,38,7.9
-Consolidation,37,7.7
-Diagnostic,37,7.7
-Sql,37,7.7
-Sap,36,7.5
-Droit Du Travail,36,7.5
-Javascript,35,7.3
-Linux,34,7.1
-Tensorflow,34,7.1
-Excel Avancé,33,6.8
-Pharmacologie,33,6.8
-Power Bi,33,6.8
-Amdec,30,6.2
-Plc,30,6.2
-Scada,30,6.2
-Lean Manufacturing,26,5.4
-Accueil Client,26,5.4
-Iso 9001,25,5.2
-Python,25,5.2
-Langues Étrangères,24,5.0
-Gestion Réservations,24,5.0
-Google Ads,22,4.6
-Négociation,21,4.4
-Email Marketing,21,4.4
-Seo,21,4.4
-Pack Office,21,4.4
-Salesforce,20,4.1
-Crm,19,3.9
-Solidworks,18,3.7
-Revit,17,3.5
-Béton Armé,17,3.5
+AutoCAD,37,4.7
+AWS,32,4.1
+SAP,31,4.0
+SAGE,31,4.0
+Éthique médicale,30,3.8
+React,30,3.8
+Azure,29,3.7
+Agile/Scrum,29,3.7
+Audit,27,3.4
+Consolidation,27,3.4
+Soins infirmiers,27,3.4
+TypeScript,27,3.4
+Kubernetes,27,3.4
+Paie,26,3.3
+Diagnostic,26,3.3
+PLC/SCADA,26,3.3
+Java,26,3.3
+IFRS,26,3.3
+Node.js,25,3.2
+Docker,25,3.2
+Droit du travail,25,3.2
+Pharmacologie,24,3.1
+MongoDB,24,3.1
+REST API,24,3.1
+Linux,24,3.1
+Git,23,2.9
+SQL,23,2.9
+JavaScript,22,2.8
+TensorFlow,22,2.8
+AMDEC,21,2.7
+Excel avancé,21,2.7
+Lean Manufacturing,19,2.4
+Power BI,19,2.4
+Accueil client,18,2.3
+ISO 9001,17,2.2
+Gestion réservations,17,2.2
+Python,17,2.2
+Négociation,16,2.0
+SEO,16,2.0
+Langues étrangères,16,2.0
+CRM,15,1.9
+Email Marketing,15,1.9
+Google Ads,15,1.9
+Salesforce,14,1.8
+Revit,14,1.8
+Béton armé,14,1.8
+Pack Office,14,1.8
+SolidWorks,14,1.8
+MS Project,13,1.7
+Analyse de marché,9,1.1

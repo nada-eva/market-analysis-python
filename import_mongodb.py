@@ -18,3 +18,6 @@ collection.insert_many(data)
 
 print(f"{len(data)} documents insérés dans MongoDB")
 print(f"Base : emploi_maroc | Collection : offres_brutes")
+
+
+

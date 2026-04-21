@@ -39,7 +39,8 @@ def normaliser_fuzzy(valeur, valeurs_valides, seuil=80):
         return None
     
     valeur_str = str(valeur).strip()
-    match, score = process.extractOne(valeur_str, valeurs_valides)
+    match, score, _ = process.extractOne(valeur_str, valeurs_valides)
+
     if score >= seuil:
         return match
     return valeur_str.title()
